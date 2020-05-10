@@ -1,0 +1,39 @@
+{
+  "categories": [
+	"Midsummer Nights Feast",
+	"Mod Bucket",
+    "bread",
+	"pumpkin",
+	"banana",
+	"oat",
+    "dough",
+    "orange"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.PumbanoatBreadDough",
+  "icon": "mods/Basic Staples/item/crafting/intermediate/PumbanoatBreadDough.qb",
+  "inHand": "mods/Basic Staples/item/crafting/intermediate/PumbanoatBreadDough.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 82,
+    "value": 183
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

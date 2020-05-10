@@ -1,0 +1,114 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.docks.Mill",
+  "craftingKeyword": "grind",
+  "nameTagOffset": {
+    "x": 0.0,
+    "y": 0.6,
+    "z": 0.0
+  },
+  "resultSite": "results",
+  "effectSite": "grinder",
+  "processDrawables": {
+    "oat": {
+      "voxels": "staxel/item/crops/oat.qb",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "corn": {
+      "voxels": "staxel/item/crops/corn.qb",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  },
+  "sites": [
+    {
+      "disallowManualDocking": true,
+      "siteName": "grinder",
+      "location": {
+        "x": 0.0,
+        "y": 1.125,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "allowStacks": true,
+      "siteName": "ingredient1",
+      "compact": true,
+      "location": {
+        "x": 0,
+        "y": 1.125,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "craftSite": true
+    },
+    {
+      "allowStacks": true,
+      "siteName": "ingredient2",
+      "compact": true,
+      "location": {
+        "x": 0,
+        "y": 1.125,
+        "z": 0.7
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "craftSite": true
+    },
+    {
+      "allowStacks": true,
+      "disallowManualDocking": true,
+      "siteName": "results",
+      "location": {
+        "x": 0.0,
+        "y": 1.125,
+        "z": -0.8
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "all",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "effectTrigger": "staxel.effect.DockItem",
+      "placeSoundGroup": "staxel.sounds.place.Item.dock",
+      "sites": [
+        "results",
+        "ingredient1",
+        "ingredient2"
+      ]
+    }
+  ]
+}

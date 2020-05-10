@@ -1,0 +1,10 @@
+{
+    "file": "mods/EasterFest/crafting/reactions/cooking/RoyalIcing.reaction",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"hidden": true,
+
+	},
+}

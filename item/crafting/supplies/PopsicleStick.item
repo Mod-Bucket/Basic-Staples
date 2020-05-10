@@ -1,0 +1,37 @@
+{
+  "categories": [
+  	"Basic",
+	"Staples",
+	"Mod Bucket",
+    "wood",
+    "stick",
+    "cream",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+  "icon": "mods/Basic Staples/item/crafting/supplies/PopsicleStick.qb",
+  "inHand": "mods/Basic Staples/item/crafting/supplies/PopsicleStick.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 2,
+    "value": 3
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

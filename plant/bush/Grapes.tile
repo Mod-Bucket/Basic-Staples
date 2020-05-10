@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/plant/bush/base.config",
+  "categories": [
+	"mod bucket",
+	"basic staples",
+    "bush",
+    "vine",
+    "plant",
+    "produce",
+    "growable",
+    "grapes",
+    "green",
+    "fruit",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.bush.Grapes",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 2
+    },
+//    "specification": "CCCC CCCC CXCC"
+  },
+  "searchable": false,
+  "variants": [
+    "mods/Basic Staples/plant/bush/Grapes.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic Staples/plant/bush/Grapes2.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic Staples/plant/bush/Grapes3.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic Staples/plant/bush/Grapes4.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic Staples/plant/bush/Grapes5.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic Staples/plant/bush/Grapes6.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic Staples/plant/bush/Grapes7.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic Staples/plant/bush/Grapes8.qb?size={40,55,40}?offset={0,0,0}"
+  ]
+}

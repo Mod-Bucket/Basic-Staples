@@ -1,0 +1,17 @@
+{
+    "file": "staxel/item/complete/cake/CakeCarrotBatter.item",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "icon": "mods/Basic Staples/item/crafting/cake/CakeCarrotBatter.qb",
+  "inHand": "mods/Basic Staples/item/crafting/cake/CakeCarrotBatter.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 806,
+    "value": 1344
+  },
+  
+    }
+}

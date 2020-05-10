@@ -1,0 +1,11 @@
+{
+  "availableInChargen": false,
+  "bodyType": [
+    "staxel.bodyType.Cow"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.accessories.eyes.Cow.normal",
+  "kind": "Eyes",
+  "model": "mods/Basic Staples/farmAnimals/Angus/AngusEyesNormal.qb",
+  "palettes": [],
+  "searchable": false
+}

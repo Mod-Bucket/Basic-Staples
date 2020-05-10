@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.BreadDough",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.PlainFlour"
+    },
+    {
+      "code": "staxel.item.crafting.WaterJar"
+    },
+    {
+      "code": "staxel.item.crafting.Yeast"
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 500,
+    "value": 600
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.BreadDough"
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.MixBreadDough",
+  ]
+}

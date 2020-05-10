@@ -1,0 +1,10 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.emote.tile.DeepFreezer.open",
+  "sound": "staxel.sound.crafting.Oven.open",
+  "animation": "aaa.mods.mb.BasicStaples.animation.tile.DeepFreezer.open",
+  "looped": false,
+  "sticky": true,
+  "categories": [
+    "emote"
+  ]
+}

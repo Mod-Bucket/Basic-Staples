@@ -1,0 +1,8 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.emote.tile.DeepFreezer.wait",
+  "animation": "aaa.mods.mb.BasicStaples.animation.tile.DeepFreezer.wait",
+  "sticky": true,
+  "categories": [
+    "emote"
+  ]
+}

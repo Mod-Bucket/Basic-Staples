@@ -1,0 +1,21 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.crafting.supplies.CarvePopsicleStick",
+  "recipeStep": "carve",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.gatherable.garbage.GarbageTwig",
+      "quantity": 1
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+      "quantity": 1
+    }
+  ],
+  "duration": 1,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.crafting.Carve",
+}

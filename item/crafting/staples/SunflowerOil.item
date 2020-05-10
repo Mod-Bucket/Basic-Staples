@@ -1,0 +1,39 @@
+{
+  "categories": [
+	"Basic",
+	"Staples",
+	"Mod Bucket",
+    "oil",
+    "sunflower",
+    "basic",
+    "cooking",
+    "frying"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.SunflowerOil",
+  "icon": "mods/Basic Staples/item/crafting/staples/SunflowerOil.qb",
+  "inHand": "mods/Basic Staples/item/crafting/staples/SunflowerOil.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 217,
+    "value": 320
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

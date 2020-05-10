@@ -1,0 +1,34 @@
+{
+    "file": "staxel/farmAnimals/rooster/Rooster.farmAnimal",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+		"paramAnimator": "staxel.paramAnimation.AnimalEat",
+		"eatPartcles": "staxel.particle.farmAnimals.ChickenEat",
+		"moods": {
+			"great": [
+				"staxel.accessories.eyes.Chicken.great"
+			],
+			"good": [
+				"staxel.accessories.eyes.Chicken.happy"
+			],
+			"normal": [
+				"staxel.accessories.eyes.Chicken.normal"
+			],
+			"bad": [
+				"staxel.accessories.eyes.Chicken.bad"
+			],
+			"horrible": [
+				"staxel.accessories.eyes.Chicken.horrible"
+			],
+			"sleeping": [
+				"staxel.accessories.eyes.Chicken.sleep"
+			],
+		},
+		"eggs": [
+			{
+				"code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Chicken"
+			}
+		],
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "categories": [
+	"Midsummer Nights Feast",
+	"Mod Bucket",
+    "vinegar",
+    "basic",
+    "cooking",
+    "frying"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.hiddenunlesspatched.staples.Vinegar",
+  "icon": "mods/Basic Staples/item/crafting/hiddenunlesspatched/staples/Vinegar.qb",
+  "inHand": "mods/Basic Staples/item/crafting/hiddenunlesspatched/staples/Vinegar.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 150,
+    "value": 245
+  },
+  "searchable": true,
+  "canBeEarntFromLuckyBox": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

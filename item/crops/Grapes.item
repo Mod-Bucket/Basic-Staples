@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"mod bucket",
+	"basic staples",
+    "market",
+    "grape",
+    "boilable",
+    "reapable",
+    "mixable",
+    "harvested",
+	"purple"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.Grapes",
+  "eatTime": 1,
+  "icon": "mods/Basic Staples/item/crops/Grapes.qb",
+  "inHand": "mods/Basic Staples/item/crops/Grapes.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.4,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 158,
+    "value": 230
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

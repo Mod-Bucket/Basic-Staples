@@ -1,0 +1,28 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.BoilButtermilk",
+  "recipeStep": "boil",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Milk"
+    },
+    {
+	  "code": "staxel.item.crafting.Yeast",
+    },
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.Buttermilk",
+	  "quantity": 1
+    }
+  ],
+  "duration": 10,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "milk"
+}

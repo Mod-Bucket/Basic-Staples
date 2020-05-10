@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+    "market",
+    "melted",
+    "chocolate",
+    "brown",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaLiquor",
+  "eatTime": 1,
+  "icon": "mods/Basic Staples/item/crafting/staples/CocoaLiquor.qb",
+  "inHand": "mods/Basic Staples/item/crafting/staples/CocoaLiquor.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 3.216,
+    "z": -1.54
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"swift"
+	]
+  },
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 192,
+    "value": 285
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

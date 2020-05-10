@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yp"
+  ],
+  "categories": [
+    "container",
+    "storage",
+    "barrel",
+    "cask",
+    "drum",
+    "keg",
+    "brown"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 91,
+    "value": 153
+  },
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 2
+    }
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Basic Staples/workbenches/HiddenUnlessPatched/Cask.qb"
+}

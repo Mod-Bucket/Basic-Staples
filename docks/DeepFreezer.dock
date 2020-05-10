@@ -1,0 +1,50 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.docks.DeepFreezer",
+  "craftingKeyword": "freeze",
+  "nameTagOffset": {
+    "x": 0.0,
+    "y": 0.6,
+    "z": 0.0
+  },
+  "resultSite": "grate",
+  "effectSite": "grate",
+  "removeReagentsOnCraftStart": false,
+  "sites": [
+    {
+      "siteName": "grate",
+      "location": {
+        "x": 0.0,
+        "y": 0.35,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "allowStacks": false,
+      "craftSite": true
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "all",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Item.dock",
+      "effectTrigger": "staxel.effect.DockItem",
+      "requiresActionCookie": {
+        "name": "containerState",
+        "value": "open"
+      }
+    }
+  ]
+}

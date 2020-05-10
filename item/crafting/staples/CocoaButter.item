@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "market",
+    "butter",
+    "mixable",
+    "fryable"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaButter",
+  "icon": "mods/Basic Staples/item/crafting/staples/CocoaButter.qb",
+  "inHand": "mods/Basic Staples/item/crafting/staples/CocoaButter.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 38,
+    "value": 64
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

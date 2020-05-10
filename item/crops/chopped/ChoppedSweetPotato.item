@@ -1,0 +1,41 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"mod bucket",
+	"basic staples",
+    "market",
+    "vegetable",
+    "sweet",
+    "potato",
+    "boilable",
+    "mixable",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedSweetPotato",
+  "eatTime": 1,
+  "icon": "mods/Basic Staples/item/crops/chopped/ChoppedSweetPotato.qb",
+  "inHand": "mods/Basic Staples/item/crops/chopped/ChoppedSweetPotato.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.4,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 403,
+    "value": 688
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Buttermilk",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.Milk"
+    },
+    {
+	  "code": "staxel.item.crafting.Yeast",
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 200
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.item.crafting.Buttermilk"
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.BoilButtermilk",
+  ]
+}

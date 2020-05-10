@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Midsummer Nights Feast",
+	"Mod Bucket",
+    "chocolate",
+    "cooking",
+    "tangerine",
+    "popsicle",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.complete.candy.ChocoTangerinePopsicle",
+  "icon": "mods/Basic Staples/item/complete/candy/ChocoTangerinePopsicle.qb",
+  "inHand": "mods/Basic Staples/item/complete/candy/ChocoTangerinePopsicle.qb",
+  "eatTime": 2,
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "isDrink": false,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 216,
+    "value": 360
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

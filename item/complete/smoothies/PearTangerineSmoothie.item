@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "market",
+    "smoothie",
+    "pear",
+    "tangerine",
+    "drink"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.complete.smoothies.PearTangerineSmoothie",
+  "eatTime": 2,
+  "icon": "mods/Basic Staples/item/complete/smoothies/PearTangerineSmoothie.qb",
+  "inHand": "mods/Basic Staples/item/complete/smoothies/PearTangerineSmoothie.qb",
+  "inHandOffset": {
+    "x": 0.1,
+    "y": -0.4,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0,
+    "y": -1.54,
+    "z": -2.00
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"swift",
+		"jumpy"
+	]
+  },
+  "isDrink": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 634,
+    "value": 1057
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "consumable": {
+    "colour": "FF342744",
+    "particles": "staxel.particle.item.Drink",
+    "sound": "staxel.sound.Player.drink.sip"
+  },
+}

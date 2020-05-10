@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "vial",
+    "glass",
+    "black",
+    "Mod Bucket",
+    "Easter",
+    "EasterFest",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.VialBlack",
+  "icon": "mods/Basic Staples/item/crafting/supplies/VialBlack.qb",
+  "inHand": "mods/Basic Staples/item/crafting/supplies/VialBlack.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

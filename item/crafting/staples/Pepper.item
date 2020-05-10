@@ -1,0 +1,37 @@
+{
+  "categories": [
+	"Midsummer Nights Feast",
+	"Mod Bucket",
+    "spice",
+    "pepper",
+    "seasoning",
+    "herb"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Pepper",
+  "icon": "staxel/item/crafting/Pepper.qb",
+  "inHand": "staxel/item/crafting/Pepper.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 111,
+    "value": 203
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/docks/SeedMaker.config",
+  "attachToBelow": true,
+  "categories": [
+    "seeds",
+    "furniture",
+    "brown",
+    "black",
+    "craftingStation",
+    "tool",
+    "seedMaker"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.workbenches.Mill",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "descriptionImage": "staxel/ui/image/CraftingIcons/ReapIcon.png",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Basic Staples/workbenches/Mill.qb"
+}

@@ -1,0 +1,8 @@
+{
+    "file": "staxel/item/crafting/Egg.item", 
+    "priority": 2, 
+    "mergeLists": false, 
+    "patch" : {
+  "stackSizeLimit": 999,
+				}
+}

@@ -1,0 +1,41 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"mod bucket",
+	"basic staples",
+    "market",
+    "grain",
+    "millable",
+    "boilable",
+    "reapable",
+    "harvested"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat",
+  "eatTime": 1,
+  "icon": "mods/Basic Staples/item/crops/Wheat.qb",
+  "inHand": "mods/Basic Staples/item/crops/Wheat.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.4,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 204,
+    "value": 340
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

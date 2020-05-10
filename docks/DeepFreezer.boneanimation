@@ -1,0 +1,34 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.boneAnimation.DeepFreezer",
+  "definition": "mods/Basic Staples/docks/DeepFreezer.bvh",
+  "offset": {
+    "x": 0.0,
+    "y": -0.748,
+    "z": 0.436
+  },
+  "translation": {
+    "x": 0.0,
+    "y": 0.0625,
+    "z": 0.0
+  },
+  "scale": 1.0,
+  "axismode": "XPZPYN",
+  "timelines": {
+    "tpose": {
+      "start": 0,
+      "end": 0
+    },
+    "aaa.mods.mb.BasicStaples.animation.tile.DeepFreezer.open": {
+      "start": 0,
+      "end": 10
+    },
+    "aaa.mods.mb.BasicStaples.animation.tile.DeepFreezer.wait": {
+      "start": 10,
+      "end": 10
+    },
+    "aaa.mods.mb.BasicStaples.animation.tile.DeepFreezer.close": {
+      "start": 10,
+      "end": 20
+    }
+  }
+}
