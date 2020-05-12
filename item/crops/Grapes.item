@@ -30,8 +30,8 @@
   "pricing": {
     "buyable": true,
     "catalogueUnlockedFromStart": true,
-    "sellPrice": 158,
-    "value": 230
+    "sellPrice": 761,
+    "value": 988
   },
   "searchable": true,
   "usageOffset": {

@@ -1,0 +1,37 @@
+{
+  "categories": [
+	"Midsummer Nights Feast",
+	"Mod Bucket",
+	"chip",
+	"chocolate",
+	"cookie",
+    "dough",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieChocolateChipUnbaked",
+  "icon": "mods/Basic Staples/item/crafting/intermediate/CookieChocolateChipUnbaked.qb",
+  "inHand": "mods/Basic Staples/item/crafting/intermediate/CookieChocolateChipUnbaked.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1100,
+    "value": 1550
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

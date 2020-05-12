@@ -3,8 +3,8 @@
 	"Midsummer Nights Feast",
 	"Mod Bucket",
     "meat",
-    "chicken",
-    "poultry",
+    "Bacon",
+    "cheese",
     "cooking"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.UncookedHamAndCheese",
@@ -25,8 +25,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,
-    "sellPrice": 65,
-    "value": 105
+    "sellPrice": 563,
+    "value": 939
   },
   "searchable": true,
   "usageOffset": {

@@ -1,0 +1,13 @@
+{
+    "file": "staxel/item/complete/pie/PiePeach.item",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 800,
+    "value": 1335
+  },
+    }
+}
