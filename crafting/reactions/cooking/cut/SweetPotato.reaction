@@ -1,0 +1,26 @@
+{
+  "name": "Chopped Sweet Potato",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.SweetPotato",
+  "recipeStep": "cut",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crops.SweetPotato",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.ChoppedSweetPotato",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effect": "staxel.effect.cooking.Chop"
+}

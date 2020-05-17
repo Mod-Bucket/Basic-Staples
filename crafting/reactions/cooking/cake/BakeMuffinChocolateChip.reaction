@@ -1,0 +1,22 @@
+{
+  "name": "Bake Chocolate Chip Muffins",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.BakeMuffinsChocolateChip",
+  "recipeStep": "bake",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterChocolateChip",
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.MuffinsChocolateChip",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

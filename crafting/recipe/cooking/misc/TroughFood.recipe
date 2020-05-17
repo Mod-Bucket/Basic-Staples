@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.misc.TroughFood",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "staxel.item.crops.Beet",
+    },
+    {
+      "code": "staxel.item.crops.Corn",
+    },
+    {
+      "code": "staxel.item.crops.Eggplant",
+    },
+	{
+      "code": "staxel.item.crops.Carrot",
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 200
+  },
+  "result": {
+    "count": 5,
+    "item": {
+      "code": "staxel.item.farmAnimals.TroughFood",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.misc.TroughFood",
+  ]
+}

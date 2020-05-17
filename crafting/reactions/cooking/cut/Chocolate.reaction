@@ -1,0 +1,26 @@
+{
+  "name": "Chopped Chocolate",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.ChoppedChocolate",
+  "recipeStep": "cut",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.CandyChocolateBar",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.ChoppedChocolate",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effect": "staxel.effect.cooking.Chop"
+}

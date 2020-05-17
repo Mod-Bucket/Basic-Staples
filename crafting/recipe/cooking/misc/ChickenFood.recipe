@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.misc.ChickenFood",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat",
+    },
+    {
+      "code": "staxel.item.crops.Oat"
+    },
+    {
+      "code": "staxel.item.gatherable.Cricket",
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 200
+  },
+  "result": {
+    "count": 5,
+    "item": {
+      "code": "staxel.item.farmAnimals.ChickenFood",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.misc.ChickenFood",
+  ]
+}

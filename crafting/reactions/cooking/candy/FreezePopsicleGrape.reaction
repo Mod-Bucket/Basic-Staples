@@ -1,0 +1,24 @@
+{
+  "name": "Freeze Grape Popsicle",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.FreezeGrapePopsicle",
+  "recipeStep": "freeze",
+  "tools": [],
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.DeepFreezer"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.GrapePopsicleMould"
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.candy.GrapePopsicle"
+    }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

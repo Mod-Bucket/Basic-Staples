@@ -17,10 +17,10 @@
     "size": {
       "x": 1,
       "y": 2,
-      "z": 1
+      "z": 2
     }
   },
-  "descriptionImage": "mods/Basic Staples/docks/BakeIcon.png",
+  "descriptionImage": "mods/Basic Staples/docks/FreezeIcon.png",
   "interactVerb": "controlHint.verb.Open",
   "pricing": {
     "buyable": true,

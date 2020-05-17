@@ -2,16 +2,16 @@
   "categories": [
     "market",
     "vegetable",
-    "coffeebean",
+    "coffee bean",
     "millable",
     "boilable",
     "reapable",
     "mixable",
     "harvested"
   ],
-  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RoastedCoffeeBean",
-  "icon": "mods/Basic Staples/item/crafting/staples/RoastedCoffeeBean.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/RoastedCoffeeBean.qb",
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCoffeeBean",
+  "icon": "mods/Basic Staples/item/crafting/intermediate/RoastedCoffeeBean.qb",
+  "inHand": "mods/Basic Staples/item/crafting/intermediate/RoastedCoffeeBean.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

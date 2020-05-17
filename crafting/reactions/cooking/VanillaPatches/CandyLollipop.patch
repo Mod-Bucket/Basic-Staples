@@ -1,0 +1,10 @@
+{
+    "file": "staxel/crafting/reactions/cooking/candy/CandyLollipop.reaction",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"hidden": true,
+
+    }
+}

@@ -2,7 +2,9 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.MixIcing",
   "recipeStep": "mix",
-  "tools": [
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
   ],
   "reagents": [
     {
@@ -19,5 +21,12 @@
       "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Icing"
     }
   ],
-  "effectTrigger": "staxel.effect.cooking.Combine"
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
 }

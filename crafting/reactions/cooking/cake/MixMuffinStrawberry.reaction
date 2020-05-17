@@ -1,0 +1,31 @@
+{
+  "name": "Mix Strawberry Muffin Batter",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.MixMuffinStrawberry",
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.MuffinBatter",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedStrawberries",
+    },
+  ],
+  "results": [
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterStrawberry",
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "duration": 5,
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

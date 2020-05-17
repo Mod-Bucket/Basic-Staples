@@ -28,7 +28,7 @@
   "kind": "staxel.item.CraftItem",
   "pricing": {
     "buyable": true,
-    "catalogueUnlockedFromStart": true,
+    "catalogueUnlockedFromStart": false,
     "sellPrice": 403,
     "value": 688
   },

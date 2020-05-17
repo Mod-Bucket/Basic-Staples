@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.BakeCocoa",
+  "recipeStep": "bake",
+  "tools": [
+  ],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crops.Cocoa",
+    }
+  ],
+  "results": [
+    {
+      "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.BakeRoastedCacao",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

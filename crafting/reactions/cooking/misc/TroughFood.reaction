@@ -1,0 +1,37 @@
+{
+  "name": "Mix Trough Food",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.misc.TroughFood",
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crops.Beet",
+    },
+    {
+      "code": "staxel.item.crops.Corn",
+    },
+    {
+      "code": "staxel.item.crops.Eggplant",
+    },
+	{
+      "code": "staxel.item.crops.Carrot",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.farmAnimals.TroughFood",
+      "quantity": 5
+    }
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "duration": 5,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}
