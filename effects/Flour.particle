@@ -1,0 +1,40 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.particle.flour",
+  "position": {
+    "x": 0.0,
+    "y": 0.125,
+    "z": 0.0
+  },
+  "positionSpread": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "gravityFactor": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "emitVelocity": {
+    "x": 0.0,
+    "y": 0.6,
+    "z": 0.0
+  },
+  "emitVelocitySpread": {
+    "x": 2,
+    "y": 2,
+    "z": 2
+  },
+  "color": "ffFCE4A0",
+  "colorSpread": {
+    "x": 0.01,
+    "y": 0.01,
+    "z": 0.0,
+  },
+  "particlesPerSecond": 200.0,
+  "liveDuration": 0.5,
+  "angularVelocity": 1.0,
+  "scale": 0.5,
+  "scaleSpread": 0.01,
+  "emitDuration": 1.0,
+}

@@ -2,20 +2,24 @@
   "code": "aaa.mods.mb.BasicStaples.treasure.BakeRoastedCacao",
   "entries": [
     {
-      "weight": 20.0,
+      "weight": 19.0,
       "items": [
         {
           "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaButter",
 		  "quantity": 4
         }
       ]
-    }
+    },
 	{
-      "weight": 10.0,
+      "weight": 1.0,
       "items": [
         {
           "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaLiquor",
-        }
+        },
+		{
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaButter",
+		  "quantity": 3
+        },
       ]
     }
   ]

@@ -30,5 +30,6 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "customRendererVoxels": "mods/Basic Staples/workbenches/DeepFreezer.qb",
   "voxels": "mods/Basic Staples/workbenches/DeepFreezer.qb"
 }

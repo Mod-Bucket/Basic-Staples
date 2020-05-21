@@ -1,0 +1,28 @@
+{
+
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.CornOil",
+  "recipeStep": "grind",
+  "moveResultsToSite": "results",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 3,
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.Mill"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.JarEmpty",
+    },
+	{
+      "code": "staxel.item.crops.Corn",
+    }
+  ],
+  "results": [
+    {
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CornOil",
+    }
+  ],
+  "duration": 3/* seconds*/,
+  "effect": "aaa.mods.mb.BasicStaples.effect.MillGrind"/*only valid with duration*/,
+  //"effectTrigger": "staxel.effect.crafting.SeedMaker.result"
+}

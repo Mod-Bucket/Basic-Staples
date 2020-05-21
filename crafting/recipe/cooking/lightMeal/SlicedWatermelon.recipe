@@ -1,6 +1,6 @@
 {
   "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
-  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Yeast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.SlicedWatermelon",
   "grouping": "starters",
   "ingredients": [
     {

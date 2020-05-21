@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.CookingOil",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.JarEmpty",
+	  "quantity": 2
+    },
+	{
+      "code": "staxel.item.crops.Sunflower",
+    },
+	{
+      "code": "staxel.item.crops.Corn",
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 500,
+    "value": 600
+  },
+  "result": {
+	  "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
+	  },
+	  "count": 4,
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.CornOil",
+    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.SunflowerOil",
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.MixCookingOil",
+  ]
+}

@@ -7,48 +7,34 @@
     "z": 0.0
   },
   "resultSite": "results",
-  "effectSite": "grinder",
-  "processDrawables": {
-    "oat": {
-      "voxels": "staxel/item/crops/oat.qb",
-      "offset": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    },
-    "corn": {
-      "voxels": "staxel/item/crops/corn.qb",
-      "offset": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    }
-  },
+  "effectSite": "spout",
+//  "processDrawables": {
+//    "oat": {
+//      "voxels": "staxel/item/crops/oat.qb",
+//      "offset": {
+//        "x": 0.0,
+//        "y": 0.0,
+//        "z": 0.0
+//      }
+//    },
+//    "corn": {
+//      "voxels": "staxel/item/crops/corn.qb",
+//      "offset": {
+//        "x": 0.0,
+//        "y": 0.0,
+//        "z": 0.0
+//      }
+//    }
+//  },
   "sites": [
-    {
-      "disallowManualDocking": true,
-      "siteName": "grinder",
-      "location": {
-        "x": 0.0,
-        "y": 1.125,
-        "z": 0.0
-      },
-      "rotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    },
     {
       "allowStacks": true,
       "siteName": "ingredient1",
       "compact": true,
       "location": {
-        "x": 0,
-        "y": 1.125,
-        "z": 1.0
+        "x": -0.8125,
+        "y": 1.25,
+        "z": -0.25
       },
       "rotation": {
         "x": 0.0,
@@ -62,9 +48,9 @@
       "siteName": "ingredient2",
       "compact": true,
       "location": {
-        "x": 0,
-        "y": 1.125,
-        "z": 0.7
+        "x": -0.8125,
+        "y": 1.25,
+        "z": 0.1875
       },
       "rotation": {
         "x": 0.0,
@@ -74,13 +60,29 @@
       "craftSite": true
     },
     {
+      "allowStacks": false,
+	  "compact": true,
+      "disallowManualDocking": true,
+      "siteName": "spout",
+      "location": {
+        "x": -0.25,
+        "y": 1.75,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
       "allowStacks": true,
       "disallowManualDocking": true,
       "siteName": "results",
       "location": {
-        "x": 0.0,
-        "y": 1.125,
-        "z": -0.8
+        "x": 0.5,
+        "y": 1.3125,
+        "z": 0.0
       },
       "rotation": {
         "x": 0.0,

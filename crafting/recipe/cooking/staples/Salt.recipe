@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Salt",
+  "grouping": "starters",
+  "ingredients": [
+    {
+	  "code" : "staxel.item.SoakedSponge",
+      "waterBlockCode": "staxel.tile.ocean.OceanTile",
+	  "quantity": 1
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 200
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.item.crafting.Salt",
+	  "quantity": 10
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.BoilSalt",
+  ]
+}

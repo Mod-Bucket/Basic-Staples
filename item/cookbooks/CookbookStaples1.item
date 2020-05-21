@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "book",
+	"cook",
+	"recipe",
+	"recipes",
+	"cookbook"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.cookbooks.CookbookStaples1",
+  "gatherable": {
+    "catchable": {
+      "seasons": [
+        "summer",
+        "autumn",
+        "winter",
+        "spring"
+      ],
+	  "tile": "aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookStaples1",
+      "catchTreasure": "aaa.mods.mb.BasicStaples.treasure.CookbookStaples1"
+    },
+    "isCatchable": true
+  },
+  "icon": "mods/Basic Staples/item/cookbooks/CookbookStaples1.qb",
+  "inHand": "mods/Basic Staples/item/cookbooks/CookbookStaples1.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.2,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.5399999618530273,
+    "z": -1.5399999618530273
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "renderHeight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "searchable": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

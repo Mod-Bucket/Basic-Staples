@@ -1,0 +1,25 @@
+{
+
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.OilCPatches.SunflowerOil",
+  "automationDelay": 5,
+  "moveResultsToSite": "oilSite",
+  "automated": true,
+  "recipeStep": "Crush",
+  "tools": [
+  ],
+  "docks": [
+    "mods.OilC.docks.Crusher"
+  ],
+  "reagents": [
+    { "code": "staxel.item.crops.Sunflower"},
+  ],
+  "results": [
+    {
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.SunflowerOil",
+	  "quantity": 2
+	},
+  ],
+  "duration": 5,
+  "effectTrigger": "staxel.effect.crafting.SeedMaker.result",
+  "effect": "staxel.effect.crafting.SeedMaker",
+}

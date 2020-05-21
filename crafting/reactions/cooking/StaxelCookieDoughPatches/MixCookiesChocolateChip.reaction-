@@ -1,0 +1,37 @@
+{
+  "name": "Mix ChocolateChip Cookies Dough",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.StaxelCookieDough.ChocolateChip",
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "mods.StaxelCookieDough.CookieDough",
+	  "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.BrownSugar",
+	  "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.ChoppedChocolate",
+	  "quantity": 1
+    },
+  ],
+  "results": [
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieChocolateChipUnbaked",
+	"quantity": 1
+	}
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "duration": 5,
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

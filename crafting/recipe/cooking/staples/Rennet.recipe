@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Rennet",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.WaterJar",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.quest.SecretIngredient",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.Yeast",
+      "quantity": 1
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 200
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Rennet",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.MixRennet",
+  ]
+}

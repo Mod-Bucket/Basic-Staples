@@ -1,0 +1,25 @@
+{
+
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.OilCPatches.CornOil",
+  "automationDelay": 5,
+  "moveResultsToSite": "oilSite",
+  "automated": true,
+  "recipeStep": "Crush",
+  "tools": [
+  ],
+  "docks": [
+    "mods.OilC.docks.Crusher"
+  ],
+  "reagents": [
+    { "code": "staxel.item.crops.Corn"},
+  ],
+  "results": [
+    {
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CornOil",
+	  "quantity": 2
+	},
+  ],
+  "duration": 5,
+  "effectTrigger": "staxel.effect.crafting.SeedMaker.result",
+  "effect": "staxel.effect.crafting.SeedMaker",
+}

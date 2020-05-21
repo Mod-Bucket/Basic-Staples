@@ -1,0 +1,50 @@
+{
+  "categories": [
+    "market",
+    "coffee",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso",
+  "icon": "staxel/item/quest/Rowan/OrderForAliza.qb",
+  "inHand": "staxel/item/quest/Rowan/OrderForAliza.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.125,
+    "z": -0.300
+  },
+  "inHandRotation": {
+    "x": -2,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "appliesStatus": {
+    "statuses": [
+      "Swift"
+    ],
+    "removes": [
+      "Sleepy",
+      "Exhausted"
+    ],
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 500,
+    "value": 625
+  },
+  "eatTime": 2,
+  "consumable": {
+    "colour": "FF704a1f",
+    "particles": "staxel.particle.item.Drink",
+    "sound": "staxel.sound.Player.drink.sip"
+  },
+  "isDrink": true,
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

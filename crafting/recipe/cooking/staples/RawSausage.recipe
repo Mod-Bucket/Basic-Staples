@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.RawSausage",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Beef",
+      "quantity": 1
+    },
+	{
+	  "code": "staxel.item.crafting.Bacon",
+	},
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 200
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RawSausage",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.MixRawSausage",
+  ]
+}

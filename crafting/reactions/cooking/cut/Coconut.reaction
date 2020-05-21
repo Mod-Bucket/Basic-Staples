@@ -9,12 +9,12 @@
   "requirements": [],
   "reagents": [
     {
-      "code": "staxel.item.crops.Watermelon",
+      "code": "staxel.item.crops.Coconut",
     }
   ],
   "results": [
     {
-      "code": "staxel.item.crops.Coconut",
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCoconut",
     }
   ],
   "moveResultsToSite": "results",

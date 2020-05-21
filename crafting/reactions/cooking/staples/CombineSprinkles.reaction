@@ -1,0 +1,28 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.CombineSprinkles",
+  "recipeStep": "combine",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.gatherable.garbage.EmptyBottle",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.VialMixed",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RoyalIcing",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+	  "quantity": 8,
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Sprinkles",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

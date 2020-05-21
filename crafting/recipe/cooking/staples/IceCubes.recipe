@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.IceCubes",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.WaterJar"
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 200
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.item.gatherable.Snowball",
+    }
+  },
+  "searchable": true,
+  "starter": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.FreezeIceCubes",
+  ]
+}

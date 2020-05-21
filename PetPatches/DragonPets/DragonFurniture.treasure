@@ -1,0 +1,153 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.DragonFurniture",
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawArmChair"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawChair"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawDesk"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawWardrobe"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawDoubleBed"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawTable"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawSideTable"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawLoveseat"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawLamp"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.dungeon.TreasureChest",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.dungeon.MoneyPileLarge",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.dungeon.MoneyPile",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
+          "quantity": 3
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.CatTurnip",
+          "quantity": 3
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.DragonFruitTree",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

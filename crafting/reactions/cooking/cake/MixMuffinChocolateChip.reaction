@@ -1,6 +1,6 @@
 {
   "name": "Mix Chocolate Chip Muffins Batter",
-  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.MixMuffinChocolateChip",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.MixMuffinChocolateChip",
   "recipeStep": "mix",
   "tools": [],
   "docks": [
@@ -18,7 +18,9 @@
     },
   ],
   "results": [
+	{
     "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterChocolateChip",
+	}
   ],
   "moveResultsToSite": "results",
   "triggerDurationCraftManually": true,

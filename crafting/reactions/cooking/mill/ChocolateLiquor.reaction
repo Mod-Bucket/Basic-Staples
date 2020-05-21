@@ -1,0 +1,27 @@
+{
+
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.ChocolateLiquor",
+  "recipeStep": "grind",
+  "moveResultsToSite": "results",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 4,
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.Mill"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaButter",
+    }
+  ],
+  "results": [
+    {
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaLiquor",
+    }
+  ],
+  "duration": 4/* seconds*/,
+  "effect": "aaa.mods.mb.BasicStaples.effect.MillGrind"/*only valid with duration*/,
+}

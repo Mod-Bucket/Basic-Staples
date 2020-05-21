@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.RedJuice",
+  "grouping": "drinks",
+  "ingredients": [
+	{
+      "code": "staxel.item.crafting.WaterJar",
+	  "quantity": 1
+    },
+	{
+      "code": "staxel.item.crafting.RedPetal",
+	  "quantity": 1
+    },
+	{
+      "code": "staxel.item.crafting.WhiteSugar",
+	  "quantity": 1
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 20
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.item.crafting.RedJuice",
+    }
+  },
+  "searchable": true,
+  "steps": [
+	"aaa.mods.mb.BasicStaples.crafting.reactions.cooking.drinks.MixRedJuice",
+  ]
+}

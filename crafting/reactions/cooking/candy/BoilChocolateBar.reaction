@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.BoilChocolateBar",
+  "recipeStep": "boil",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaButter",
+    },
+	
+  ],
+  "results": [
+    {
+	  "code": "staxel.item.crafting.CandyChocolateBar",
+	  "quantity": 4
+    }
+  ],
+  "duration": 5,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "water"
+}

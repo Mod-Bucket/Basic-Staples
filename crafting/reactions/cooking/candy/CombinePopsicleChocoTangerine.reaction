@@ -5,7 +5,7 @@
   "tools": [],
   "reagents": [
     {
-      "code": "staxel.item.crafting.TangerinePopsicle",
+      "code": "aaa.mods.mb.BasicStaples.item.complete.candy.TangerinePopsicle",
     },
     {
       "code": "staxel.item.crafting.CandyChocolateBar",
@@ -16,7 +16,7 @@
   ],
   "results": [
     {
-      "code": "staxel.item.crafting.ChocoTangerinePopsicle",
+      "code": "aaa.mods.mb.BasicStaples.item.complete.candy.ChocoTangerinePopsicle",
     }
   ],
   "effectTrigger": "staxel.effect.cooking.Combine"

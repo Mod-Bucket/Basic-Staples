@@ -1,0 +1,41 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.lightMeal.CrispyEggplant",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.Egg",
+      "quantity": 2
+    },
+    {
+      "code": "staxel.item.crafting.PlainFlour"
+    },
+    {
+      "code": "staxel.item.crafting.Salt"
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
+    },
+    {
+      "code": "staxel.item.crops.Eggplant"
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 200
+  },
+  "result": {
+    "count": 1,
+    "item": {
+		"code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.CrispyEggplant",
+    }
+  },
+  "searchable": true,
+  "steps": [
+		"staxel.crafting.reaction.MixBatter",
+		"staxel.crafting.reaction.CutEggplant",
+		"aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.FryCrispyEggplant",
+  ]
+}

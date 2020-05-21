@@ -1,0 +1,29 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.FryPancakes",
+  "recipeStep": "fry",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PancakeBatter"
+    },
+	{
+      "code": "staxel.item.gatherable.HoneyPotFull",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBanana",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedStrawberries",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.cake.StrawberryBananaPancakes",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

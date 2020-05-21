@@ -7,7 +7,9 @@
     "staxel.tileObject.serverVillage.BakingStation"
   ],
   "reagents": [
+	{
     "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterStrawberry",
+	}
   ],
   "results": [
     {

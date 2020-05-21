@@ -1,0 +1,10 @@
+{
+  "__inherits": "staxel/effect/base.config",
+  "code": "aaa.mods.mb.BasicStaples.effect.MillGrind",
+  "particles": [
+    "aaa.mods.mb.BasicStaples.particle.flour",
+  ],
+  "sounds": [
+    "staxel.sound.crafting.ChoppingStation.On"
+  ]
+}

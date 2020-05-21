@@ -1,0 +1,25 @@
+{
+  "name": "Make Plain Flour",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.OatFlour",
+  "recipeStep": "grind",
+  "moveResultsToSite": "results",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 5,
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.Mill"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crops.Oat",
+    }
+  ],
+  "results": [
+    {
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.OatFlour",
+    }
+  ],
+  "duration": 5/* seconds*/,
+  "effect": "aaa.mods.mb.BasicStaples.effect.MillGrind"/*only valid with duration*/,
+
+}

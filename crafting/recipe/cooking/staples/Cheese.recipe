@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Cheese",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Rennet",
+      "quantity": 1
+    },
+	{
+	  "code": "staxel.item.crafting.Milk",
+    },
+	{
+	  "code": "staxel.item.crafting.SackCloth",
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 50,
+    "value": 100
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.item.crafting.Cheese",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.BoilCheese",
+  ]
+}

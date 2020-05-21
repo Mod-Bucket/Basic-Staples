@@ -19,6 +19,6 @@
   "duration": 10,
   "triggerDurationCraftManually": true,
   "triggerDockAction": "staxel.entityAction.OpenOvenAction",
-  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effect": "aaa.mods.mb.BasicStaples.effect.FreezerChill",
   "effectTrigger": "staxel.effect.DockItem"
 }

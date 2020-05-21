@@ -1,14 +1,12 @@
 {
-  "__inherits": "staxel/docks/SeedMaker.config",
+  "__inherits": "mods/Basic Staples/docks/Mill.config",
   "attachToBelow": true,
   "categories": [
-    "seeds",
+    "grinder",
     "furniture",
-    "brown",
-    "black",
     "craftingStation",
     "tool",
-    "seedMaker"
+    "mill"
   ],
   "code": "aaa.mods.mb.BasicStaples.workbenches.Mill",
   "compound": {
@@ -18,7 +16,7 @@
       "z": 1
     }
   },
-  "descriptionImage": "staxel/ui/image/CraftingIcons/ReapIcon.png",
+  "descriptionImage": "staxel/ui/image/CraftingIcons/MillIcon.png",
   "pricing": {
     "buyable": true,
     "catalogueUnlockedFromStart": true,

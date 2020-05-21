@@ -1,0 +1,24 @@
+{
+  "name": "Freeze Mint Popsicle",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.FreezeIceCubes",
+  "recipeStep": "freeze",
+  "tools": [],
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.DeepFreezer"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.WaterJar",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.IceCubes",
+    }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "aaa.mods.mb.BasicStaples.effect.FreezerChill",
+  "effectTrigger": "staxel.effect.DockItem"
+}

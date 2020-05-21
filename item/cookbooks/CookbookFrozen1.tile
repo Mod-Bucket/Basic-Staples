@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/gatherables/catchables/catchableWithNet.config",
+  "categories": [
+    "book",
+	"cook",
+	"recipe",
+	"recipes",
+	"cookbook"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookFrozen1",
+  "interactActionTrigger": "staxel.entityAction.HandCatchAction",
+  "interactVerb": "controlHint.verb.Open",
+  "placementDirections": [
+    "yn"
+  ],
+  "prefetchTileState": true,
+  "randomizePosition": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 2,
+    "value": 3
+  },
+  "searchable": true,
+  "tileStateKind": "staxel.tileState.Catchable",
+  "voxels": "mods/Basic Staples/item/cookbooks/CookbookFrozen1.qb"
+}

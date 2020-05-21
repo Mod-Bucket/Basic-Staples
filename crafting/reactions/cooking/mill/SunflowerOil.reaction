@@ -1,0 +1,27 @@
+{
+
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.SunflowerOil",
+  "recipeStep": "grind",
+  "moveResultsToSite": "results",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 3,
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.Mill"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.JarEmpty",
+    },
+	{
+      "code": "staxel.item.crops.Sunflower",
+    }
+  ],
+  "results": [
+    {
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.SunflowerOil",
+    }
+  ],
+  "duration": 3/* seconds*/,
+  "effect": "aaa.mods.mb.BasicStaples.effect.MillGrind"/*only valid with duration*/,
+}

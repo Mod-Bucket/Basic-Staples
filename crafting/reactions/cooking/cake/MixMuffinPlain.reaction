@@ -1,6 +1,6 @@
 {
   "name": "Mix Plain Muffins Batter",
-  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.MixMuffinPlain",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.MixMuffinPlain",
   "recipeStep": "mix",
   "tools": [],
   "docks": [
@@ -15,7 +15,9 @@
     },
   ],
   "results": [
+	{
     "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterPlain",
+	}
   ],
   "moveResultsToSite": "results",
   "triggerDurationCraftManually": true,

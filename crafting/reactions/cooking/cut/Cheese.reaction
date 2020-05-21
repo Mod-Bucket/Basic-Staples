@@ -1,0 +1,27 @@
+{
+  "name": "Sliced Watermelon",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.SwissCheeseSliced",
+  "recipeStep": "cut",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Cheese",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.SwissCheeseSlice",
+	  "quantity": 4
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effect": "staxel.effect.cooking.Chop"
+}

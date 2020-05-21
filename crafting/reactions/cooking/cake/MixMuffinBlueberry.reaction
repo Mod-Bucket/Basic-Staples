@@ -1,6 +1,6 @@
 {
   "name": "Mix Blueberry Muffins Batter",
-  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.MixMuffinBlueberry",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.MixMuffinBlueberry",
   "recipeStep": "mix",
   "tools": [],
   "docks": [
@@ -18,7 +18,9 @@
 	},
   ],
   "results": [
+	{
     "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterBlueberry",
+	}
   ],
   "moveResultsToSite": "results",
   "triggerDurationCraftManually": true,

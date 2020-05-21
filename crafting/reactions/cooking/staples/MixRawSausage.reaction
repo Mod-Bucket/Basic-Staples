@@ -11,10 +11,6 @@
       "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Beef",
       "quantity": 1
     },
-    {
-      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Chicken",
-      "quantity": 1
-    },
 	{
 	  "code": "staxel.item.crafting.Bacon",
 	},

@@ -1,0 +1,26 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.FrySweetPotatoChips",
+  "recipeStep": "fry",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.ChoppedSweetPotato",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
+    },
+	{
+      "code": "staxel.item.crafting.BrownSugar",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.SweetPotatoChips",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

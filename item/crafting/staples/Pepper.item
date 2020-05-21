@@ -23,7 +23,7 @@
   "isDockable": true,
   "kind": "staxel.item.CraftItem",
   "pricing": {
-    "catalogueUnlockedFromStart": false,
+    "catalogueUnlockedFromStart": true,
     "buyable": true,
     "sellPrice": 95,
     "value": 120

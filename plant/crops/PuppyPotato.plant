@@ -1,0 +1,226 @@
+{
+  "categories": [
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+    "potato",
+    "vegetable",
+    "white",
+    "seed",
+    "seeds",
+    "packet"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant",
+  "icon": "mods/Basic Staples/plant/crops/PuppyPotatoSeedpacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 7,
+    "value": 35
+  },
+  "searchable": true,
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "stages": {
+    "PotatoFruited": {
+      "alt": 5,
+      "interactionEntityAction": "staxel.entityAction.HarvestPullable",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.PuppyPotatoHarvest",
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "PotatoWiltedFruited",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoSprout1": {
+      "alt": 1,
+      "grow": "PotatoSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "PotatoWilted1",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoSprout2": {
+      "alt": 2,
+      "grow": "PotatoSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "PotatoWilted2",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoSprout3": {
+      "alt": 3,
+      "grow": "PotatoSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "PotatoWilted3",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoSprout4": {
+      "alt": 4,
+      "grow": "PotatoFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "PotatoWilted4",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoWilted1": {
+      "alt": 6,
+      "grow": "PotatoSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "PotatoWithered1",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoWilted2": {
+      "alt": 7,
+      "grow": "PotatoSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "PotatoWithered2",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoWilted3": {
+      "alt": 8,
+      "grow": "PotatoSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "PotatoWithered3",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoWilted4": {
+      "alt": 9,
+      "grow": "PotatoSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "PotatoWithered4",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoWiltedFruited": {
+      "alt": 10,
+      "grow": "PotatoFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "PotatoWitheredFruited",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PotatoWithered1": {
+      "alt": 11,
+      "scytheable": {}
+    },
+    "PotatoWithered2": {
+      "alt": 12,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "PotatoWithered3": {
+      "alt": 13,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "PotatoWithered4": {
+      "alt": 14,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "PotatoWitheredFruited": {
+      "alt": 15,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "PotatoSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato"
+}

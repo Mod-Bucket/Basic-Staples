@@ -1,0 +1,11 @@
+{
+  "__inherits": "staxel/effect/base.config",
+  "code": "aaa.mods.mb.BasicStaples.effect.FreezerChill",
+  "sounds": [
+    "staxel.sound.crafting.Oven.on"
+  ],
+  "particles": [
+    "aaa.mods.mb.BasicStaples.particle.Freeze"
+  ],
+  "dockTileRotation": true
+}
