@@ -2,6 +2,8 @@
   "__inherits": "mods/Basic Staples/docks/DeepFreezer.config",
   "attachToBelow": true,
   "categories": [
+	"Basic Staples",
+	"Mod Bucket",
     "kitchen",
     "Freezer",
     "furniture",
@@ -10,7 +12,10 @@
     "station",
     "DeepFreezer",
     "tool",
-    "freeze"
+    "freeze",
+	"chill",
+	"refirgerate",
+	"cool"
   ],
   "code": "aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer",
   "compound": {

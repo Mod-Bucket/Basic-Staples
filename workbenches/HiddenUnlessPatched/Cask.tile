@@ -4,13 +4,17 @@
     "yp"
   ],
   "categories": [
-    "container",
-    "storage",
+	"Basic Staples",
+	"Mod Bucket",
     "barrel",
     "cask",
     "drum",
     "keg",
-    "brown"
+    "brown",
+	"ferment",
+	"age",
+	"aged",
+	"pickle"
   ],
   "code": "aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask",
   "pricing": {

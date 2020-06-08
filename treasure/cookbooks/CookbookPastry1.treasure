@@ -1,0 +1,60 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.CookbookPastry1",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.CakeChocolate",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.CakeCheese",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.CakeCarrot",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.Pancakes",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.IcedCake",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.PlainCookies",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.ChocolateChipCookies",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.ChocolateChipMuffins",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.BlueberryMuffins",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.StrawberryMuffins",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.PlainMuffins",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.StrawberryBananaPancakes",
+        },
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.CakePlain"}, //Starter
+      ]
+    },
+  ]
+}

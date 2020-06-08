@@ -1,8 +1,8 @@
 {
   "__inherits": "staxel/plant/crop/base.config",
   "categories": [
-	"mod bucket",
-	"basic staples",
+	"Basic Staples",
+	"Mod Bucket",
     "crop",
     "plant",
     "produce",

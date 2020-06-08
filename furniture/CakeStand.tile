@@ -1,9 +1,8 @@
 {
   "__inherits": "staxel/docks/dockBase.config",
   "categories": [
-    "Mod Bucket",
-    "Basic",
-    "Staples",
+	"Basic Staples",
+	"Mod Bucket",
 	"cake",
 	"display",
 	"white",

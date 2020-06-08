@@ -1,0 +1,78 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.CookbookStarters1",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.MakeSugar2",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.BasicSalad",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.MushroomRisotto",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.Porridge",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.lightMeal.BoiledEgg",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.MakeSyrup",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.CakePlain",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.SoupBeetroot",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.SoupCabbage",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.SoupCarrot",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.SoupTomato",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.SoupTurnip",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.SoupVegetable",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Snowball"
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.IceCubes"
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.CornOil"
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.SunflowerOil"
+        },
+      ]
+    },
+  ]
+}

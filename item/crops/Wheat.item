@@ -1,9 +1,8 @@
 {
   "__inherits": "staxel/item/edible.config",
   "categories": [
-	"mod bucket",
-	"basic staples",
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "grain",
     "millable",
     "boilable",

@@ -1,0 +1,39 @@
+{
+  "categories": [
+	"Midsummer Nights Feast",
+	"Basic Staples",
+	"Mod Bucket",
+    "icing",
+    "frosting",
+    "dessert",
+    "white"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.ButtercreamFrosting",
+  "icon": "mods/Basic Staples/item/crafting/staples/ButtercreamFrosting.qb",
+  "inHand": "mods/Basic Staples/item/crafting/staples/ButtercreamFrosting.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 150,
+    "value": 245
+  },
+  "searchable": true,
+  "canBeEarntFromLuckyBox": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -1,13 +1,12 @@
 {
   "categories": [
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "vegetable",
     "coffeebean",
     "grounds",
     "boilable",
-    "reapable",
-    "mixable",
-    "harvested"
+    "mixable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoffeeGrounds",
   "icon": "mods/Basic Staples/item/crafting/staples/CoffeeGrounds.qb",

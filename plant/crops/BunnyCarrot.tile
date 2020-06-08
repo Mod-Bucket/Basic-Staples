@@ -1,8 +1,14 @@
 {
   "__inherits": "staxel/plant/crop/base.config",
   "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"Easterfest",
+	"Easter",
     "crop",
     "plant",
+	"rabbit",
+	"bunny",
     "produce",
     "growable",
     "Carrot",

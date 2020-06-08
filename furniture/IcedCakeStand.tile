@@ -1,6 +1,8 @@
 {
   "__inherits": "staxel/tileObject/base.config",
   "categories": [
+	"Basic Staples",
+	"Mod Bucket",
     "IcedCakeStand",
     "patisserie",
     "decoration",

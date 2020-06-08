@@ -1,0 +1,36 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "spice",
+    "Vanilla",
+    "seasoning",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Vanilla",
+  "icon": "mods/Basic Staples/item/crafting/staples/Vanilla.qb",
+  "inHand": "mods/Basic Staples/item/crafting/staples/Vanilla.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 175,
+    "value": 250
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

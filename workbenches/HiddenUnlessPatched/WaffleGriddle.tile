@@ -3,6 +3,9 @@
   "customRendererVoxels": "mods/Basic Staples/workbenches/HiddenUnlessPatched/WaffleGriddle.qb",
   "attachToBelow": true,
   "categories": [
+	"Midsummer Nights Feast",
+	"Basic Staples",
+	"Mod Bucket",
     "patisserie",
     "mixing",
     "cooking",
@@ -11,7 +14,10 @@
     "blue",
     "craftingStation",
     "tool",
-    "mix"
+    "griddle",
+	"grill",
+	"fry",
+	"bake"
   ],
   "code": "aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle",
   "compound": {

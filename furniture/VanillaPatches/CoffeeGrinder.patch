@@ -1,0 +1,16 @@
+{
+    "file": "staxel/tileObject/restaurant/CoffeeGrinder.tile",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "appearsInCatalogue": false,
+  },
+  "searchable": false,
+  "canBeEarntFromLuckyBox": false,
+  
+    }
+}

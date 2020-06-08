@@ -1,15 +1,19 @@
 {
   "categories": [
+	"Basic Staples",
+	"Mod Bucket",
     "crop",
     "plant",
     "produce",
     "growable",
+	"puppy",
     "potato",
     "vegetable",
-    "white",
+    "brown",
     "seed",
     "seeds",
-    "packet"
+    "packet",
+	"pet"
   ],
   "code": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant",
   "icon": "mods/Basic Staples/plant/crops/PuppyPotatoSeedpacket.qb",

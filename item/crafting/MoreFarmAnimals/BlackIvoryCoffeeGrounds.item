@@ -1,0 +1,45 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"More Farm Animals",
+	"Elephant",
+    "vegetable",
+	"Black",
+	"Ivory",
+    "coffeebean",
+	"bean",
+	"coffee",
+    "grounds",
+    "boilable",
+    "mixable"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.BlackIvoryCoffeeGrounds",
+  "icon": "mods/Basic Staples/item/crafting/MoreFarmAnimals/BlackIvoryCoffeeGrounds.qb",
+  "inHand": "mods/Basic Staples/item/crafting/MoreFarmAnimals/BlackIvoryCoffeeGrounds.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 3.14,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+	"appearsInCatalogue": false,
+    "sellPrice": 469,
+    "value": 733
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.SpiceGrinder",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Pepper",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Vanilla",
+        }
+      ]
+    },
+  ]
+}

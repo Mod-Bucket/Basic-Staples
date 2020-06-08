@@ -1,9 +1,13 @@
 {
   "categories": [
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "sausage",
 	"raw",
-	"meat"
+	"meat",
+	"boilable",
+	"bakeable",
+	"mixable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RawSausage",
   "consumable": {

@@ -1,13 +1,12 @@
 {
   "categories": [
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "vegetable",
     "coffee bean",
     "millable",
     "boilable",
-    "reapable",
-    "mixable",
-    "harvested"
+    "mixable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCoffeeBean",
   "icon": "mods/Basic Staples/item/crafting/intermediate/RoastedCoffeeBean.qb",

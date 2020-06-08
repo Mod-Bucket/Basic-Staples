@@ -1,0 +1,15 @@
+{
+  "code": "staxel.treasure.storeShelf.ingredients",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Pepper",
+        }
+      ]
+    },
+  ]
+}

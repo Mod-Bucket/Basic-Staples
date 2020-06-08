@@ -2,6 +2,8 @@
   "__inherits": "staxel/spawnCrate/spawningCrate.config",
   "animation": "staxel.boneAnimation.SpawnCrate",
   "categories": [
+	"Basic Staples",
+	"Mod Bucket",
     "animal",
     "animalCrate",
     "cow",

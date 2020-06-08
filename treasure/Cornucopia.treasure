@@ -1,0 +1,397 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.Cornucopia",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Apple",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Banana",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Beet",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Blackberries",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Blueberries",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Cabbage",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Carrot",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.CatTurnip",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Cherries",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Cocoa",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Coconut",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.CoffeeBean",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Corn",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Cucumber",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.DragonFruit",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Eggplant",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.Grapes",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Kiwi",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Lemon",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Lettuce",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Lime",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Mango",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Oat",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Onion",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Orange",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Peach",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.Peanut",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Pear",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Potato",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Pumpkin",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.PuppyPotato",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Raspberries",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Strawberries",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.SugarBeet",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.SugarCane",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Sunflower",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.SweetPotato",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Tangerine",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Tomato",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Turnip",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.Watermelon",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crafting.Bacon",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Beef",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Chicken",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crafting.Egg",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crafting.Milk",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crafting.Wool",
+        }
+      ]
+    },
+  ]
+}

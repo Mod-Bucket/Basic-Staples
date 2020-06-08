@@ -1,15 +1,15 @@
 {
   "__inherits": "staxel/plant/bush/base.config",
   "categories": [
-	"mod bucket",
-	"basic staples",
+	"Basic Staples",
+	"Mod Bucket",
     "bush",
     "vine",
     "plant",
     "produce",
     "growable",
     "grapes",
-    "green",
+    "purple",
     "fruit",
     "food"
   ],

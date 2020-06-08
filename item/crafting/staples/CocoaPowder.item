@@ -1,10 +1,11 @@
 {
   "categories": [
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "Powder",
 	"cocoa",
 	"mixable",
-    "fryable"
+    "bakeable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder",
   "icon": "mods/Basic Staples/item/crafting/staples/CocoaPowder.qb",

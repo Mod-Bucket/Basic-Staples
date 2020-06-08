@@ -1,0 +1,37 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "vegetable",
+    "coffeebean",
+    "millable",
+    "boilable",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RoastedCoffeeBean",
+  "icon": "mods/Basic Staples/item/crafting/staples/RoastedCoffeeBean.qb",
+  "inHand": "mods/Basic Staples/item/crafting/staples/RoastedCoffeeBean.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 3.14,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 72,
+    "value": 92
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

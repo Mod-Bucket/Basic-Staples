@@ -1,10 +1,11 @@
 {
   "__inherits": "staxel/item/edible.config",
   "categories": [
+	"Basic Staples",
+	"Mod Bucket",
     "frosting",
     "icing",
     "white",
-    "Mod Bucket",
     "Easter",
     "EasterFest",
   ],

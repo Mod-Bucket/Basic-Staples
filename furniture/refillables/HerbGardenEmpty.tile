@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "refillable",
+	"producer",
+	"herb",
+	"spice",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenEmpty",
+  "damageSoundGroup": "staxel.sounds.damage.Plant",
+  "placeSoundGroup": "staxel.sounds.place.Wood",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "specification": "X"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 10000,
+    "value": 100000,
+  },
+  "searchable": false,
+  "randomizeVerticalPosition": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "tileStateKind": "staxel.tileState.Lootable",
+  "voxels": "mods/Basic Staples/furniture/refillables/HerbGardenEmpty.qb",
+  "anchorHelper": {
+    "direction": {
+      "x": 0,
+      "y": -1,
+      "z": 0
+    }
+  },
+}

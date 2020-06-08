@@ -1,14 +1,15 @@
 {
   "__inherits": "staxel/item/edible.config",
   "categories": [
-	"mod bucket",
-	"basic staples",
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "vegetable",
     "sweet",
     "potato",
     "boilable",
     "mixable",
+	"chopped",
+	"sliced"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedSweetPotato",
   "eatTime": 1,

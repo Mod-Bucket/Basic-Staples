@@ -1,9 +1,9 @@
 {
   "categories": [
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "Powder",
 	"sprinkles",
-	"mixable",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Sprinkles",
   "icon": "mods/Basic Staples/item/crafting/staples/Sprinkles.qb",

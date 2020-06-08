@@ -2,11 +2,15 @@
   "__inherits": "mods/Basic Staples/docks/Mill.config",
   "attachToBelow": true,
   "categories": [
+	"Midsummer Nights Feast",
+	"Basic Staples",
+	"Mod Bucket",
     "grinder",
     "furniture",
     "craftingStation",
     "tool",
-    "mill"
+    "mill",
+	"grind"
   ],
   "code": "aaa.mods.mb.BasicStaples.workbenches.Mill",
   "compound": {

@@ -1,14 +1,18 @@
 {
   "__inherits": "staxel/plant/crop/base.config",
   "categories": [
+	"Basic Staples",
+	"Mod Bucket",
     "crop",
     "plant",
     "produce",
     "growable",
+	"puppy",
     "potato",
-    "yellow",
+    "brown",
     "vegetable",
-    "food"
+    "food",
+	"pet"
   ],
   "code": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato",
   "searchable": false,

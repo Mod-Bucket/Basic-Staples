@@ -1,14 +1,13 @@
 {
   "__inherits": "staxel/item/edible.config",
   "categories": [
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "fruit",
     "Cocoa",
     "bakeable",
     "millable",
-    "reapable",
-    "mixable",
-    "harvested"
+    "mixable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCacao",
   "eatTime": 1,

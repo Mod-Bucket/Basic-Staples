@@ -1,0 +1,48 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"More Farm Animals",
+	"Elephant",
+    "vegetable",
+	"Black",
+	"Ivory",
+	"splat",
+	"dung",
+	"turd",
+    "poop",
+    "harvested"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.ElephantSplat",
+  "icon": "mods/Basic Staples/item/crafting/MoreFarmAnimals/ElephantSplat.qb",
+  "inHand": "mods/Basic Staples/item/crafting/MoreFarmAnimals/ElephantSplat.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+	"appearsInCatalogue": false,
+    "buyable": false,
+    "sellPrice": 7,
+    "value": 11
+  },
+  "searchable": true,
+  "canBeEarntFromLuckyBox": false,
+  "throwable": {
+    "throwStrength": 8.0
+  },
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

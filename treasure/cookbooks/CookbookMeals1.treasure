@@ -1,0 +1,85 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.CookbookMeals1",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.SoupPumpkin",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.BakedPotatoWithCheese",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.EggFriedRice",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.BaconSandwich",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.Sushi",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.ShrimpFriedRice",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.SeasonedSalmon",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.ScrambledEgg",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.crafting.recipes.FriedEgg",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.lightMeal.Hotdogs",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.lightMeal.HamAndCheese",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.meal.RoastChicken",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.meal.MonteCristo",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.meal.BeetTurnipGratin",
+        },
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.MushroomRisotto"}, //Starter
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.BasicSalad"}, //Starter
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.Porridge"}, //Starter
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.SoupBeetroot"},//Starter
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.SoupCabbage"},//Starter
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.SoupCarrot"},//Starter
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.SoupTomato"},//Starter
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.SoupTurnip"},//Starter
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.SoupVegetable"},//Starter
+
+      ]
+    },
+  ]
+}

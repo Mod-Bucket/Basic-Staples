@@ -1,7 +1,7 @@
 {
   "__inherits": "staxel/item/edible.config",
   "categories": [
-	"Midsummer Nights Feast",
+	"Basic Staples",
 	"Mod Bucket",
     "cooking",
     "candy",
@@ -29,8 +29,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,
-    "sellPrice": 520,
-    "value": 709
+    "sellPrice": 521,
+    "value": 889
   },
   "searchable": true,
   "usageOffset": {

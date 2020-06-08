@@ -1,0 +1,13 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.HerbGarden",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.Mint",
+        }
+      ]
+    },
+  ]
+}

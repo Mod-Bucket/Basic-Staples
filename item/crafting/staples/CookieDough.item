@@ -1,12 +1,14 @@
 {
   "__inherits": "staxel/item/edible.config",
   "categories": [
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "candy",
     "cookie",
     "dough",
     "brown",
-    "food"
+    "food",
+	"bakeable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookieDough",
   "eatTime": 1,

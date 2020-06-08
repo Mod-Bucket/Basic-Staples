@@ -1,7 +1,8 @@
 {
   "__inherits": "staxel/item/edible.config",
   "categories": [
-    "market",
+	"Basic Staples",
+	"Mod Bucket",
     "vegetable",
     "potato",
     "choppable",
