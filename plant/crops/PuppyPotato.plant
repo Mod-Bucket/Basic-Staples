@@ -33,7 +33,8 @@
   "seasons": [
     "spring",
     "summer",
-    "autumn"
+    "autumn",
+	"winter"
   ],
   "stages": {
     "PotatoFruited": {

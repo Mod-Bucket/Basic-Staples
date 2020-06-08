@@ -201,3 +201,4 @@ Versions
 	- Released for beta test. 
 	- Recipe and Cookbook Buy/Sell prices have not been adjusted.
 	- Tags are all wrong.
+	- Peanut and circus peanuts need to be set up properly with patches.
