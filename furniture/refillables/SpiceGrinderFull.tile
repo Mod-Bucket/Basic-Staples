@@ -15,7 +15,7 @@
     "petals": -1,
     "singleUse": false,
     "treasure": "aaa.mods.mb.BasicStaples.treasure.SpiceGrinder",
-	"usedTile": "aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderEmpty",
+//	"usedTile": "aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderEmpty",
 	"daysBeforeReset": 15,
   },
   "compound": {
@@ -39,11 +39,4 @@
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "tileStateKind": "staxel.tileState.Lootable",
   "voxels": "mods/Basic Staples/furniture/refillables/SpiceGrinderFull.qb",
-  "anchorHelper": {
-    "direction": {
-      "x": 0,
-      "y": -1,
-      "z": 0
-    }
-  },
 }

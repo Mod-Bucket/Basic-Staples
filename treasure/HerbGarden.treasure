@@ -9,5 +9,13 @@
         }
       ]
     },
+	{
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crops.CoffeeBean",
+        }
+      ]
+    },
   ]
 }

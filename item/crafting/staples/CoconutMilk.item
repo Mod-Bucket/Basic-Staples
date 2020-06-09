@@ -1,0 +1,54 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"coconut",
+    "milk",
+    "mixable",
+    "boilable",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoconutMilk",
+  "icon": "mods/Basic Staples/item/crafting/staples/CoconutMilk.qb",
+  "inHand": "mods/Basic Staples/item/crafting/staples/CoconutMilk.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 227,
+    "value": 378
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "isDrink": true,
+  "eatTime": 2,
+  "consumable": {
+    "colour": "ffffff",
+    "particles": "staxel.particle.item.Drink",
+    "sound": "staxel.sound.Player.drink.sip"
+  },
+  "appliesStatus": {
+    "statuses": [ ],
+    "removes": [
+      "swift",
+      "jumpy",
+      "lucky",
+      "unlucky"
+    ]
+  }
+}

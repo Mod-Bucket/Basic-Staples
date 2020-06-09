@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "CheeseCakeStand",
+    "patisserie",
+    "decoration",
+    "stand",
+    "cake",
+    "Cheese",
+    "white"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.furniture.CheeseCakeStand",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 72,
+    "value": 120
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Basic Staples/furniture/MissingVanillaDecor/CheeseCakeStand.qb"
+}

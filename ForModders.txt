@@ -28,9 +28,28 @@ If you find an item you want to use, but it has a patch file in this folder make
 	    "appearsInCatalogue": false, //Can't be bought from the catalog ever. Can be obtained other ways.
 	    "buyable": false, //Players can buy it from the catalog. They can also buy it from a store if you change the store's pool contain it.
 	    "searchable": false, //players can find it in the creative menu.
-	    "canBeEarntFromLuckyBox": false //A lucky box will drop 1 of this item ONCE only if the player has never seen it. This will unlock it in the catalog if the item has buyable set to true.
+	    "canBeEarntFromLuckyBox": false, //A lucky box will drop 1 of this item ONCE only if the player has never seen it. This will unlock it in the catalog if the item has buyable set to true.
 
 	ONLY include a value you NEED to change. NEVER make a patch setting a value to false. Don't include any others. Set the patch's priority to "20", and the merge option to "true" unless you know what you're doing. Bear in mind, other mods need access to these items too so don't go changing other stuff that impacts an item's behavior. You can probably get away with changing the value or sell price, but don't assume those aren't changed by someone else. If you need a special version of an item for a quest that needs other attributes changed It's probably better to create a new item and link to the Basic Staples QB file.
+
+------
+
+On Dummies:
+
+Basic Staples has several Dummy items that are completely worthless. They don't do anything and a player cannot access them under any circumstances. They exist PURELY for acting as placeholders in recipes that could take multiple options. So if you have a recipe that wants jam or a fish but you don't care which the player uses then use the appropriate dummy item in the recipe (This should probably be a final step in a recipe. The game might not register step completion if you use these. I can't do anything about it.)
+
+If you use a dummy item in a recipe you'll have to make individual reactions for every/most entries in the category. This can get extremely time consuming. Pick the most appropriate dummy for your task or copy one and rename the code to something suited to your needs.
+
+If the output of a reaction is generic (Say, an actual peanut butter and jelly sandwich that will take any jam) then you might be able to get away with it being an intermediate recipe step. (Combine PB&J with generic jam > Fry PB&J) but if you want PB & Strawberry Jam Toasted sandwich or PB & Grape Jelly toasted sandwich the recipe will fail to advance past the first combine dummy step because the player won't have made the dummy sandwich.
+
+You can have a dummy input at any time as long as you're not trying to make the dummy item the recipe depends on in THAT recipe.
+
+You can only have a dummy output as the last step in a recipe.
+
+If I wanted a recipe for Any Toasted PB&J I'd have to separate it into two recipes:
+
+Combine PB&J > 2 bread, peanut butter, Any Jam > Any PB& J.
+Toasted PB&J > Fry butter, Any PB&J > Any Toasted PB&J. 
 
 ------
 

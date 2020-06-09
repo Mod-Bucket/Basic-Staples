@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "IcedCakeStand",
+    "patisserie",
+    "decoration",
+    "stand",
+    "brown sugar",
+    "cake",
+    "Iced",
+    "brown"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.furniture.IcedCakeStand",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 72,
+    "value": 120
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Basic Staples/furniture/MissingVanillaDecor/IcedCakeStand.qb"
+}

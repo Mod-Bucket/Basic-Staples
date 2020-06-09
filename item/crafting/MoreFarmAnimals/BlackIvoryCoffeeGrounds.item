@@ -37,6 +37,7 @@
     "value": 733
   },
   "searchable": true,
+  "canBeEarntFromLuckyBox": false,
   "usageOffset": {
     "x": 0.0,
     "y": 0.0,

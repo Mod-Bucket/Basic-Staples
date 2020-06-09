@@ -1,0 +1,61 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "dummy",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.dummy.AnyFruit",
+//
+// Should count as ALL OF the following:
+// Apple
+// Banana
+// Blackberries
+// Blueberries
+// Cherries
+// Coconut
+// Dragon Fruit
+// Grape
+// Kiwi
+// Lemon
+// Lime
+// Mango
+// Orange
+// Peach
+// Pear
+// Raspberries
+// Strawberries
+// Tangerine
+// Tomato
+// Watermelon
+//
+
+  "icon": "mods/Basic Staples/item/dummy/Dummy.qb",
+  "inHand": "mods/Basic Staples/item/dummy/Dummy.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false, 
+	"appearsInCatalogue": false, 
+	"buyable": false, 
+    "sellPrice": 1,
+    "value": 2
+  },
+  "searchable": false, 
+  "canBeEarntFromLuckyBox": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

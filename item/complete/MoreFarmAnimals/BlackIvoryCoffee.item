@@ -33,12 +33,13 @@
   "kind": "staxel.item.CraftItem",
   "pricing": {
     "catalogueUnlockedFromStart": false,
-	"appearsInCatalogue": false,
+	"appearsInCatalogue": true,
     "buyable": true,
     "sellPrice": 1000,
     "value": 1565
   },
   "searchable": true,
+  "canBeEarntFromLuckyBox": false,  
   "usageOffset": {
     "x": 0.0,
     "y": 0.0,

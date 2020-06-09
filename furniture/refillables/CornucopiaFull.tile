@@ -1,5 +1,5 @@
 {
-  "__inherits": "staxel/plant/bush/base.config",
+  "__inherits": "staxel/tileObject/base.config",
   "categories": [
 	"Basic Staples",
 	"Mod Bucket",
@@ -11,12 +11,13 @@
 	"product"
   ],
   "code": "aaa.mods.mb.BasicStaples.furniture.refillables.CornucopiaFull",
-//  "lootable": {
-//    "petals": -1,
-//    "singleUse": false,
-//    "treasure": "aaa.mods.mb.BasicStaples.treasure.Cornucopia",
+  "lootable": {
+    "petals": -1,
+    "singleUse": false,
+    "treasure": "aaa.mods.mb.BasicStaples.treasure.Cornucopia",
 //	"usedTile": "aaa.mods.mb.BasicStaples.furniture.refillables.CornucopiaEmpty",
-//  },
+	"daysBeforeReset": 1,
+  },
   "compound": {
     "size": {
       "x": 2,
@@ -28,18 +29,14 @@
   "damageSoundGroup": "staxel.sounds.damage.Plant",
   "placeSoundGroup": "staxel.sounds.place.Wood",
   "pricing": {
-    "catalogueUnlockedFromStart": false,
-    "buyable": false,
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
     "sellPrice": 10000,
     "value": 100000,
   },
   "searchable": true,
   "randomizeVerticalPosition": false,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-//  "tileStateKind": "staxel.tileState.Lootable",
+  "tileStateKind": "staxel.tileState.Lootable",
   "voxels": "mods/Basic Staples/furniture/refillables/CornucopiaFull.qb",
-  "variants": [
-    "mods/Basic Staples/furniture/refillables/CornucopiaEmpty.qb",
-    "mods/Basic Staples/furniture/refillables/CornucopiaFull.qb",
-  ]
 }
