@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyCircusPeanut",
+  "grouping": "desserts",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.Syrup",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Peanut",
+    },
+
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 820,
+    "value": 1080
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.candy.CircusPeanut",
+    }
+  },
+  "searchable": true,
+  "steps": [
+  	"aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.CandyCircusPeanut",	
+  ]
+}

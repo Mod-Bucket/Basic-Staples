@@ -6,6 +6,10 @@
       "items": [
 		{
           "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.CakeBatter",
+        },
+		{
+          "kind": "staxel.item.Recipe",
           "recipe": "staxel.crafting.recipes.CakeChocolate",
         },
 		{

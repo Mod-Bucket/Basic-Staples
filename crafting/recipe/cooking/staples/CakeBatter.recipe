@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.CakeBatter",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.Egg"
+    },
+    {
+      "code": "staxel.item.crafting.PlainFlour"
+    },
+    {
+      "code": "staxel.item.crafting.Butter"
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 50,
+    "value": 100
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.item.crafting.CakeBatter"
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "staxel.crafting.reaction.MixCakeBatter",
+  ]
+}
