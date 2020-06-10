@@ -6,18 +6,6 @@
       "items": [
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyChocolateBar",
-        },
-		{
-          "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyArtisanDark",
-        },
-		{
-          "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyLollipop",
-        },
-		{
-          "kind": "staxel.item.Recipe",
           "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.BlueCandy",
         },
 		{

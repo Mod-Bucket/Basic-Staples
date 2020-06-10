@@ -1,0 +1,26 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.CookbookCandy1",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyChocolateBar",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyArtisanDark",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyLollipop",
+        },
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.CandyCorn"}, //Festival
+//		{"kind": "staxel.item.Recipe",
+//          "recipe": "staxel.crafting.recipes.ToffeeApple"}, //Festival
+      ]
+    },
+  ]
+}
