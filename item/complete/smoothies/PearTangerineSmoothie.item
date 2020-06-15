@@ -9,8 +9,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.smoothies.PearTangerineSmoothie",
   "eatTime": 2,
-  "icon": "mods/Basic Staples/item/complete/smoothies/PearTangerineSmoothie.qb",
-  "inHand": "mods/Basic Staples/item/complete/smoothies/PearTangerineSmoothie.qb",
+  "icon": "mods/Basic-Staples/item/complete/smoothies/PearTangerineSmoothie.qb",
+  "inHand": "mods/Basic-Staples/item/complete/smoothies/PearTangerineSmoothie.qb",
   "inHandOffset": {
     "x": 0.1,
     "y": -0.4,

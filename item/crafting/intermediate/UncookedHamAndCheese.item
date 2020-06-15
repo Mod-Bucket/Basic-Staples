@@ -8,8 +8,8 @@
     "cooking"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.UncookedHamAndCheese",
-  "icon": "mods/Basic Staples/item/crafting/intermediate/UncookedHamAndCheese.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/UncookedHamAndCheese.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/UncookedHamAndCheese.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/UncookedHamAndCheese.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

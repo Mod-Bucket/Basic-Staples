@@ -13,8 +13,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.PuppyPotato",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crops/PuppyPotato.qb",
-  "inHand": "mods/Basic Staples/item/crops/PuppyPotato.qb",
+  "icon": "mods/Basic-Staples/item/crops/PuppyPotato.qb",
+  "inHand": "mods/Basic-Staples/item/crops/PuppyPotato.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": -0.25,

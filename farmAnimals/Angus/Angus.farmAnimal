@@ -39,7 +39,7 @@
     "staxel.farmAnimalBehaviour.Catatonic"
   ],
   "models": [
-    "mods/Basic Staples/farmAnimals/Angus/Angus.qb",
+    "mods/Basic-Staples/farmAnimals/Angus/Angus.qb",
   ],
   "nudeModels": [],
   "paramAnimator": "staxel.paramAnimation.AnimalEat",

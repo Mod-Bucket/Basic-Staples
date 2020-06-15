@@ -24,13 +24,13 @@
   },
   "searchable": false,
   "variants": [
-    "mods/Basic Staples/plant/bush/Grapes.qb?size={40,55,40}?offset={0,0,0}",
-    "mods/Basic Staples/plant/bush/Grapes2.qb?size={40,55,40}?offset={0,0,0}",
-    "mods/Basic Staples/plant/bush/Grapes3.qb?size={40,55,40}?offset={0,0,0}",
-    "mods/Basic Staples/plant/bush/Grapes4.qb?size={40,55,40}?offset={0,0,0}",
-    "mods/Basic Staples/plant/bush/Grapes5.qb?size={40,55,40}?offset={0,0,0}",
-    "mods/Basic Staples/plant/bush/Grapes6.qb?size={40,55,40}?offset={0,0,0}",
-    "mods/Basic Staples/plant/bush/Grapes7.qb?size={40,55,40}?offset={0,0,0}",
-    "mods/Basic Staples/plant/bush/Grapes8.qb?size={40,55,40}?offset={0,0,0}"
+    "mods/Basic-Staples/plant/bush/Grapes.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/Grapes2.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/Grapes3.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/Grapes4.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/Grapes5.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/Grapes6.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/Grapes7.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/Grapes8.qb?size={40,55,40}?offset={0,0,0}"
   ]
 }

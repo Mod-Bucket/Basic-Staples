@@ -11,8 +11,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.MoreFarmAnimals.BlackIvoryCoffee",
   "eatTime": 2,
-  "icon": "mods/Basic Staples/item/complete/MoreFarmAnimals/BlackIvoryCoffee.qb",
-  "inHand": "mods/Basic Staples/item/complete/MoreFarmAnimals/BlackIvoryCoffee.qb",
+  "icon": "mods/Basic-Staples/item/complete/MoreFarmAnimals/BlackIvoryCoffee.qb",
+  "inHand": "mods/Basic-Staples/item/complete/MoreFarmAnimals/BlackIvoryCoffee.qb",
   "inHandOffset": {
     "x": 0.1,
     "y": -0.4,

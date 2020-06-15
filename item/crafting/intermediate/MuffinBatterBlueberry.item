@@ -7,8 +7,8 @@
     "batter",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterBlueberry",
-  "icon": "mods/Basic Staples/item/crafting/intermediate/MuffinBatterBlueberry.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/MuffinBatterBlueberry.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/MuffinBatterBlueberry.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/MuffinBatterBlueberry.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

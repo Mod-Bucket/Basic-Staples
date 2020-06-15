@@ -12,8 +12,8 @@
 // Peach Sauce
 //
 
-  "icon": "mods/Basic Staples/item/dummy/Dummy.qb",
-  "inHand": "mods/Basic Staples/item/dummy/Dummy.qb",
+  "icon": "mods/Basic-Staples/item/dummy/Dummy.qb",
+  "inHand": "mods/Basic-Staples/item/dummy/Dummy.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

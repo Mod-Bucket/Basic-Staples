@@ -10,8 +10,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.preserves.MarmaladeTangerine",
   "eatTime": 2,
-  "icon": "mods/Basic Staples/item/complete/preserves/MarmaladeTangerine.qb",
-  "inHand": "mods/Basic Staples/item/complete/preserves/MarmaladeTangerine.qb",
+  "icon": "mods/Basic-Staples/item/complete/preserves/MarmaladeTangerine.qb",
+  "inHand": "mods/Basic-Staples/item/complete/preserves/MarmaladeTangerine.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

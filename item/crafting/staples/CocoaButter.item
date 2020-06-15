@@ -8,8 +8,8 @@
     "fryable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaButter",
-  "icon": "mods/Basic Staples/item/crafting/staples/CocoaButter.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/CocoaButter.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/CocoaButter.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/CocoaButter.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

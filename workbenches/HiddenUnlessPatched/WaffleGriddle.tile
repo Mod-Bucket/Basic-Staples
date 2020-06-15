@@ -1,6 +1,6 @@
 {
   "__inherits": "staxel/docks/MixingStationUpgrade.config",
-  "customRendererVoxels": "mods/Basic Staples/workbenches/HiddenUnlessPatched/WaffleGriddle.qb",
+  "customRendererVoxels": "mods/Basic-Staples/workbenches/HiddenUnlessPatched/WaffleGriddle.qb",
   "attachToBelow": true,
   "categories": [
 	"Midsummer Nights Feast",
@@ -36,5 +36,5 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/Basic Staples/workbenches/HiddenUnlessPatched/WaffleGriddle.qb"
+  "voxels": "mods/Basic-Staples/workbenches/HiddenUnlessPatched/WaffleGriddle.qb"
 }

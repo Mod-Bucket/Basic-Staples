@@ -10,8 +10,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCoconut",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crops/chopped/ChoppedCoconut.qb",
-  "inHand": "mods/Basic Staples/item/crops/chopped/ChoppedCoconut.qb",
+  "icon": "mods/Basic-Staples/item/crops/chopped/ChoppedCoconut.qb",
+  "inHand": "mods/Basic-Staples/item/crops/chopped/ChoppedCoconut.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": -0.4,

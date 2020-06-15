@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "wood",
+    "mould",
+    "brown",
+    "Mod Bucket",
+	"Basic Staples",
+    "Easter",
+    "EasterFest",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould",
+  "icon": "mods/Basic-Staples/item/crafting/EasterFest/CheapEggMould.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/EasterFest/CheapEggMould.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

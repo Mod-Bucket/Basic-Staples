@@ -10,8 +10,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.preserves.JamPear",
   "eatTime": 2,
-  "icon": "mods/Basic Staples/item/complete/preserves/JamPear.qb",
-  "inHand": "mods/Basic Staples/item/complete/preserves/JamPear.qb",
+  "icon": "mods/Basic-Staples/item/complete/preserves/JamPear.qb",
+  "inHand": "mods/Basic-Staples/item/complete/preserves/JamPear.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

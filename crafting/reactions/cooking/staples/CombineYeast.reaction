@@ -20,7 +20,8 @@
   ],
   "results": [
     {
-      "code": "staxel.item.crafting.Yeast"
+      "code": "staxel.item.crafting.Yeast",
+	  "quantity": 10
     }
   ],
   "effectTrigger": "staxel.effect.cooking.Combine"

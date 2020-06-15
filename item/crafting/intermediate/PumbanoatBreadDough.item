@@ -10,8 +10,8 @@
     "orange"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.PumbanoatBreadDough",
-  "icon": "mods/Basic Staples/item/crafting/intermediate/PumbanoatBreadDough.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/PumbanoatBreadDough.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/PumbanoatBreadDough.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/PumbanoatBreadDough.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

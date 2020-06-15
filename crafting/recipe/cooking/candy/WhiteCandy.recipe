@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.WhiteCandy",
+  "grouping": "desserts",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.Syrup"
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.dummy.ShreddedCoconutOrChoppedDragonFruit"
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 740,
+    "value": 1233
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.candy.CandyWhite",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.WhiteCandyDummy",
+  ]
+}

@@ -14,8 +14,8 @@
     "harvested"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.ElephantSplat",
-  "icon": "mods/Basic Staples/item/crafting/MoreFarmAnimals/ElephantSplat.qb",
-  "inHand": "mods/Basic Staples/item/crafting/MoreFarmAnimals/ElephantSplat.qb",
+  "icon": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/ElephantSplat.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/ElephantSplat.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

@@ -12,8 +12,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookieDough",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crafting/staples/CookieDough.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/CookieDough.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/CookieDough.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/CookieDough.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

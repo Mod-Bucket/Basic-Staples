@@ -11,8 +11,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCacao",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crafting/intermediate/RoastedCacao.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/RoastedCacao.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/RoastedCacao.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/RoastedCacao.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

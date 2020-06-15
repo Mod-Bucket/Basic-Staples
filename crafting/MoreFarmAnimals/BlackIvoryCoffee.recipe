@@ -14,8 +14,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,
-    "sellPrice": 2820,
-    "value": 3080
+    "sellPrice": 5000,
+    "value": 10000
   },
   "result": {
     "count": 1,
@@ -27,7 +27,7 @@
   "steps": [
     {
       "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.MoreFarmAnimals.CombineElephantSplat",
-      "quantity": 10
+      "quantity": 5
     },
     {
       "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.MoreFarmAnimals.RoastBlackIvoryCoffeeBean",

@@ -8,8 +8,8 @@
     "dough",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieChocolateChipUnbaked",
-  "icon": "mods/Basic Staples/item/crafting/intermediate/CookieChocolateChipUnbaked.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/CookieChocolateChipUnbaked.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/CookieChocolateChipUnbaked.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/CookieChocolateChipUnbaked.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

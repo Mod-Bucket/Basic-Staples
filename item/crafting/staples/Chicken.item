@@ -8,8 +8,8 @@
     "cooking"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Chicken",
-  "icon": "mods/Basic Staples/item/crafting/staples/Chicken.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/Chicken.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/Chicken.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/Chicken.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

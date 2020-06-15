@@ -13,8 +13,8 @@
     "boilable",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.RoastedBlackIvoryCoffeeBean",
-  "icon": "mods/Basic Staples/item/crafting/MoreFarmAnimals/RoastedBlackIvoryCoffeeBean.qb",
-  "inHand": "mods/Basic Staples/item/crafting/MoreFarmAnimals/RoastedBlackIvoryCoffeeBean.qb",
+  "icon": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/RoastedBlackIvoryCoffeeBean.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/RoastedBlackIvoryCoffeeBean.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

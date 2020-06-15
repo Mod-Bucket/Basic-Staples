@@ -12,8 +12,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.ChoppedChocolate",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crafting/staples/ChoppedChocolate.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/ChoppedChocolate.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/ChoppedChocolate.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/ChoppedChocolate.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

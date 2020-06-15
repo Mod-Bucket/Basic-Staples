@@ -22,5 +22,5 @@
   "randomizePosition": false,
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/Basic Staples/furniture/MissingVanillaDecor/IcedCakeStand.qb"
+  "voxels": "mods/Basic-Staples/furniture/MissingVanillaDecor/IcedCakeStand.qb"
 }

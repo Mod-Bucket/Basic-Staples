@@ -8,8 +8,8 @@
     "batter",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterChocolateChip",
-  "icon": "mods/Basic Staples/item/crafting/intermediate/MuffinBatterChocolateChip.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/MuffinBatterChocolateChip.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/MuffinBatterChocolateChip.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/MuffinBatterChocolateChip.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

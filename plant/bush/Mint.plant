@@ -11,7 +11,7 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.plant.bush.Mint.plant",
   "growthTime": 30,
-  "icon": "mods/Basic Staples/plant/bush/MintSeedPacket.qb",
+  "icon": "mods/Basic-Staples/plant/bush/MintSeedPacket.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

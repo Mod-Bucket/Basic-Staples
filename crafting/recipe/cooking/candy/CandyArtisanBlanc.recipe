@@ -5,7 +5,7 @@
   "ingredients": [
     {
       "code": "staxel.item.crops.Cocoa",
-	  "quantity": 2
+	  "quantity": 1
     },
     {
       "code": "staxel.item.crafting.WhiteSugar",
@@ -19,8 +19,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,
-    "sellPrice": 820,
-    "value": 1080
+    "sellPrice": 740,
+    "value": 1233
   },
   "result": {
     "count": 1,
@@ -32,11 +32,11 @@
   "steps": [
   	{
       "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.BakeCocoa",
-      "quantity": 2
+      "quantity": 1
     },
 	{
       "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.BakeCocoaButter",
-      "quantity": 2
+      "quantity": 1
     },	
     "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.BoilArtisanBlanc",
   ]

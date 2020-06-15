@@ -15,13 +15,13 @@
   "code": "aaa.mods.mb.BasicStaples.plant.bush.Mint",
   "searchable": false,
   "variants": [
-    "mods/Basic Staples/plant/bush/Mint.qb?size={16,32,16}?offset={0,0,0}",
-    "mods/Basic Staples/plant/bush/Mint.qb?size={16,32,16}?offset={16,0,0}",
-    "mods/Basic Staples/plant/bush/Mint.qb?size={16,32,16}?offset={32,0,0}",
-    "mods/Basic Staples/plant/bush/Mint.qb?size={16,32,16}?offset={48,0,0}",
-    "mods/Basic Staples/plant/bush/Mint.qb?size={16,32,16}?offset={64,0,0}",
-    "mods/Basic Staples/plant/bush/Mint.qb?size={16,32,16}?offset={80,0,0}",
-    "mods/Basic Staples/plant/bush/Mint.qb?size={16,32,16}?offset={96,0,0}",
-    "mods/Basic Staples/plant/bush/Mint.qb?size={16,32,16}?offset={112,0,0}",
+    "mods/Basic-Staples/plant/bush/Mint.qb?size={16,32,16}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/Mint.qb?size={16,32,16}?offset={16,0,0}",
+    "mods/Basic-Staples/plant/bush/Mint.qb?size={16,32,16}?offset={32,0,0}",
+    "mods/Basic-Staples/plant/bush/Mint.qb?size={16,32,16}?offset={48,0,0}",
+    "mods/Basic-Staples/plant/bush/Mint.qb?size={16,32,16}?offset={64,0,0}",
+    "mods/Basic-Staples/plant/bush/Mint.qb?size={16,32,16}?offset={80,0,0}",
+    "mods/Basic-Staples/plant/bush/Mint.qb?size={16,32,16}?offset={96,0,0}",
+    "mods/Basic-Staples/plant/bush/Mint.qb?size={16,32,16}?offset={112,0,0}",
   ]
 }

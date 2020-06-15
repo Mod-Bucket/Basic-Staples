@@ -19,7 +19,7 @@
     "pet"
   ],
   "code": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
-  "icon": "mods/Basic Staples/plant/crops/BunnyCarrotSeedpacket.qb",
+  "icon": "mods/Basic-Staples/plant/crops/BunnyCarrotSeedpacket.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

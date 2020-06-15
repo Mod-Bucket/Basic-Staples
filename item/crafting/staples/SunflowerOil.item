@@ -8,8 +8,8 @@
     "frying"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.SunflowerOil",
-  "icon": "mods/Basic Staples/item/crafting/staples/SunflowerOil.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/SunflowerOil.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/SunflowerOil.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/SunflowerOil.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

@@ -14,7 +14,7 @@
   ],
   "results": [
     {
-      "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.BakeRoastedCacao",
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCacao"
     }
   ],
   "duration": 5,

@@ -11,14 +11,14 @@
 	  "code": "staxel.item.crafting.Milk",
     },
 	{
-	  "code": "staxel.item.crafting.SackCloth",
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth",
     },
   ],
   "pricing": {
     "catalogueUnlockedFromStart": true,
     "buyable": true,
-    "sellPrice": 50,
-    "value": 100
+    "sellPrice": 516,
+    "value": 860
   },
   "result": {
     "count": 1,

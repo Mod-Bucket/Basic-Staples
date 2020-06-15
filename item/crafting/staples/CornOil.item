@@ -9,8 +9,8 @@
     "frying"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CornOil",
-  "icon": "mods/Basic Staples/item/crafting/staples/CornOil.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/CornOil.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/CornOil.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/CornOil.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

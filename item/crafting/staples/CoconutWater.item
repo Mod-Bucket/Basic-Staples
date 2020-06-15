@@ -9,8 +9,8 @@
     "food"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoconutWater",
-  "icon": "mods/Basic Staples/item/crafting/staples/CoconutWater.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/CoconutWater.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/CoconutWater.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/CoconutWater.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

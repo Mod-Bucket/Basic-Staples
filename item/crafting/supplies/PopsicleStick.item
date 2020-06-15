@@ -7,8 +7,8 @@
     "cream",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
-  "icon": "mods/Basic Staples/item/crafting/supplies/PopsicleStick.qb",
-  "inHand": "mods/Basic Staples/item/crafting/supplies/PopsicleStick.qb",
+  "icon": "mods/Basic-Staples/item/crafting/supplies/PopsicleStick.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/supplies/PopsicleStick.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

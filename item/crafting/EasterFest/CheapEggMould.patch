@@ -1,0 +1,15 @@
+{
+    "file": "mods/EasterFest/item/crafting/intermediary/cooking/CheapEggMould.item",
+    "priority": 999, 
+    "mergeLists": true,
+    "patch": {
+	
+  "pricing": {
+		"catalogueUnlockedFromStart": false,
+	    "appearsInCatalogue": false, 
+	    "buyable": false, 
+  },
+	    "searchable": false, 
+	    "canBeEarntFromLuckyBox": false,
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "file": "mods/EasterFest/crafting/reactions/cooking/MixGiantSugarEgg.reaction",
+    "priority": 999, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Egg",
+      "quantity": 1
+    },
+	{
+      "code": "staxel.item.crafting.WaterJar",
+      "quantity": 1
+    },
+	{
+      "code": "staxel.item.crafting.WhiteSugar",
+      "quantity": 3
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould",
+      "quantity": 1
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantSugarEgg",
+    }
+  ],
+
+    }
+}

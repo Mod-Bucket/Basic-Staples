@@ -44,6 +44,14 @@
           "kind": "staxel.item.Recipe",
           "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.crafting.wood.CakeRods"
         },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.CoconutMilk"
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.CoconutWater"
+        },
 //		{"kind": "staxel.item.Recipe",
 //          "recipe": "staxel.crafting.recipes.MakeSugar2"}, //Starter
 //		{"kind": "staxel.item.Recipe",

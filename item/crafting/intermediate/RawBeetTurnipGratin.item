@@ -8,8 +8,8 @@
     "gratin"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.RawBeetTurnipGratin",
-  "icon": "mods/Basic Staples/item/crafting/intermediate/RawBeetTurnipGratin.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/RawBeetTurnipGratin.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/RawBeetTurnipGratin.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/RawBeetTurnipGratin.qb",
   "eatTime": 2,
   "inHandOffset": {
     "x": 0.0,

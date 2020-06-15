@@ -9,8 +9,8 @@
     "mixable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoffeeGrounds",
-  "icon": "mods/Basic Staples/item/crafting/staples/CoffeeGrounds.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/CoffeeGrounds.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/CoffeeGrounds.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/CoffeeGrounds.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

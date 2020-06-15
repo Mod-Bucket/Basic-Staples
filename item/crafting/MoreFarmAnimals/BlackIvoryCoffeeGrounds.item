@@ -15,8 +15,8 @@
     "mixable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.BlackIvoryCoffeeGrounds",
-  "icon": "mods/Basic Staples/item/crafting/MoreFarmAnimals/BlackIvoryCoffeeGrounds.qb",
-  "inHand": "mods/Basic Staples/item/crafting/MoreFarmAnimals/BlackIvoryCoffeeGrounds.qb",
+  "icon": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/BlackIvoryCoffeeGrounds.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/BlackIvoryCoffeeGrounds.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

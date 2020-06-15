@@ -9,8 +9,8 @@
     "EasterFest",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.VialBlack",
-  "icon": "mods/Basic Staples/item/crafting/supplies/VialBlack.qb",
-  "inHand": "mods/Basic Staples/item/crafting/supplies/VialBlack.qb",
+  "icon": "mods/Basic-Staples/item/crafting/supplies/VialBlack.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/supplies/VialBlack.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

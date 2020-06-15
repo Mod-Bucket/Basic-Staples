@@ -9,8 +9,8 @@
     "cooking"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Beef",
-  "icon": "mods/Basic Staples/item/crafting/staples/Beef.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/Beef.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/Beef.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/Beef.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

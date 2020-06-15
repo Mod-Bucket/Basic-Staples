@@ -16,7 +16,7 @@
 	"pet"
   ],
   "code": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant",
-  "icon": "mods/Basic Staples/plant/crops/PuppyPotatoSeedpacket.qb",
+  "icon": "mods/Basic-Staples/plant/crops/PuppyPotatoSeedpacket.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

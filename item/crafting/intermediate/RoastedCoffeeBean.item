@@ -9,8 +9,8 @@
     "mixable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCoffeeBean",
-  "icon": "mods/Basic Staples/item/crafting/intermediate/RoastedCoffeeBean.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/RoastedCoffeeBean.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/RoastedCoffeeBean.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/RoastedCoffeeBean.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

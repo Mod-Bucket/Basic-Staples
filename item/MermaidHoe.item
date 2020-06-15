@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Basic Staples",
+	"Mod Bucket",
+    "tool",
+    "hoe",
+    "till",
+    "basic"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.tool.MermaidHoe",
+  "icon": "mods/Basic-Staples/item/MermaidHoe.qb",
+  "canBeGifted": false,
+  "iconScale": 0.5,
+  "inHand": "mods/Basic-Staples/item/MermaidHoe.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.5625,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.54
+  },
+  "interactVerb": "controlHint.verb.Till",
+  "kind": "staxel.item.Hoe",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": -0.5,
+    "z": 0.0
+  },
+  "useBoxCollider": true,
+  "chargeableTool": {
+    "maxCharge": 3
+  }
+}

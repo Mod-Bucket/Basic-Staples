@@ -1,5 +1,5 @@
 {
-  "__inherits": "mods/Basic Staples/docks/Mill.config",
+  "__inherits": "mods/Basic-Staples/docks/Mill.config",
   "attachToBelow": true,
   "categories": [
 	"Midsummer Nights Feast",
@@ -29,5 +29,5 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/Basic Staples/workbenches/Mill.qb"
+  "voxels": "mods/Basic-Staples/workbenches/Mill.qb"
 }

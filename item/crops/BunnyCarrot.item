@@ -14,8 +14,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crops/BunnyCarrot.qb",
-  "inHand": "mods/Basic Staples/item/crops/BunnyCarrot.qb",
+  "icon": "mods/Basic-Staples/item/crops/BunnyCarrot.qb",
+  "inHand": "mods/Basic-Staples/item/crops/BunnyCarrot.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": -0.25,

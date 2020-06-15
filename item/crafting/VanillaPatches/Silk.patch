@@ -1,0 +1,13 @@
+{
+    "file": "staxel/item/quest/Eris/Silk.item",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "pricing": {
+    "buyable": true,
+    "sellPrice": 240,
+    "value": 400
+  },
+  "canBeEarntFromLuckyBox": false,
+    }
+}

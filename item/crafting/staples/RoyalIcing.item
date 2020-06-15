@@ -12,8 +12,8 @@
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RoyalIcing",
   "eatTime": 1,
   "edible": true,
-  "icon": "mods/Basic Staples/item/crafting/staples/RoyalIcing.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/RoyalIcing.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/RoyalIcing.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/RoyalIcing.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

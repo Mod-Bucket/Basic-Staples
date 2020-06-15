@@ -1,0 +1,42 @@
+{
+  "code": "staxel.treasure.patisserie.stands",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.CakeStand",
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.CheeseCakeStand",
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.IcedCakeStand",
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.RaspberryPieStand",
+        }
+      ]
+    },
+  ]
+}

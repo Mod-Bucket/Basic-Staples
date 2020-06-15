@@ -2,6 +2,149 @@
   "code": "staxel.treasure.storeShelf.addModItemsToThisOne", 
   "additive": true,
   "entries": [
-    
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.CakeStand",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.refillables.CornucopiaFull",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenFull",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull",
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStaples1",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStaples2",
+        }
+      ]
+    },
+//    {
+//      "weight": 1,
+//      "items": [
+//        {
+//		  "kind": "staxel.item.Placer",
+//          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStarters1",
+//        }
+//      ]
+//    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookCandy1",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookCandy2",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookDrinks1",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookFrozen1",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookMeals1",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPastry1",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPies1",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPreserves1",
+        }
+      ]
+    },
   ]
 }

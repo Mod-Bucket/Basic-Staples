@@ -8,8 +8,8 @@
     "frying"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
-  "icon": "mods/Basic Staples/item/crafting/staples/CookingOil.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/CookingOil.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/CookingOil.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/CookingOil.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

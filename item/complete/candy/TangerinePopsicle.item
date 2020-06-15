@@ -9,8 +9,8 @@
     "food"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.candy.TangerinePopsicle",
-  "icon": "mods/Basic Staples/item/complete/candy/TangerinePopsicle.qb",
-  "inHand": "mods/Basic Staples/item/complete/candy/TangerinePopsicle.qb",
+  "icon": "mods/Basic-Staples/item/complete/candy/TangerinePopsicle.qb",
+  "inHand": "mods/Basic-Staples/item/complete/candy/TangerinePopsicle.qb",
   "eatTime": 2,
   "inHandOffset": {
     "x": 0.0,

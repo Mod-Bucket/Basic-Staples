@@ -11,8 +11,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.Peanut",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crops/Peanut.qb",
-  "inHand": "mods/Basic Staples/item/crops/Peanut.qb",
+  "icon": "mods/Basic-Staples/item/crops/Peanut.qb",
+  "inHand": "mods/Basic-Staples/item/crops/Peanut.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": -0.4,

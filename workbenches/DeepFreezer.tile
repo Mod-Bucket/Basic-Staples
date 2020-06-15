@@ -1,5 +1,5 @@
 {
-  "__inherits": "mods/Basic Staples/docks/DeepFreezer.config",
+  "__inherits": "mods/Basic-Staples/docks/DeepFreezer.config",
   "attachToBelow": true,
   "categories": [
 	"Basic Staples",
@@ -25,7 +25,7 @@
       "z": 2
     }
   },
-  "descriptionImage": "mods/Basic Staples/docks/FreezeIcon.png",
+  "descriptionImage": "mods/Basic-Staples/docks/FreezeIcon.png",
   "interactVerb": "controlHint.verb.Open",
   "pricing": {
     "buyable": true,
@@ -33,8 +33,9 @@
     "sellPrice": 5,
     "value": 1000
   },
+  "open": false,
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "customRendererVoxels": "mods/Basic Staples/workbenches/DeepFreezer.qb",
-  "voxels": "mods/Basic Staples/workbenches/DeepFreezer.qb"
+  "customRendererVoxels": "mods/Basic-Staples/workbenches/DeepFreezer.qb",
+  "voxels": "mods/Basic-Staples/workbenches/DeepFreezer.qb"
 }

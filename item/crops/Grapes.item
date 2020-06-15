@@ -12,8 +12,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.Grapes",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crops/Grapes.qb",
-  "inHand": "mods/Basic Staples/item/crops/Grapes.qb",
+  "icon": "mods/Basic-Staples/item/crops/Grapes.qb",
+  "inHand": "mods/Basic-Staples/item/crops/Grapes.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": -0.4,

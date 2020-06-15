@@ -1,0 +1,38 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.crafting.magic.MermaidHoe",
+  "recipeStep": "magic",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "kind": "staxel.item.Hoe",
+	  "code": "staxel.item.tool.Hoe",
+      "quantity": 1
+    },
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "staxel.tileObject.gatherable.Starfish",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.gatherable.Seaweed",
+      "quantity": 2
+    },
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "staxel.tileObject.quest.Riah.MermaidFin",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.generic.StarBits",
+      "quantity": 10
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.tool.MermaidHoe",
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Conjure"
+}

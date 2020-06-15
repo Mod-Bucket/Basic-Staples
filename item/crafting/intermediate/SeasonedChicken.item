@@ -8,8 +8,8 @@
     "cooking"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.SeasonedChicken",
-  "icon": "mods/Basic Staples/item/crafting/intermediate/SeasonedChicken.qb",
-  "inHand": "mods/Basic Staples/item/crafting/intermediate/SeasonedChicken.qb",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/SeasonedChicken.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/SeasonedChicken.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

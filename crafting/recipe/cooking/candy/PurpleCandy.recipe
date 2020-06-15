@@ -7,14 +7,14 @@
       "code": "staxel.item.crafting.Syrup"
     },
     {
-      "code": "staxel.item.crops.Blackberries"
+      "code": "aaa.mods.mb.BasicStaples.item.dummy.BlackberriesOrGrape"
     }
   ],
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,
-    "sellPrice": 820,
-    "value": 1080
+    "sellPrice": 740,
+    "value": 1233
   },
   "result": {
     "count": 1,
@@ -24,6 +24,6 @@
   },
   "searchable": true,
   "steps": [
-    "staxel.crafting.reaction.CandyPurple",
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.PurpleCandyDummy",
   ]
 }

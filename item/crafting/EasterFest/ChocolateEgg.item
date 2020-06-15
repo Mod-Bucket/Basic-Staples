@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Mod Bucket",
+	"Basic Staples",
+    "Easter",
+    "EasterFest",
+    "market",
+    "rabbit",
+    "egg",
+    "mixable",
+    "harvested",
+    "chocolate",
+    "candy",
+    "brown",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.ChocolateEgg",
+
+  "icon": "mods/Basic-Staples/item/crafting/EasterFest/ChocolateEgg.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/EasterFest/ChocolateEgg.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 15,
+    "value": 20
+  },
+  "searchable": true,
+  "secondaryIcon": "mods/Basic-Staples/item/crafting/EasterFest/ChocolateEgg.qb",
+  "stackSizeLimit": 999,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "canBeEarntFromLuckyBox": false
+}

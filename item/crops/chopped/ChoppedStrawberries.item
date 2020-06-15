@@ -12,8 +12,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedStrawberries",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crops/chopped/ChoppedStrawberries.qb",
-  "inHand": "mods/Basic Staples/item/crops/chopped/ChoppedStrawberries.qb",
+  "icon": "mods/Basic-Staples/item/crops/chopped/ChoppedStrawberries.qb",
+  "inHand": "mods/Basic-Staples/item/crops/chopped/ChoppedStrawberries.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": -0.4,

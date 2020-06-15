@@ -51,6 +51,8 @@ If I wanted a recipe for Any Toasted PB&J I'd have to separate it into two recip
 Combine PB&J > 2 bread, peanut butter, Any Jam > Any PB& J.
 Toasted PB&J > Fry butter, Any PB&J > Any Toasted PB&J. 
 
+The CheeseCloth recipe has an example of how a Dummy Item works. The text of the name is in the Basic-Staples.lang file.
+
 ------
 
 Actually Adding Basic Staples items to your mod:

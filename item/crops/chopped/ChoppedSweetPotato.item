@@ -13,8 +13,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedSweetPotato",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crops/chopped/ChoppedSweetPotato.qb",
-  "inHand": "mods/Basic Staples/item/crops/chopped/ChoppedSweetPotato.qb",
+  "icon": "mods/Basic-Staples/item/crops/chopped/ChoppedSweetPotato.qb",
+  "inHand": "mods/Basic-Staples/item/crops/chopped/ChoppedSweetPotato.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": -0.4,

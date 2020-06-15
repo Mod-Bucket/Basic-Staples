@@ -13,7 +13,7 @@
 	  "code": "staxel.item.crafting.Milk",
     },
 	{
-	  "code": "staxel.item.crafting.SackCloth",
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth",
     },
   ],
   "results": [

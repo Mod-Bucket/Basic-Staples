@@ -7,8 +7,8 @@
     "seasoning",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Vanilla",
-  "icon": "mods/Basic Staples/item/crafting/staples/Vanilla.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/Vanilla.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/Vanilla.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/Vanilla.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

@@ -1,0 +1,25 @@
+{
+  "name": "Make Wheat Seeds",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.ReapWheatSeed",
+  "recipeStep": "reap",
+  "moveResultsToSite": "seedSite",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 3,
+  "docks": [
+    "staxel.tileObject.serverVillage.SeedMaker"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat",
+    }
+  ],
+  "results": [
+    {
+      "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.seeds.WheatSeeds"
+    }
+  ],
+  "duration": 4/* seconds*/,
+  "effect": "staxel.effect.crafting.SeedMaker"/*only valid with duration*/,
+  "effectTrigger": "staxel.effect.crafting.SeedMaker.result"
+}

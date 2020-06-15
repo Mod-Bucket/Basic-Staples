@@ -1,0 +1,44 @@
+{
+  "__inherits": "staxel/crafting/recipes/magicRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.crafting.magic.MermaidHoe",
+  "grouping": "magic",
+  "ingredients": [
+    {
+      "code": "staxel.item.tool.Hoe",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.tileObject.gatherable.Starfish",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.gatherable.Seaweed",
+      "quantity": 2
+    },
+    {
+      "code": "staxel.tileObject.quest.Riah.MermaidFin",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.generic.StarBits",
+      "quantity": 10
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1000,
+    "value": 5000
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.tool.MermaidHoe",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reaction.crafting.magic.MermaidHoe",
+  ],
+  "canBeGifted": false
+}

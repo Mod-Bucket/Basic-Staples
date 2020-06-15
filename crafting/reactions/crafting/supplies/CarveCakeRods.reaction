@@ -5,7 +5,7 @@
   "reagents": [
     {
       "code": "staxel.item.crafting.Pickets",
-      "quantity": 4
+      "quantity": 2
     },
     {
       "code": "staxel.item.crafting.Varnish",

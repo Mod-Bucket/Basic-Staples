@@ -11,8 +11,8 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat",
   "eatTime": 1,
-  "icon": "mods/Basic Staples/item/crops/Wheat.qb",
-  "inHand": "mods/Basic Staples/item/crops/Wheat.qb",
+  "icon": "mods/Basic-Staples/item/crops/Wheat.qb",
+  "inHand": "mods/Basic-Staples/item/crops/Wheat.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": -0.4,

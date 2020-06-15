@@ -9,8 +9,8 @@
     "food"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoconutMilk",
-  "icon": "mods/Basic Staples/item/crafting/staples/CoconutMilk.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/CoconutMilk.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/CoconutMilk.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/CoconutMilk.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

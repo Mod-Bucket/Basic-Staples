@@ -10,8 +10,8 @@
 	"water",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.IceCubes",
-  "icon": "mods/Basic Staples/item/crafting/staples/IceCubes.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/IceCubes.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/IceCubes.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/IceCubes.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

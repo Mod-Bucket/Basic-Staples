@@ -1,0 +1,27 @@
+{
+  "name": "Purple Candy",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.PinkCandyDummy",
+  "recipeStep": "mix",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Syrup"
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.dummy.RaspberryCherryOrSlicedWatermelon",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.CandyPink",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

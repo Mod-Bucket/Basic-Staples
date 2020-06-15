@@ -1,0 +1,35 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.seeds.CatTurnipSeeds",
+  "entries": [
+    {
+      "weight": 79.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.CatTurnip",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "weight": 20.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.CatTurnip",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.CatTurnip",
+          "quantity": 6
+        }
+      ]
+    }
+  ]
+}

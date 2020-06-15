@@ -385,5 +385,27 @@
         }
       ]
     },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.quest.Eris.SurfCotton",
+        }
+      ],
+      "globalGate": {
+        "global": "clothingWagonConjured",
+      }
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.quest.Eris.Silk",
+        }
+      ],
+      "globalGate": {
+        "global": "clothingWagonConjured",
+      }
+    },
   ]
 }

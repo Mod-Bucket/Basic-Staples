@@ -16,7 +16,9 @@
   ],
   "results": [
     {
-	  "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.MillRoastedCacao",
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder",
+	  //"reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.MillRoastedCacao",
+	  "quantity": 4
     }
   ],
   "duration": 5/* seconds*/,

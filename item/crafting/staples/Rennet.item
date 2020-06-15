@@ -7,8 +7,8 @@
     "cooking",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Rennet",
-  "icon": "mods/Basic Staples/item/crafting/staples/Rennet.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/Rennet.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/Rennet.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/Rennet.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

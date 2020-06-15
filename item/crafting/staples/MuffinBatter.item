@@ -8,8 +8,8 @@
     "brown"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.MuffinBatter",
-  "icon": "mods/Basic Staples/item/crafting/staples/MuffinBatter.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/MuffinBatter.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/MuffinBatter.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/MuffinBatter.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

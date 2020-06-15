@@ -8,8 +8,8 @@
     "bakeable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder",
-  "icon": "mods/Basic Staples/item/crafting/staples/CocoaPowder.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/CocoaPowder.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/CocoaPowder.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/CocoaPowder.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

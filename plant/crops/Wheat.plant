@@ -19,7 +19,7 @@
     "packet"
   ],
   "code": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant",
-  "icon": "mods/Basic Staples/plant/crops/WheatSeedpacket.qb",
+  "icon": "mods/Basic-Staples/plant/crops/WheatSeedpacket.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

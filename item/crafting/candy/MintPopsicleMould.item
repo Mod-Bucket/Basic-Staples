@@ -10,8 +10,8 @@
 	"freezable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.MintPopsicleMould",
-  "icon": "mods/Basic Staples/item/crafting/candy/MintPopsicleMould.qb",
-  "inHand": "mods/Basic Staples/item/crafting/candy/MintPopsicleMould.qb",
+  "icon": "mods/Basic-Staples/item/crafting/candy/MintPopsicleMould.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/candy/MintPopsicleMould.qb",
   "eatTime": 2,
   "inHandOffset": {
     "x": 0.0,

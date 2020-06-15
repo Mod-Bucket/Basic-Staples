@@ -3,7 +3,7 @@
     "priority": 2, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {
-  "icon": "mods/Basic Staples/item/crops/Coconut.qb",
-  "inHand": "mods/Basic Staples/item/crops/Coconut.qb",
+  "icon": "mods/Basic-Staples/item/crops/Coconut.qb",
+  "inHand": "mods/Basic-Staples/item/crops/Coconut.qb",
     }
 }

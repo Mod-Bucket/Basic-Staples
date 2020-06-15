@@ -44,13 +44,13 @@
   "pricing": {
     "catalogueUnlockedFromStart": true,
     "buyable": true,
-    "sellPrice": 1000,
-    "value": 2000
+    "sellPrice": 732,
+    "value": 1218
   },
   "result": {
     "count": 1,
     "item": {
-      "code": "aaa.mods.mb.BasicStaples.item.complete.meat.RoastChicken",
+      "code": "aaa.mods.mb.BasicStaples.item.complete.meal.MonteCristo",
     }
   },
   "searchable": true,

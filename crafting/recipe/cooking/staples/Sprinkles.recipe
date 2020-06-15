@@ -4,7 +4,7 @@
   "grouping": "starters",
   "ingredients": [
     {
-      "code": "staxel.item.gatherable.garbage.EmptyBottle",
+      "code": "staxel.item.crafting.JarEmpty",
       "quantity": 1
     },
 	{
@@ -39,8 +39,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": true,
     "buyable": true,
-    "sellPrice": 100,
-    "value": 200
+    "sellPrice": 516,
+    "value": 860
   },
   "result": {
     "item": {

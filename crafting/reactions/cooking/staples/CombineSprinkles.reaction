@@ -6,7 +6,7 @@
   ],
   "reagents": [
     {
-      "code": "staxel.item.gatherable.garbage.EmptyBottle",
+      "code": "staxel.item.crafting.JarEmpty",
       "quantity": 1
     },
     {

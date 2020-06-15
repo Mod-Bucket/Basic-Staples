@@ -1,0 +1,23 @@
+{
+    "file": "mods/EasterFest/crafting/reactions/cooking/CombineGiantChocolateEggMono.reaction",
+    "priority": 999, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantChocolateEgg",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RoyalIcing",
+      "quantity": 2
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.VialBlack",
+      "quantity": 1
+    }
+  ],
+
+    }
+}

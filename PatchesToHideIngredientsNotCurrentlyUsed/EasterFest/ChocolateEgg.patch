@@ -1,0 +1,16 @@
+{
+    "file": "mods/Basic-Staples/item/crafting/EasterFest/ChocolateEgg.item",
+    "priority": 999, 
+    "mergeLists": true,
+    "patch": {
+	
+  "pricing": {
+		"catalogueUnlockedFromStart": false,
+	    "appearsInCatalogue": false, 
+	    "buyable": false, 
+  },
+	    "searchable": false, 
+	    "canBeEarntFromLuckyBox": false,
+		
+    }
+}

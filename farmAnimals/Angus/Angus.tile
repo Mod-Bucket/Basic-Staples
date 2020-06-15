@@ -10,7 +10,7 @@
 	"angus"
   ],
   "code": "aaa.mods.mb.BasicStaples.tileObject.farmAnimal.Angus",
-  "customRendererVoxels": "mods/Basic Staples/farmAnimals/Angus/AngusCrateLayered.qb",
+  "customRendererVoxels": "mods/Basic-Staples/farmAnimals/Angus/AngusCrateLayered.qb",
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,
@@ -25,5 +25,5 @@
     "spawnEmote": "staxel.emote.tile.SpawnCrate.open",
     "spawnParticles": "staxel.particle.farmAnimals.Spawn"
   },
-  "voxels": "mods/Basic Staples/farmAnimals/Angus/AngusCrateLayered.qb",
+  "voxels": "mods/Basic-Staples/farmAnimals/Angus/AngusCrateLayered.qb",
 }

@@ -9,8 +9,8 @@
     "white"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.ButtercreamFrosting",
-  "icon": "mods/Basic Staples/item/crafting/staples/ButtercreamFrosting.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/ButtercreamFrosting.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/ButtercreamFrosting.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/ButtercreamFrosting.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

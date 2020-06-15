@@ -10,13 +10,13 @@
   "pricing": {
     "catalogueUnlockedFromStart": true,
     "buyable": true,
-    "sellPrice": 100,
-    "value": 200
+    "sellPrice": 226,
+    "value": 377
   },
   "result": {
     "count": 1,
     "item": {
-      "code": "staxel.item.gatherable.Snowball",
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.IceCubes",
     }
   },
   "searchable": true,

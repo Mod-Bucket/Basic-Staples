@@ -1,0 +1,15 @@
+{
+    "file": "mods/EasterFest/crafting/reactions/cooking/CarveCheapEggMould.reaction",
+    "priority": 999, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould",
+      "quantity": 1
+    }
+  ],
+
+    }
+}

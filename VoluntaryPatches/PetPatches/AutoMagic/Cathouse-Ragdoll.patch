@@ -1,0 +1,10 @@
+{
+    "file": "mods/AutoMagic/Pet Polymorph Expansion/Pethouses/Cat/Cathouse-Ragdoll.pet",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"treasure": "aaa.mods.mb.BasicStaples.treasure.CatFurniture"
+
+    }
+}

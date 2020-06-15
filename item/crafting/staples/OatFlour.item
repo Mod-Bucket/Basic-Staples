@@ -8,8 +8,8 @@
     "muffin"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.OatFlour",
-  "icon": "mods/Basic Staples/item/crafting/staples/OatFlour.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/OatFlour.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/OatFlour.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/OatFlour.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

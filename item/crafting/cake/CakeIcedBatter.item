@@ -7,8 +7,8 @@
     "cake"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CakeIcedBatter",
-  "icon": "mods/Basic Staples/item/crafting/cake/CakeIcedBatter.qb",
-  "inHand": "mods/Basic Staples/item/crafting/cake/CakeIcedBatter.qb",
+  "icon": "mods/Basic-Staples/item/crafting/cake/CakeIcedBatter.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/cake/CakeIcedBatter.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

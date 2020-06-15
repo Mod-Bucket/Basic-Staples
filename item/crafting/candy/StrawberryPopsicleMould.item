@@ -10,8 +10,8 @@
 	"freezable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.StrawberryPopsicleMould",
-  "icon": "mods/Basic Staples/item/crafting/candy/StrawberryPopsicleMould.qb",
-  "inHand": "mods/Basic Staples/item/crafting/candy/StrawberryPopsicleMould.qb",
+  "icon": "mods/Basic-Staples/item/crafting/candy/StrawberryPopsicleMould.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/candy/StrawberryPopsicleMould.qb",
   "eatTime": 2,
   "inHandOffset": {
     "x": 0.0,

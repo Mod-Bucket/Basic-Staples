@@ -1,0 +1,24 @@
+{
+    "file": "mods/EasterFest/crafting/reactions/cooking/BoilGiantChocolateEgg.reaction",
+    "priority": 999, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  
+  "reagents": [
+    {
+      "code": "mods.mb.EasterFest.toketsupuurin.item.ChocolateEgg",
+      "quantity": 10
+    },
+    {
+      "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantChocolateEgg",
+    }
+  ],
+
+    }
+}

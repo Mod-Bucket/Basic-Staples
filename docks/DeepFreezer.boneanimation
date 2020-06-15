@@ -1,6 +1,6 @@
 {
   "code": "aaa.mods.mb.BasicStaples.boneAnimation.DeepFreezer",
-  "definition": "mods/Basic Staples/docks/FreezerXZYAdjusted1-2.bvh",
+  "definition": "mods/Basic-Staples/docks/FreezerXZYAdjusted1-2.bvh",
   //Blend file: OBJs reduced to .0625. Exported at .5 scale. .4 might be better but I'm too annoyed right now.
   "offset": {
     "x": 0.0,

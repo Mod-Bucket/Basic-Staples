@@ -23,8 +23,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": true,
     "buyable": true,
-    "sellPrice": 100,
-    "value": 200
+    "sellPrice": 732,
+    "value": 1218
   },
   "result": {
     "count": 1,

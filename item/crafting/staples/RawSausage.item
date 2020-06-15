@@ -16,8 +16,8 @@
     "sound": "staxel.sound.Eat"
   },
   "eatTime": 3,
-  "icon": "mods/Basic Staples/item/crafting/staples/RawSausage.qb",
-  "inHand": "mods/Basic Staples/item/crafting/staples/RawSausage.qb",
+  "icon": "mods/Basic-Staples/item/crafting/staples/RawSausage.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/RawSausage.qb",
   "inHandOffset": {
     "x": -0.205,
     "y": 0.0,

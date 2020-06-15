@@ -32,5 +32,5 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/Basic Staples/workbenches/HiddenUnlessPatched/Cask.qb"
+  "voxels": "mods/Basic-Staples/workbenches/HiddenUnlessPatched/Cask.qb"
 }
