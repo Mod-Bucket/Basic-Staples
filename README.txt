@@ -137,7 +137,8 @@ toketsupuurin:
 	- Supplies: Popsicle Stick, Muffin Pan (Unused), White Potion, Cheesecloth.
 	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB.
 
-MarkGrant: Egg Patch
+MarkGrant: 
+- Egg Patch
 
 ===========
 
