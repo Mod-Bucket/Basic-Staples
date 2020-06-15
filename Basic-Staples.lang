@@ -1,20 +1,116 @@
 language.code=en-GB
 language=English
 
-aaa.mods.mb.BasicStaples.item.crafting.EasterFest.ChocolateEgg.name=Chocolate Egg
-aaa.mods.mb.BasicStaples.item.crafting.EasterFest.ChocolateEgg.description=It's an egg. Not a pellet.
+aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer.name=Deep Freezer
+aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer.description=It makes stuff cold.
 
-aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould.name=Cheap Egg Mould
-aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould.description=One time use only!
+aaa.mods.mb.BasicStaples.workbenches.Mill.name=Mill
+aaa.mods.mb.BasicStaples.workbenches.Mill.description=It grinds powders and makes oils.
 
-aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantChocolateEgg.name=Giant Chocolate Egg
-aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantChocolateEgg.description=It's filled with creme. Yum.
+aaa.mods.mb.BasicStaples.tileObject.farmAnimal.Angus.name=Angus
+aaa.mods.mb.BasicStaples.tileObject.farmAnimal.Angus.description=It's a big beefy cow. No milk.
 
-aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantSugarEgg.name=Giant Sugar Egg
-aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantSugarEgg.description=It's a lot of hard sugar. Doesn't look tasty.
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1.name=Animals v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1.description=Recipes for animals.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookCandy1.name=Candy v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookCandy1.description=How to make basic candies.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookCandy2.name=Candy v2
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookCandy2.description=How to make simple chocolates.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookDrinks1.name=Drinks v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookDrinks1.description=Basic drinks and smoothies.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookFrozen1.name=Frozen v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookFrozen1.description=Making frozen treats!
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookMeals1.name=Meals v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookMeals1.description=Substantial meals.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPastry1.name=Pastry v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPastry1.description=How to make basic pastries.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPies1.name=Pies v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPies1.description=Basic pies that are easy to make.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPreserves1.name=Preserves v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPreserves1.description=Fruit jams and marmalades.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookSnacks1.name=Snacks v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookSnacks1.description=Quick snacks for a pick me up.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStaples1.name=Staples v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStaples1.description=How to boil water.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStaples2.name=Staples v2
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStaples2.description=How to make more stuff every cook should know.
+
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStarters1.name=Starters v1
+aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookStarters1.description=Things you should have started with.
+
+aaa.mods.mb.BasicStaples.furniture.CakeStand.name=Cake Stand
+aaa.mods.mb.BasicStaples.furniture.CakeStand.description=It holds food for display!
+
+aaa.mods.mb.BasicStaples.furniture.CheeseCakeStand.name=Cheese Cake Stand
+aaa.mods.mb.BasicStaples.furniture.CheeseCakeStand.description=Looks so yummy...
+
+aaa.mods.mb.BasicStaples.furniture.IcedCakeStand.name=Iced Cake Stand
+aaa.mods.mb.BasicStaples.furniture.IcedCakeStand.description=The perfect cake for a winter day.
+
+aaa.mods.mb.BasicStaples.furniture.RaspberryPieStand.name=Raspberry Pie Stand
+aaa.mods.mb.BasicStaples.furniture.RaspberryPieStand.description=A freshly baked pie with a delicious, raspberry filling.
+
+aaa.mods.mb.BasicStaples.furniture.refillables.CornucopiaFull.name=Cornucopia
+aaa.mods.mb.BasicStaples.furniture.refillables.CornucopiaFull.description=A magical horn of plenty. Check it every day.
+
+aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenFull.name=Herb Garden
+aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenFull.description=Grows herbs from time to time.
+
+aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.name=Spice Grinder
+aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.description=A magical spice grinder. Check it from time to time.
+
+aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.name=Grape Seeds
+aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
+
+aaa.mods.mb.BasicStaples.plant.bush.Mint.name=Mint Seeds
+aaa.mods.mb.BasicStaples.plant.bush.Mint.description=It will grow a Mint bush. Survives out of season. Harvestable in Spring and Summer.
+
+aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.name=Bunny Carrot Seeds
+aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.description=A very strange carrot. Plant it anytime.
+
+aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.name=Puppy Potato Seeds
+aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.description=The most loyal potato. Plant it anytime.
+
+aaa.mods.mb.BasicStaples.plant.crops.Wheat.name=Wheat Seeds
+aaa.mods.mb.BasicStaples.plant.crops.Wheat.description=It grows wheat! Grows during summer.
+
+aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.name=Cask
+aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.description=A cask for aging things.
+
+aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.name=Waffle Griddle
+aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.description=It makes waffles and paninni.
 
 aaa.mods.mb.BasicStaples.item.tool.MermaidHoe.name=Mermaid Hoe
 aaa.mods.mb.BasicStaples.item.tool.MermaidHoe.description=Slick with magic. Doesn't water your crops though.
+
+aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot.name=Bunny Carrot
+aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot.description=Did it just blink?
+
+aaa.mods.mb.BasicStaples.item.crops.Grapes.name=Grapes
+aaa.mods.mb.BasicStaples.item.crops.Grapes.description=Tart but sweet.
+
+aaa.mods.mb.BasicStaples.item.crops.Mint.name=Mint
+aaa.mods.mb.BasicStaples.item.crops.Mint.description=Cooling on the tongue.
+
+aaa.mods.mb.BasicStaples.item.crops.Peanut.name=Peanut
+aaa.mods.mb.BasicStaples.item.crops.Peanut.description=Peanut
+
+aaa.mods.mb.BasicStaples.item.crops.PuppyPotato.name=Puppy Potato
+aaa.mods.mb.BasicStaples.item.crops.PuppyPotato.description=It looks so eager.
+
+aaa.mods.mb.BasicStaples.item.crops.Wheat.name=Wheat
+aaa.mods.mb.BasicStaples.item.crops.Wheat.description=A grain with a lot of different purposes...all of which require milling.
 
 aaa.mods.mb.BasicStaples.item.dummy.RaspberryCherryOrSlicedWatermelon.name=Raspberry, Cherry, or Sliced Watermelon
 aaa.mods.mb.BasicStaples.item.dummy.RaspberryCherryOrSlicedWatermelon.description=Dummy Item
@@ -36,114 +132,6 @@ aaa.mods.mb.BasicStaples.item.dummy.ShreddedCoconutOrChoppedDragonFruit.descript
 
 aaa.mods.mb.BasicStaples.item.dummy.BlackberriesOrGrape.name=Blackberries or Grape
 aaa.mods.mb.BasicStaples.item.dummy.BlackberriesOrGrape.description=Dummy Item
-
-aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer.name=Deep Freezer
-aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer.description=It makes stuff cold.
-
-aaa.mods.mb.BasicStaples.workbenches.Mill.name=Mill
-aaa.mods.mb.BasicStaples.workbenches.Mill.description=It grinds powders and makes oils.
-
-aaa.mods.mb.BasicStaples.tileObject.farmAnimal.Angus.name=Angus
-aaa.mods.mb.BasicStaples.tileObject.farmAnimal.Angus.description=It's a big beefy cow. No milk.
-
-aaa.mods.mb.BasicStaples.furniture.CakeStand.name=Cake Stand
-aaa.mods.mb.BasicStaples.furniture.CakeStand.description=It holds food for display!
-
-staxel.tileObject.patisserie.CarrotCakeStand.name=Cheese Cake Stand
-staxel.tileObject.patisserie.CarrotCakeStand.description=Looks so yummy...
-
-staxel.tileObject.patisserie.CarrotCakeStand.name=Iced Cake Stand
-staxel.tileObject.patisserie.CarrotCakeStand.description=The perfect cake for a winter day.
-
-staxel.tileObject.patisserie.ApplePieStand.name=Raspberry Pie Stand
-staxel.tileObject.patisserie.ApplePieStand.description=A freshly baked pie with a delicious, raspberry filling.
-
-aaa.mods.mb.BasicStaples.furniture.refillables.CornucopiaFull.name=Cornucopia
-aaa.mods.mb.BasicStaples.furniture.refillables.CornucopiaFull.description=A magical horn of plenty. Check it every day.
-
-aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenFull.name=Herb Garden
-aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenFull.description=Grows herbs from time to time.
-
-aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.name=Spice Grinder
-aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.description=A magical spice grinder. Check it from time to time.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookAnimals1.name=Animals v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookAnimals1.description=Recipes for animals.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookCandy1.name=Candy v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookCandy1.description=How to make basic candies.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookDrinks1.name=Drinks v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookDrinks1.description=Basic drinks and smoothies.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookFrozen1.name=Frozen v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookFrozen1.description=Making frozen treats!
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookMeals1.name=Meals v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookMeals1.description=Substantial meals.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookPastry1.name=Pastry v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookPastry1.description=How to make basic pastries.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookPies1.name=Pies v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookPies1.description=Basic pies that are easy to make.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookPreserves1.name=Preserves v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookPreserves1.description=Fruit jams and marmalades.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookSnacks1.name=Snacks v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookSnacks1.description=Quick snacks for a pick me up.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookStaples1.name=Staples v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookStaples1.description=How to boil water.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookStaples2.name=Staples v2
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookStaples2.description=How to make more stuff every cook should know.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookStarters1.name=Starters v1
-aaa.mods.mb.BasicStaples.item.cookbooks.tile.CookbookStarters1.description=Things you should have started with.
-
-aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.name=Grape Seeds
-aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
-
-aaa.mods.mb.BasicStaples.plant.bush.Mint.name=Mint Seeds
-aaa.mods.mb.BasicStaples.plant.bush.Mint.description=It will grow a Mint bush. Survives out of season. Harvestable in Spring and Summer.
-
-aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.name=Bunny Carrot Seeds
-aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.description=A very strange carrot. Plant it anytime.
-
-aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant.name=Bunny Carrot Seeds
-aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant.description=A very strange carrot. Plant it anytime.
-
-aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.name=Puppy Potato Seeds
-aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.description=The most loyal potato. Plant it anytime.
-
-aaa.mods.mb.BasicStaples.plant.crops.Wheat.name=Wheat Seeds
-aaa.mods.mb.BasicStaples.plant.crops.Wheat.description=It grows wheat! Grows during summer.
-
-aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.name=Cask
-aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.description=A cask for aging things.
-
-aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.name=Waffle Griddle
-aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.description=It makes waffles and paninni.
-
-aaa.mods.mb.BasicStaples.item.cookbooks.MoreFarmAnimals.CookbookElephant1.name=Elephant v1
-aaa.mods.mb.BasicStaples.item.cookbooks.MoreFarmAnimals.CookbookElephant1.description=Kitchen fun with trumpet friends!
-
-aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot.name=Bunny Carrot
-aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot.description=Did it just blink?
-
-aaa.mods.mb.BasicStaples.item.crops.Grapes.name=Grapes
-aaa.mods.mb.BasicStaples.item.crops.Grapes.description=Tart but sweet.
-
-aaa.mods.mb.BasicStaples.item.crops.Mint.name=Mint
-aaa.mods.mb.BasicStaples.item.crops.Mint.description=Cooling on the tongue.
-
-aaa.mods.mb.BasicStaples.item.crops.PuppyPotato.name=Puppy Potato
-aaa.mods.mb.BasicStaples.item.crops.PuppyPotato.description=It looks so eager.
-
-aaa.mods.mb.BasicStaples.item.crops.Wheat.name=Wheat
-aaa.mods.mb.BasicStaples.item.crops.Wheat.description=A grain with a lot of different purposes...all of which require milling.
 
 aaa.mods.mb.BasicStaples.item.dummy.AnyFruit.name=Any Fruit
 aaa.mods.mb.BasicStaples.item.dummy.AnyFruit.description=Dummy Item
@@ -171,6 +159,9 @@ aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanDark.description=Fancy, excl
 
 aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanRuby.name=Artisan Ruby
 aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanRuby.description=Fancy...red chocolate? Is this stuff dyed?
+
+aaa.mods.mb.BasicStaples.item.complete.candy.CandyWhite.name=CandyWhite
+aaa.mods.mb.BasicStaples.item.complete.candy.CandyWhite.description=CandyWhite
 
 aaa.mods.mb.BasicStaples.item.complete.candy.ChocoPearPopsicle.name=Choco Pear Popsicle
 aaa.mods.mb.BasicStaples.item.complete.candy.ChocoPearPopsicle.description=Chocolate dipped pear popsicle with sprinkles.
@@ -264,6 +255,18 @@ aaa.mods.mb.BasicStaples.item.crafting.candy.StrawberryPopsicleMould.description
 
 aaa.mods.mb.BasicStaples.item.crafting.candy.TangerinePopsicleMould.name=Tangerine Popsicle Mould
 aaa.mods.mb.BasicStaples.item.crafting.candy.TangerinePopsicleMould.description=This'll be tasty when it's frozen.
+
+aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould.name=Cheap Egg Mould
+aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould.description=One time use only!
+
+aaa.mods.mb.BasicStaples.item.crafting.EasterFest.ChocolateEgg.name=Chocolate Egg
+aaa.mods.mb.BasicStaples.item.crafting.EasterFest.ChocolateEgg.description=It's an egg. Not a pellet.
+
+aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantChocolateEgg.name=Giant Chocolate Egg
+aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantChocolateEgg.description=It's filled with creme. Yum.
+
+aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantSugarEgg.name=Giant Sugar Egg
+aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantSugarEgg.description=It's a lot of hard sugar. Doesn't look tasty.
 
 aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieChocolateChipUnbaked.name=Unbaked Chocolate Chip Cookie
 aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieChocolateChipUnbaked.description=Hmm... maybe I'll eat just one before I bake them...
@@ -399,6 +402,9 @@ aaa.mods.mb.BasicStaples.item.crafting.staples.Vanilla.description=Once the rare
 
 aaa.mods.mb.BasicStaples.item.crafting.staples.Vinegar.name=Vinegar
 aaa.mods.mb.BasicStaples.item.crafting.staples.Vinegar.description=Ugh. Sour and horrible by itself.
+
+aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth.name=Cheesecloth
+aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth.description=Cheesecloth
 
 aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick.name=Popsicle Stick
 aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick.description=A little wooden stick that can carry a treat.
