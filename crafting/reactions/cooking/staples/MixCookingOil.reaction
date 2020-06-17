@@ -19,7 +19,7 @@
   "results": [
     {
       "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
-	  "quantity": 4
+	  "quantity": 8
     }
   ],
   "moveResultsToSite": "results",

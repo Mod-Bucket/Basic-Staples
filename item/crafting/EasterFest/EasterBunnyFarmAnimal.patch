@@ -1,7 +1,7 @@
 {
     "file": "mods/EasterFest/Animals/Rabbits/EasterBunny.farmAnimal",
-    "priority": 999, 
-    "mergeLists": true,
+    "priority": 2, 
+    "mergeLists": false,
     "patch": {
 	
   "eggs": [

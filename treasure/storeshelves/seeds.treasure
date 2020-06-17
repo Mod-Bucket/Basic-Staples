@@ -1,0 +1,33 @@
+{
+  "code": "staxel.treasure.seeds",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.bush.Mint.plant"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant"
+        }
+      ]
+    },
+  ]
+}

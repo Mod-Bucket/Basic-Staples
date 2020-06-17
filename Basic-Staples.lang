@@ -73,17 +73,32 @@ aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.description=A ma
 aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.name=Grape Seeds
 aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
 
+aaa.mods.mb.BasicStaples.plant.bush.Grapes.name=Grape Seeds
+aaa.mods.mb.BasicStaples.plant.bush.Grapes.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
+
 aaa.mods.mb.BasicStaples.plant.bush.Mint.name=Mint Seeds
 aaa.mods.mb.BasicStaples.plant.bush.Mint.description=It will grow a Mint bush. Survives out of season. Harvestable in Spring and Summer.
 
+aaa.mods.mb.BasicStaples.plant.bush.Mint.plant.name=Mint Seeds
+aaa.mods.mb.BasicStaples.plant.bush.Mint.plant.description=It will grow a Mint bush. Survives out of season. Harvestable in Spring and Summer.
+
 aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.name=Bunny Carrot Seeds
 aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.description=A very strange carrot. Plant it anytime.
+
+aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant.name=Bunny Carrot Seeds
+aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant.description=A very strange carrot. Plant 
+
+aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant.name=Puppy Potato Seeds
+aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant.description=The most loyal potato. Plant it anytime.
 
 aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.name=Puppy Potato Seeds
 aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.description=The most loyal potato. Plant it anytime.
 
 aaa.mods.mb.BasicStaples.plant.crops.Wheat.name=Wheat Seeds
 aaa.mods.mb.BasicStaples.plant.crops.Wheat.description=It grows wheat! Grows during summer.
+
+aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant.name=Wheat Seeds
+aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant.description=It grows wheat! Grows during summer.
 
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.name=Cask
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.description=A cask for aging things.
@@ -112,25 +127,25 @@ aaa.mods.mb.BasicStaples.item.crops.PuppyPotato.description=It looks so eager.
 aaa.mods.mb.BasicStaples.item.crops.Wheat.name=Wheat
 aaa.mods.mb.BasicStaples.item.crops.Wheat.description=A grain with a lot of different purposes...all of which require milling.
 
-aaa.mods.mb.BasicStaples.item.dummy.RaspberryCherryOrSlicedWatermelon.name=Raspberry, Cherry, or Sliced Watermelon
+aaa.mods.mb.BasicStaples.item.dummy.RaspberryCherryOrSlicedWatermelon.name=Fruit (Raspberry, Cherry, or Sliced Watermelon)
 aaa.mods.mb.BasicStaples.item.dummy.RaspberryCherryOrSlicedWatermelon.description=Dummy Item
 
-aaa.mods.mb.BasicStaples.item.dummy.ChoppedMangoChoppedLemonOrBanana.name=Chopped Mango, Chopped Lemon, or Banana
+aaa.mods.mb.BasicStaples.item.dummy.ChoppedMangoChoppedLemonOrBanana.name=Fruit (Chopped Mango, Chopped Lemon, or Banana)
 aaa.mods.mb.BasicStaples.item.dummy.ChoppedMangoChoppedLemonOrBanana.description=Dummy Item
 
-aaa.mods.mb.BasicStaples.item.dummy.ChoppedLimeChoppedKiwiOrChoppedPear.name=Chopped Lime, Chopped Kiwi, or Chopped Pear
+aaa.mods.mb.BasicStaples.item.dummy.ChoppedLimeChoppedKiwiOrChoppedPear.name=Fruit (Chopped Lime, Chopped Kiwi, or Chopped Pear)
 aaa.mods.mb.BasicStaples.item.dummy.ChoppedLimeChoppedKiwiOrChoppedPear.description=Dummy Item
 
-aaa.mods.mb.BasicStaples.item.dummy.ChoppedAppleOrStrawberry.name=Chopped Apple or Strawberry
+aaa.mods.mb.BasicStaples.item.dummy.ChoppedAppleOrStrawberry.name=Fruit (Chopped Apple or Strawberry)
 aaa.mods.mb.BasicStaples.item.dummy.ChoppedAppleOrStrawberry.description=Dummy Item
 
-aaa.mods.mb.BasicStaples.item.dummy.ChoppedOrangeChoppedPeachOrChoppedTangerine.name=Chopped Orange, Chopped Peach, or Chopped Tangerine
+aaa.mods.mb.BasicStaples.item.dummy.ChoppedOrangeChoppedPeachOrChoppedTangerine.name=Fruit (Chopped Orange, Chopped Peach, or Chopped Tangerine)
 aaa.mods.mb.BasicStaples.item.dummy.ChoppedOrangeChoppedPeachOrChoppedTangerine.description=Dummy Item
 
-aaa.mods.mb.BasicStaples.item.dummy.ShreddedCoconutOrChoppedDragonFruit.name=Shredded Coconut or Chopped DragonFruit
+aaa.mods.mb.BasicStaples.item.dummy.ShreddedCoconutOrChoppedDragonFruit.name=Fruit (Shredded Coconut or Chopped DragonFruit)
 aaa.mods.mb.BasicStaples.item.dummy.ShreddedCoconutOrChoppedDragonFruit.description=Dummy Item
 
-aaa.mods.mb.BasicStaples.item.dummy.BlackberriesOrGrape.name=Blackberries or Grape
+aaa.mods.mb.BasicStaples.item.dummy.BlackberriesOrGrape.name=Fruit (Blackberries or Grape)
 aaa.mods.mb.BasicStaples.item.dummy.BlackberriesOrGrape.description=Dummy Item
 
 aaa.mods.mb.BasicStaples.item.dummy.AnyFruit.name=Any Fruit
@@ -160,8 +175,8 @@ aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanDark.description=Fancy, excl
 aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanRuby.name=Artisan Ruby
 aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanRuby.description=Fancy...red chocolate? Is this stuff dyed?
 
-aaa.mods.mb.BasicStaples.item.complete.candy.CandyWhite.name=CandyWhite
-aaa.mods.mb.BasicStaples.item.complete.candy.CandyWhite.description=CandyWhite
+aaa.mods.mb.BasicStaples.item.complete.candy.CandyWhite.name=White Candy
+aaa.mods.mb.BasicStaples.item.complete.candy.CandyWhite.description=White has a flavor!?
 
 aaa.mods.mb.BasicStaples.item.complete.candy.ChocoPearPopsicle.name=Choco Pear Popsicle
 aaa.mods.mb.BasicStaples.item.complete.candy.ChocoPearPopsicle.description=Chocolate dipped pear popsicle with sprinkles.

@@ -34,7 +34,7 @@
         },
 		{
           "kind": "staxel.item.Recipe",
-          "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.WhiteCandy",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.WhiteCandy",
         },
 		{
           "kind": "staxel.item.Recipe",

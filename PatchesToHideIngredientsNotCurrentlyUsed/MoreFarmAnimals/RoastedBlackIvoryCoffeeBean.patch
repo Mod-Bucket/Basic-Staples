@@ -1,6 +1,6 @@
 {
     "file": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/RoastedBlackIvoryCoffeeBean.item",
-    "priority": 1000, 
+    "priority": 2, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {
   "pricing": {

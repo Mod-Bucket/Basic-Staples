@@ -28,8 +28,9 @@
     "z": -1.54
   },
   "pricing": {
-    "buyable": true,
-    "catalogueUnlockedFromStart": true,
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "appearsInCatalogue": false,
     "sellPrice": 7,
     "value": 35
   },

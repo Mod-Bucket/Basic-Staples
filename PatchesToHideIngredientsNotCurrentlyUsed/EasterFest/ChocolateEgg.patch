@@ -1,6 +1,6 @@
 {
     "file": "mods/Basic-Staples/item/crafting/EasterFest/ChocolateEgg.item",
-    "priority": 999, 
+    "priority": 2, 
     "mergeLists": true,
     "patch": {
 	

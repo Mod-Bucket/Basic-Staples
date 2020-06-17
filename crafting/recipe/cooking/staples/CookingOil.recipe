@@ -24,7 +24,7 @@
 	  "item": {
       "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
 	  },
-	  "count": 4,
+	  "count": 8,
   },
   "searchable": true,
   "steps": [

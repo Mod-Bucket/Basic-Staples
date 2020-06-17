@@ -16,7 +16,7 @@ Second: Basic Staples has been designed to win (almost certainly) any conflicts 
 
 Third: Basic Staples has some items and recipes that don't appear to the player. All of these items have a patch file in:
 
-mods\Basic Staples\item\crafting\PatchesToHideIngredientsNotCurrentlyUsed\
+mods\Basic Staples\PatchesToHideIngredientsNotCurrentlyUsed\
 
 If you find an item you want to use, but it has a patch file in this folder make a patch to override the Staples patch. All the priority numbers in this folder are set to a verty low priority so you should have no problems reversing the issue. 
 
@@ -30,7 +30,9 @@ If you find an item you want to use, but it has a patch file in this folder make
 	    "searchable": false, //players can find it in the creative menu.
 	    "canBeEarntFromLuckyBox": false, //A lucky box will drop 1 of this item ONCE only if the player has never seen it. This will unlock it in the catalog if the item has buyable set to true.
 
-	ONLY include a value you NEED to change. NEVER make a patch setting a value to false. Don't include any others. Set the patch's priority to "20", and the merge option to "true" unless you know what you're doing. Bear in mind, other mods need access to these items too so don't go changing other stuff that impacts an item's behavior. You can probably get away with changing the value or sell price, but don't assume those aren't changed by someone else. If you need a special version of an item for a quest that needs other attributes changed It's probably better to create a new item and link to the Basic Staples QB file.
+	ONLY include a value you NEED to change. NEVER make a patch setting a value to false. Don't include any others. Set your patch's priority to "3" or higher, and the merge option to "true" unless you know what you're doing. Bear in mind, other mods need access to these items too so don't go changing other stuff that impacts an item's behavior. You can probably get away with changing the value or sell price, but don't assume those aren't changed by someone else. If you need a special version of an item for a quest that needs other attributes changed It's probably better to create a new item and link to the Basic Staples QB file.
+
+Patches are applied in sequential order so first comes the original file, then a patch of priority "2", then priority "3", etc. Keep your patch numbers as low as possible.
 
 ------
 
@@ -51,6 +53,8 @@ If I wanted a recipe for Any Toasted PB&J I'd have to separate it into two recip
 Combine PB&J > 2 bread, peanut butter, Any Jam > Any PB& J.
 Toasted PB&J > Fry butter, Any PB&J > Any Toasted PB&J. 
 
+You'll need to make a dummy reaction for the recipe to point to that uses the dummy item.
+
 The CheeseCloth recipe has an example of how a Dummy Item works. The text of the name is in the Basic-Staples.lang file.
 
 ------
@@ -59,15 +63,15 @@ Actually Adding Basic Staples items to your mod:
 
 If you just want to use a Basic Staples item in your mod there are a few ways to go about it:
 
-1. Make your mod dependent on Basic Staples. You can use any visible basic staples items normally and you can assume that any of the visible Staple recipes are available for your player. Add in patch files to activate any items or recipes you want your players to see. (PLEASE ONLY activate items you'll be actually using to make stuff in your mod. Don't flood the player with useless items.)
+1. Make your mod dependent on Basic Staples. This is the best option by FAR. You can use any visible basic staples items normally and you can assume that any of the visible Staple recipes are available for your player. Add in patch files to activate any items or recipes you want your players to see. (PLEASE ONLY activate items you'll be actually using to make stuff in your mod. Don't flood the player with useless items.)
 
-2. Make your mod independent of Basic Staples. DON'T do this for critical features of your mod. Do this only when the stuff that uses Basic Staples is like bonus content. You can safely do this with just reactions for hidden secrets for your players to find. Actually showing a recipe is trickier because if Basic Staples isn't installed the recipe will read incorrectly to the player, but if you poke a Bucketeer we can look into the possibility of adding a reciprocal patch into Basic Staples that will turn on a recipe. (This is not a preferred option, but there are circumstances where it might be acceptable to pursue, like if it's an already established mod.)
+2. Make your mod independent of Basic Staples. DON'T do this for critical features of your mod. Do this only when the stuff that uses Basic Staples is like bonus content. This is NOT a preferred option, but there are circumstances where it might be acceptable to pursue, like if it's an already established mod. If you poke a Bucketeer we can look into the possibility of adding a reciprocal patches. To see how this option works look into how the Giant Sugar Eggs are handled between Basic Staples and Easter Fest. (We really want to avoid doing this if we can. It's a headache.) 
 
 Caveats for specific ingredients:
 
 We've tried really hard to avoid duplicate items in Basic Staples from other mods. It was inevitable that it would happen at some point though. Some mods Basic Staples will just tweak so that their recipes output a Staple product...but if the mod is small enough and it only produces 1-2 items then Staples would overwrite the entire mod so we didn't take that route.
 
-Pickles: Any recipe that uses a "pickle" should probably have a variation for the pickle from Allie's mod. Technically Allie's pickles are fermented and Staple's pickles are "quick pickles" so they would be different  products in reality. If you have a good reason not to make them equivalent, (like having recipes for both kinds of pickle,) then don't. But if you just want some random form of pickle then make duplicate reactions but only a single recipe.
+(In the Future) Pickles: Any recipe that uses a "pickle" should probably have a variation for the pickle from Allie's mod. Technically Allie's pickles are fermented and Staple's pickles are "quick pickles" so they would be different  products in reality. If you have a good reason not to make them equivalent, (like having recipes for both kinds of pickle,) then don't. But if you just want some random form of pickle then make duplicate reactions but only a single recipe. (You shouldn't make a Dummy for this. Just tell the player to use a "Pickle" and give the game two reaction files that point to the tw different pickles.)
 
 Corn Oil: Avoid using this directly. Cooking oil is preferred. If you use Corn Oil, bear in mind that a player might have OilC installed and you should make two versions of the reactions.
 

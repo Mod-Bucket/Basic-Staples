@@ -1,0 +1,34 @@
+{
+  "code": "staxel.treasure.storeShelf.seeds",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 5,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.bush.Mint.plant"
+        }
+      ]
+    },
+    {
+      "weight": 5,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant"
+        }
+      ]
+    },
+    {
+      "weight": 10,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant",
+          "quantity": 3
+        }
+      ]
+    },
+  ]
+}

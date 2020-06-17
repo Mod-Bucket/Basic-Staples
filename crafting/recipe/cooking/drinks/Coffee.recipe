@@ -7,7 +7,7 @@
       "code": "staxel.item.crafting.WaterJar",
     },
     {
-      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoffeeGrounds",
+      "code": "staxel.item.crops.CoffeeBean",
 	  "quantity": 2
     },
   ],
@@ -25,6 +25,10 @@
   },
   "searchable": true,
   "steps": [
+    {
+      "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.BakeCoffeeBean",
+      "quantity": 2
+    },   
     {
       "reaction": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.CoffeeGrounds",
       "quantity": 2

@@ -1,0 +1,9 @@
+{
+    "file": "staxel/item/crops/GoldenCabbage.item",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "icon": "mods/Basic-Staples/item/crops/golden/GoldenCabbage.qb",
+  "inHand": "mods/Basic-Staples/item/crops/golden/GoldenCabbage.qb",
+    }
+}

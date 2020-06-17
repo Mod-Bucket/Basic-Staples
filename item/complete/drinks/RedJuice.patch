@@ -1,0 +1,16 @@
+{
+    "file": "staxel/item/complete/RedJuice.item",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "edible": true,
+  "eatTime": 2,
+  "consumable": {
+    "colour": "E43334",
+    "particles": "staxel.particle.item.Drink",
+    "sound": "staxel.sound.Player.drink.sip"
+  },
+  "isDrink": true,
+
+    }
+}

@@ -24,6 +24,6 @@
   },
   "searchable": true,
   "steps": [
-    "aaa.mods.mb.BasicStaples.crafting.reactions.crafting.supplies.BoilCheeseCloth",
+    "aaa.mods.mb.BasicStaples.crafting.reactions.crafting.supplies.BoilCheeseClothDummy",
   ]
 }

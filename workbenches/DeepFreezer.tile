@@ -33,7 +33,6 @@
     "sellPrice": 5,
     "value": 1000
   },
-  "open": false,
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "customRendererVoxels": "mods/Basic-Staples/workbenches/DeepFreezer.qb",

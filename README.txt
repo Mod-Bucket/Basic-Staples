@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.0
+Version 1.02
 
 A mod for Staxel.
 
@@ -14,6 +14,10 @@ That depends on who you are.
 If you're a player, it's a mod that fills in the holes in the cooking system of Staxel. It will let you bake bread, make cheese, and has recipes that use every basic crop in the game. If you have other mods installed that Staples supports you may find new recipes that combine ingredients from multiple mods. At the same time: Staples won't clog up your catalog with useless ingredients. If you can lay your hands on it then there should be a recipe that can use the item. If you're a player, that's pretty much all you need to know! Check the section on pets just below this one if you aren't happy with the tweaks to pet gifting behavior. If you're concerned about compatability see the section after that. Go have fun!
 
 If you're a modder, Staples gives you access to new ingredients from other mods that it supports without needing to release weird compatability patch mods. It doesn't give you access to most things that would be considered an "end product" unless that could reasonably be used to make something else (Like how carrot cakes can be made into a wedding cake in vanilla Staxel.) For how the system works see the ForModder.txt file in the same folder as this readme.
+
+What's going to happen with Basic Staples in the future?
+
+The core functionality is done, but there are plans to add patches that will make villagers like more things with an eye to more variety in gift giving. In the future as new mods are released Staples will add ingredients and new recipes. Basic Staples will never have quest content and is essentially in as finished a state as a core mod like this can ever be. It will continue to grow as a resource for players and modders alike so your villagers will always have delicious and intriguing food!
 
 ==========
 
@@ -56,24 +60,22 @@ Fully Supported*:
 Partly Supported**:
 	
 	OilC:
-		* mods\Basic-Staples\crafting\OilCPatches\ You will have to manually rename the "*.reaction-" files to "*.reaction" for full compatability!
 		* Patches make both oils equivalent to Staple's oil for the purposes of making cooking oil. 
 		* OilC oils may or may not work if another mod decides to use oils other than "cooking oil."
 		* OilC's crusher will make Staples's oils. 
-		* The Crusher is much more efficent than Staple's mill so there is incentive to use it. 
-		* OilC's recipes report an incorrect results quantity. You get twice as much oil.
-		* Removed OilC's recipes from sale. It's pretty obvious how it works.
+		* The Crusher is much more efficent than Staple's mill so there is incentive to use it.
+		* Sell any OilC oil you have for profit.
 
 	StaxelBasicRecipes:
 		* Removed conflicting flour reactions and hid recipes. 
-		* Do not recommend using this mod's cocoa recipe. Fast but not economical. 
+		* Do not recommend using this mod's cocoa recipe. Fast to get you catalog chocolate early but not economical. 
 		* The animal food recipes are entirely different. Flexibility!
 
 	Auto Magic:
 		* Patches added to redirect the pet drop tables.
 		* Automated Recipes have not been added yet.
 		
-**A partly supported mod might have some recipe conflicts with Basic Staples that have been patched out. Some items in the mod might be duplicates of Basic Staples items and additional reactions may have been added to make the duplicates work in Staple recipes. Incorrect recipes May have been patched out. The mod may have ingredients that are unavailable for use with other mods. Mods that use Basic Staples might forget to include reactions for some of this mod's ingredients. 
+**A partly supported mod might have some recipe conflicts with Basic Staples that have been patched out. Some items in the mod might be duplicates of Basic Staples items and the mod's recipes have been changed to produce or use Staples products. The mod may have ingredients that are unavailable for use with other mods. Mods that use Basic Staples might forget to include reactions for some of this mod's ingredients. 
 
 ---------
 
@@ -87,8 +89,7 @@ Non-conflicting Mods***:
 	Pearl_Jam
 	KK's Pizza
 	StarJelly - Basic Staples does NOT have a Star Jelly recipe. No recipe is intended.
-	StaxelCookieDough
-		* Not useable in place of Staple's Cookie Dough because the game hates my attempts to make that happen. This will be revisited.
+	StaxelCookieDough - completely different recipe and behavior. It's an alternative.
 	Waifu Bartending
 
 ***A non-conflicting mod has no recipes that directly interfere with Basic Staples. It may have different recipes that do the same thing, (like have a different method for making cheese,) but it doesn't cause any problems. Most of these mods either add a method to craft a vanilla item, or add items that Basic Staples doesn't have. It's possible some of these may move to another category if they're updated with new items or Basic Staple's roadmap changes. 
@@ -101,8 +102,7 @@ Unsupported Mods****:
 	Autokitchen by NiccyNeko:
 		* Automated Recipes have not been added yet.
 	Coffee in Staxel:
-		* Coffee Maker would require significant editing to be compatable with Basic Staples coffee.
-		* Maybe someday.
+		* Maybe someday? It will take looking into.
 	Dairy:
 		* Lots of overlap with Basic Staples. 
 		* Full compatability will require coordination with Ro-Z.
@@ -129,16 +129,17 @@ toketsupuurin:
 - Cake Stand, Cheesecake Stand, Iced Cake Standm Raspberry Pie Stand
 - Cookbooks
 - Dummy Items (Mark Grant's idea. He's a genius!)
+- Mermaid Hoe
 - Items:
 	- Crops: Grapes, Wheat, Mint, Puppy Potato, Peanut, Patch to Coconut QB.
 	- Chopped Crops: Banana, Coconut, Shredded Coconut, Strawberries, Sweet Potato.
 	- Staples: Beef, Boiled Sausage, Bread Dough, Chicken, Chopped Chocolate, Cocoa Butter, Cocoa Liquor, Cocoa Powder, Coconut Milk, Coconut Water, Coffee Grounds, Cookie Dough, Cooking Oil, Corn Oil, Ice Cubes, Icing, Muffin Batter, Oat Flour, Pepper, Raw Sausage, Rennet, Sprinkles, Sunflower Oil, Vanilla. Patch to Cake Batter and Pancake Batter QBs.
 	- Intermediates: Blueberry Popsicle Mould, Cake Iced Batter, Chocolate Chip Cookie Unbaked, Cookie Plain Unbaked, Grape Popsicle Mould, Lime Popsicle Mould, Mint Popsicle Mould, Muffin Batter Blueberry, Muffin Batter Chocolate Chip, Muffin Batter Plain, Muffin Batter Strawberry, Orange Popsicle Mould, Pear Popsicle Mould, Pumbanoat Bread Dough, Raw Beet Turnip Gratin, Roasted Cacao, Roasted Coffee Bean, Seasoned Chicken, Strawberry Popsicle Mould, Tangerine Popsicle Mould, Uncooked Ham and Cheese. (Unused: Other Cake Batter QBs.)
 	- Supplies: Popsicle Stick, Muffin Pan (Unused), White Potion, Cheesecloth.
-	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB.
+	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB.
 
 MarkGrant: 
-- Egg Patch
+	- Egg Patch
 
 ===========
 
@@ -175,6 +176,18 @@ toketsupuurin:
 ===========
 
 Versions
+
+1.02
+	- patched appearance of Golden Coffee Bean item to not be a golden eggplant. Tweaked color of Golden Cabbage item so it's not so grey.
+	- patched out Easterfest Bunny carrot seeds from being searched for, or really accessed at all.
+	- removed puppy potato, puppy potato seeds and bunny carrot seeds from catalog.
+	- Added grapes, wheat, and mint to the seed sellers. 
+	- fixed naming issues for mint seeds and wheat seeds.
+
+1.01
+	- patched appearance of corn and cucumber items to better resemble their Golden versions (which looked better.) 
+	- fixed easter bunny drops so that the bunny ONLY drops Staples eggs and not both. 
+	
 
 1.0 
 	- Cookbooks no longer make bug spawners.

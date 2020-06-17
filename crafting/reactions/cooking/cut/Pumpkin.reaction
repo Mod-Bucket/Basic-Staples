@@ -1,0 +1,26 @@
+{
+  "name": "Sliced Watermelon",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.ChoppedPumpkin",
+  "recipeStep": "cut",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crops.Pumpkin",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.ChoppedPumpkin",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effect": "staxel.effect.cooking.Chop"
+}

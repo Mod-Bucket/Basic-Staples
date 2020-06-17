@@ -12,7 +12,7 @@
 	  "quantity": 2
     },
 	{
-      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoffeeGrounds",
+      "code": "staxel.item.crops.CoffeeBean",
 	  "quantity": 5
     },
   ],
@@ -30,6 +30,11 @@
   },
   "searchable": true,
   "steps": [
+	"aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.CombineVialBlack",
+	{
+      "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.BakeCoffeeBean",
+      "quantity": 5
+    },
     {
       "reaction": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.CoffeeGrounds",
       "quantity": 5

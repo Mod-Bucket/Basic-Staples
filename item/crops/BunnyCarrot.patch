@@ -1,0 +1,15 @@
+{
+    "file": "mods/EasterFest/Plants/crops/BunnyCarrot.item",
+    "priority": 2, 
+    "mergeLists": false,
+    "patch": {
+	
+  "pricing": {
+		"catalogueUnlockedFromStart": false,
+	    "appearsInCatalogue": false, 
+	    "buyable": false, 
+  },
+	    "searchable": false, 
+	    "canBeEarntFromLuckyBox": false,
+    }
+}
