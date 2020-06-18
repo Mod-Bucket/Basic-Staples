@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.02
+Version 1.03
 
 A mod for Staxel.
 
@@ -177,6 +177,9 @@ toketsupuurin:
 
 Versions
 
+1.03
+	- fixed grapes. they now drop actual grapes instead of seeds.
+	- added a trellis to grapes.
 1.02
 	- patched appearance of Golden Coffee Bean item to not be a golden eggplant. Tweaked color of Golden Cabbage item so it's not so grey.
 	- patched out Easterfest Bunny carrot seeds from being searched for, or really accessed at all.

@@ -54,7 +54,7 @@
       },
       "particles": "staxel.particle.harvest.BushShake",
       "picked": "GrapesSprout5",
-      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.seeds.GrapeSeeds"
+      "pickedTreasure":  "aaa.mods.mb.BasicStaples.treasure.GrapesHarvest",
     },
     "GrapesSprout1": {
       "alt": 1,
