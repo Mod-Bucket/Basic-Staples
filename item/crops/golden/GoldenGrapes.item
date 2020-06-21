@@ -1,0 +1,44 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"golden",
+	"Basic Staples",
+	"Mod Bucket",
+    "grape",
+    "boilable",
+    "reapable",
+    "mixable",
+    "harvested",
+	"purple"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes",
+  "eatTime": 1,
+  "icon": "mods/Basic-Staples/item/crops/golden/GoldenGrapes.qb",
+  "inHand": "mods/Basic-Staples/item/crops/golden/GoldenGrapes.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.4,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 6925,
+    "value": 8991
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

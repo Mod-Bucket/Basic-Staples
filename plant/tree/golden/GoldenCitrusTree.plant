@@ -1,0 +1,177 @@
+{
+  "categories": [
+    "plant",
+    "gold",
+    "seed",
+    "fruit",
+    "tree"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.tree.GoldenCitrusTree",
+  "icon": "mods/Basic-Staples/plant/tree/golden/GoldenCitrusSeedPacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 1674,
+    "value": 2790
+  },
+  "requiresWatering": false,
+  "searchable": true,
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "stages": {
+    "CitrusTreeFruited": {
+      "alt": 0,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "breakRemains": "CitrusTreeRemains",
+      "dropJitterOffset": {
+        "x": 0.75,
+        "y": 0.0,
+        "z": 0.75
+      },
+      "dropOffset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "interactionEntityAction": "staxel.entityAction.ShakeTree",
+      "offset": {
+        "x": 0.0,
+        "y": 1.45,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.TreeShake",
+      "picked": "CitrusTreeGrown1",
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenCitrusHarvest",
+    },
+    "CitrusTreeGrown1": {
+      "alt": 2,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "breakRemains": "CitrusTreeRemains",
+      "grow": "CitrusTreeGrown2",
+      "growWindow": {
+        "x": 4,
+        "y": 4
+      },
+      "growsDuring": [
+        "winter"
+      ]
+    },
+    "CitrusTreeGrown2": {
+      "alt": 1,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "breakRemains": "CitrusTreeRemains",
+      "grow": "CitrusTreeFruited",
+      "growWindow": {
+        "x": 4,
+        "y": 4
+      },
+      "growsDuring": [
+        "winter"
+      ]
+    },
+    "CitrusTreeRemains": {
+      "alt": 8,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      }
+    },
+    "CitrusTreeSprout1": {
+      "alt": 6,
+      "grow": "CitrusTreeSprout2",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ],
+      "scytheable": {}
+    },
+    "CitrusTreeSprout2": {
+      "alt": 5,
+      "grow": "CitrusTreeSprout3",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ],
+      "scytheable": {}
+    },
+    "CitrusTreeSprout3": {
+      "alt": 4,
+      "grow": "CitrusTreeSprout4",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ],
+      "scytheable": {}
+    },
+    "CitrusTreeSprout4": {
+      "alt": 3,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "grow": "CitrusTreeGrown1",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ]
+    },
+    "seed": {
+      "alt": 7,
+      "grow": "CitrusTreeSprout1",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ],
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.treetile.Golden.CitrusTree"
+}

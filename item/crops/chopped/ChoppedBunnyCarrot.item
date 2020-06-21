@@ -1,0 +1,51 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "Carrot",
+	"orange",
+	"chopped",
+	"rabbit",
+    "boilable",
+    "reapable",
+    "mixable",
+    "harvested",
+    "pet"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBunnyCarrot",
+  "eatTime": 1,
+  "icon": "mods/Basic-Staples/item/crops/chopped/ChoppedBunnyCarrot.qb",
+  "inHand": "mods/Basic-Staples/item/crops/chopped/ChoppedBunnyCarrot.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.25,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"swift",
+		"jumpy"
+	]
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "appearsInCatalogue": false,    
+    "sellPrice": 162,
+    "value": 270
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

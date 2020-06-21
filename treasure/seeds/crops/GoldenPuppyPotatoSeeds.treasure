@@ -1,0 +1,24 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.seeds.GoldenPuppyPotatoSeeds",
+  "entries": [
+    {
+      "weight": 95.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "weight": 5.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.GoldenPuppyPotato.plant"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "file": "staxel/village/character/Cirahna.villagernpc",
+    "priority": 999, 
+    "mergeLists": true, 
+    "patch" : {
+        "regards": [
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 5,
+      "concept": {
+        "categories": [
+          "Totalsugarrush"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 3,
+      "concept": {
+        "categories": [
+          "Magicalwitchypower"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 1,
+      "concept": {
+        "categories": [
+  		  "Candyhouseintheforest"
+        ]
+      }
+    },
+  ],
+
+    }
+}

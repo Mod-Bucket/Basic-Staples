@@ -1,0 +1,82 @@
+{
+    "file": "staxel/village/character/Aliza.villagernpc",
+    "priority": 999, 
+    "mergeLists": true, 
+    "patch" : {
+        "regards": [
+//    {
+//      "kind": "staxel.concepts.Category",
+//      "attitude": 10,
+//      "concept": {
+//        "categories": [
+//          "AlizaTranscendent"
+//        ]
+//      }
+//    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 5,
+      "concept": {
+        "categories": [
+          "Powerfuel"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 3,
+      "concept": {
+        "categories": [
+          "Constructiondust"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 1,
+      "concept": {
+        "categories": [
+  		  "Nutsnbolts"
+        ]
+      }
+    },
+//    {
+//      "kind": "staxel.concepts.Category",
+//      "attitude": -1,
+//      "concept": {
+//        "categories": [
+//		  "AlizaNotOk"
+//        ]
+//      }
+//    },
+//    {
+//      "kind": "staxel.concepts.Category",
+//      "attitude": -3,
+//      "concept": {
+//        "categories": [
+//          "AlizaDislikes"
+//        ]
+//      }
+//    },
+//    {
+//      "kind": "staxel.concepts.Category",
+//      "attitude": -5,
+//      "concept": {
+//        "categories": [
+//          "AlizaHates"
+//        ]
+//      }
+//    },
+//    {
+//      "kind": "staxel.concepts.Item",
+//      "attitude": -10,
+//      "concept": {
+//        "categories": [
+//          "AlizaLoathes"
+//        ]
+//      }
+//    },
+  ],
+
+    }
+}

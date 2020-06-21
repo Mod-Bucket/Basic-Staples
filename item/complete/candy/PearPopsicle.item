@@ -6,7 +6,8 @@
     "cooking",
     "popsicle",
     "pear",
-    "food"
+    "food",
+	"Technicalspecs"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.candy.PearPopsicle",
   "icon": "mods/Basic-Staples/item/complete/candy/PearPopsicle.qb",

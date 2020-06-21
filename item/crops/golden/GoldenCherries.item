@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"golden",
+    "market",
+    "fruit",
+    "cherry",
+    "cherries",
+    "reapable",
+    "boilable",
+    "choppable",
+    "mixable",
+    "harvested"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCherries",
+  "eatTime": 1,
+  "icon": "mods/Basic-Staples/item/crops/golden/GoldenCherries.qb",
+  "inHand": "mods/Basic-Staples/item/crops/golden/GoldenCherries.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 374,
+    "value": 623
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

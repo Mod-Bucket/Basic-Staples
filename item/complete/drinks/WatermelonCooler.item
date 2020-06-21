@@ -8,7 +8,8 @@
     "lime",
 	"ice",
 	"cubes",
-    "drink"
+    "drink",
+	"Totalsugarrush"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.WatermelonCooler",
   "eatTime": 2,

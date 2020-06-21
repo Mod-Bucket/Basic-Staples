@@ -1,0 +1,163 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "plant",
+    "gold",
+    "seed",
+    "fruit",
+    "vine",
+	"bush"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.plant",
+  "growthTime": 30,
+  "icon": "mods/Basic-Staples/plant/bush/golden/GoldenGrapesSeedPacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 38088,
+    "value": 49450
+  },
+  "requiresWatering": false,
+  "searchable": true,
+  "seasons": [
+      "spring",
+	  "summer",
+	  "autumn"
+  ],
+  "stages": {
+    "GrapesFruited": {
+      "alt": 7,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "dropOffset": {
+        "x": 0.15,
+        "y": 0.0,
+        "z": 0.15
+      },
+      "interactionEntityAction": "staxel.entityAction.HarvestFruitedBush",
+      "offset": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.BushShake",
+      "picked": "GrapesSprout5",
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenGrapesHarvest",
+    },
+    "GrapesSprout1": {
+      "alt": 1,
+      "grow": "GrapesSprout2",
+      "growWindow": {
+        "x": 5,
+        "y": 5
+      },
+      "growsDuring": [
+        "spring",
+		"summer",
+	    "autumn"
+      ],
+      "scytheable": {}
+    },
+    "GrapesSprout2": {
+      "alt": 2,
+      "grow": "GrapesSprout3",
+      "growWindow": {
+        "x": 5,
+        "y": 5
+      },
+      "growsDuring": [
+        "spring",
+		"summer",
+	    "autumn"
+      ],
+      "scytheable": {}
+    },
+    "GrapesSprout3": {
+      "alt": 3,
+      "grow": "GrapesSprout4",
+      "growWindow": {
+        "x": 5,
+        "y": 5
+      },
+      "growsDuring": [
+        "spring",
+		"summer",
+	    "autumn"
+      ],
+      "scytheable": {}
+    },
+    "GrapesSprout4": {
+      "alt": 4,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "grow": "GrapesSprout5",
+      "growWindow": {
+        "x": 5,
+        "y": 5
+      },
+      "growsDuring": [
+        "spring",
+		"summer",
+	    "autumn"
+      ]
+    },
+    "GrapesSprout5": {
+      "alt": 5,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "grow": "GrapesSprout6",
+      "growWindow": {
+        "x": 5,
+        "y": 5
+      },
+      "growsDuring": [
+        "spring",
+		"summer",
+	    "autumn"
+      ]
+    },
+    "GrapesSprout6": {
+      "alt": 6,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "grow": "GrapesFruited",
+      "growWindow": {
+        "x": 5,
+        "y": 5
+      },
+      "growsDuring": [
+	    "autumn"
+      ]
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "GrapesSprout1",
+      "growWindow": {
+        "x": 5,
+        "y": 5
+      },
+      "growsDuring": [
+        "spring",
+		"summer",
+	    "autumn"
+      ],
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes"
+}

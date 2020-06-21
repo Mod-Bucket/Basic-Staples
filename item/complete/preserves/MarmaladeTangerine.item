@@ -6,7 +6,8 @@
 	"Mod Bucket",
     "marmalade",
     "tangerine",
-    "food"
+    "food",
+	"Sparklyfishscales",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.preserves.MarmaladeTangerine",
   "eatTime": 2,

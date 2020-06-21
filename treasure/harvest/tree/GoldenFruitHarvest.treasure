@@ -1,0 +1,77 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.GoldenFruitHarvest",
+  "entries": [
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenApple",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenApple",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCherries",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCherries",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPeach",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPeach",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPear",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPear",
+          "quantity": 3
+        }
+      ]
+    },
+  ]
+}

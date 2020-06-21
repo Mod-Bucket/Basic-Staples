@@ -1,0 +1,37 @@
+{
+    "file": "staxel/village/character/Vorlen.villagernpc",
+    "priority": 999, 
+    "mergeLists": true, 
+    "patch" : {
+        "regards": [
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 5,
+      "concept": {
+        "categories": [
+          "Rainbowpower"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 3,
+      "concept": {
+        "categories": [
+          "Thefinerthings"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 1,
+      "concept": {
+        "categories": [
+  		  "Tickingtimepiece"
+        ]
+      }
+    },
+  ],
+
+    }
+}

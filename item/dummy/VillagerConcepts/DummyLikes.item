@@ -1,0 +1,53 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "dummy",
+	"Constructiondust",//"AlizaLikes",
+	"Laboratoryparaphenalia",//"CecileLikes",
+	"Magicalwitchypower",//"CirahnaLikes",
+	"Slipperypeel",//"EmiliaLikes",
+	"Attitudeandahalf",//"ErisLikes",
+	"Tractorday",//"FarmFanLikes",
+	"RedpillBluepill",//"JamieLikes",
+	"Treehugging",//"LeifLikes",
+	"Makinitrain",//"MaximilianLikes",
+	"Slimemoldinmotion",//"MorelLikes",
+	"Spicnspan",//"OscarLikes",
+	"Juicyprey",//"RiahLikes",
+	"Fluffycritters",//"RosemaryLikes",
+	"Makingsap",//"RowanLikes",
+	"Thefinerthings",//"VorlenLikes",
+	
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.dummy.DummyLikes",
+  "icon": "mods/Basic-Staples/item/dummy/Dummy.qb",
+  "inHand": "mods/Basic-Staples/item/dummy/Dummy.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "isDockable": false,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false, 
+	"appearsInCatalogue": false, 
+	"buyable": false, 
+    "sellPrice": 1,
+    "value": 2
+  },
+  "searchable": false, 
+  "canBeEarntFromLuckyBox": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/plant/tree/base.config",
+  "categories": [
+    "tree",
+    "plant",
+    "produce",
+    "growable",
+    "fruit",
+    "gold",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.treetile.Golden.ExoticTree",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 4,
+      "z": 3
+    },
+    "specification": "\r\n\tCCC CCC CCC\r\n\tCCC CCC CCC\r\n\tCCC CCC CCC\r\n\tCCC CXC CCC\r\n\t"
+  },
+  "searchable": false,
+  "variants": [
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,74,48}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,74,48}?offset={48,0,0}",
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,74,48}?offset={96,0,0}",
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,48,48}?offset={144,0,0}",
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,48,48}?offset={192,0,0}",
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,48,48}?offset={240,0,0}",
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,48,48}?offset={288,0,0}",
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,48,48}?offset={336,0,0}",
+    "mods/Basic-Staples/plant/tree/golden/GoldenExoticTree.qb?size={48,48,48}?offset={384,0,0}"
+  ]
+}

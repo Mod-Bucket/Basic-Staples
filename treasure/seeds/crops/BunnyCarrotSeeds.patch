@@ -1,0 +1,44 @@
+{
+    "file": "mods/EasterFest/Plants/crops/BunnyCarrotSeeds.treasure",
+    "priority": 999, 
+    "mergeLists": false,
+    "patch" : {
+
+  "entries": [
+    {
+      "weight": 79.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "weight": 20.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot.plant",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+
+
+    }
+}
+
+

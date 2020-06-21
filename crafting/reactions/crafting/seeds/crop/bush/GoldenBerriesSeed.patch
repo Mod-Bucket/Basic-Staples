@@ -1,0 +1,17 @@
+{
+    "file": "staxel/crafting/reactions/crafting/seeds/crop/golden/GoldenBerriesSeed.reaction",
+    "priority": 999, 
+    "mergeLists": false,
+    "patch" : {
+
+  "results": [
+    {
+      "reactionTreasure": "staxel.treasure.GoldenberrySeeds",
+    }
+  ],
+
+
+    }
+}
+
+

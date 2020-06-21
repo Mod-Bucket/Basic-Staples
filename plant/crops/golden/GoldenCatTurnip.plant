@@ -1,0 +1,154 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+    "turnip",
+    "vegetable",
+    "gold",
+    "seed",
+    "seeds",
+    "packet",
+    "pet"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip.plant",
+  "icon": "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipSeedpacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 228,
+    "value": 1140
+  },
+  "searchable": true,
+  "seasons": [
+    "winter",
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "stages": {
+    "TurnipFruited": {
+      "alt": 3,
+      "interactionEntityAction": "staxel.entityAction.HarvestPullable",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenCatTurnipHarvest",
+      "scytheable": {},
+      "wilted": "TurnipWiltedFruited",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "TurnipSprout1": {
+      "alt": 1,
+      "grow": "TurnipSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "TurnipWilted1",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "TurnipSprout2": {
+      "alt": 2,
+      "grow": "TurnipFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "TurnipWilted2",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "TurnipWilted1": {
+      "alt": 4,
+      "grow": "TurnipSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "TurnipWithered1",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "TurnipWilted2": {
+      "alt": 5,
+      "grow": "TurnipSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "TurnipWithered2",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "TurnipWiltedFruited": {
+      "alt": 6,
+      "grow": "TurnipFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "TurnipWitheredFruited",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "TurnipWithered1": {
+      "alt": 7,
+      "scytheable": {}
+    },
+    "TurnipWithered2": {
+      "alt": 8,
+      "scytheable": {}
+    },
+    "TurnipWitheredFruited": {
+      "alt": 9,
+      "scytheable": {}
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "TurnipSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip"
+}

@@ -1,0 +1,43 @@
+{
+    "file": "staxel/treasure/crafting/tree/PearSeeds.treasure",
+    "priority": 999, 
+    "mergeLists": false,
+    "patch" : {
+
+"entries": [
+    {
+      "weight": 50.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.PearTree",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 45.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.PearTree",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 5.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.tree.GoldenFruitTree",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+
+    }
+}
+
+

@@ -1,0 +1,153 @@
+{
+  "categories": [
+    "plant",
+    "silver",
+    "seed",
+    "fruit",
+    "bush"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.plant",
+  "icon": "mods/Basic-Staples/plant/bush/golden/GoldenBlueberryBushSeedPacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 2378,
+    "value": 4033
+  },
+  "requiresWatering": false,
+  "searchable": true,
+  "seasons": [
+    "winter",
+    "spring"
+  ],
+  "stages": {
+    "BlueberryBushFruited": {
+      "alt": 7,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "dropOffset": {
+        "x": 0.15,
+        "y": 0.0,
+        "z": 0.15
+      },
+      "interactionEntityAction": "staxel.entityAction.HarvestFruitedBush",
+      "offset": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.BushShake",
+      "picked": "BlueberryBushSprout5",
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenBlueberriesHarvest",
+    },
+    "BlueberryBushSprout1": {
+      "alt": 1,
+      "grow": "BlueberryBushSprout2",
+      "growWindow": {
+        "x": 2,
+        "y": 2
+      },
+      "growsDuring": [
+        "winter",
+        "spring"
+      ],
+      "scytheable": {}
+    },
+    "BlueberryBushSprout2": {
+      "alt": 2,
+      "grow": "BlueberryBushSprout3",
+      "growWindow": {
+        "x": 2,
+        "y": 2
+      },
+      "growsDuring": [
+        "winter",
+        "spring"
+      ],
+      "scytheable": {}
+    },
+    "BlueberryBushSprout3": {
+      "alt": 3,
+      "grow": "BlueberryBushSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+        "winter",
+        "spring"
+      ],
+      "scytheable": {}
+    },
+    "BlueberryBushSprout4": {
+      "alt": 4,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "grow": "BlueberryBushSprout5",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+        "winter",
+        "spring"
+      ]
+    },
+    "BlueberryBushSprout5": {
+      "alt": 5,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "grow": "BlueberryBushSprout6",
+      "growWindow": {
+        "x": 2,
+        "y": 2
+      },
+      "growsDuring": [
+        "winter",
+        "spring"
+      ]
+    },
+    "BlueberryBushSprout6": {
+      "alt": 6,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "grow": "BlueberryBushFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+        "winter",
+        "spring"
+      ]
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "BlueberryBushSprout1",
+      "growWindow": {
+        "x": 2,
+        "y": 2
+      },
+      "growsDuring": [
+        "winter",
+        "spring"
+      ],
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush"
+}

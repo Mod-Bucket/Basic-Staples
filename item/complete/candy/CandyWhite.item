@@ -6,7 +6,8 @@
     "cooking",
     "candy",
     "white",
-    "food"
+    "food",
+	"Alittlemoldy"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.candy.CandyWhite",
   "eatTime": 1,

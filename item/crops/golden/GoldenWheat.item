@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"golden",
+	"Basic Staples",
+	"Mod Bucket",
+    "grain",
+    "millable",
+    "boilable",
+    "reapable",
+    "harvested"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenWheat",
+  "eatTime": 1,
+  "icon": "mods/Basic-Staples/item/crops/golden/GoldenWheat.qb",
+  "inHand": "mods/Basic-Staples/item/crops/golden/GoldenWheat.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.4,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 1877,
+    "value": 3128
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

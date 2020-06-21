@@ -3,7 +3,8 @@
 	"Basic Staples",
 	"Mod Bucket",
     "coffee",
-    "food"
+    "food",
+	"Powerfuel"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso",
   "icon": "staxel/item/quest/Rowan/OrderForAliza.qb",

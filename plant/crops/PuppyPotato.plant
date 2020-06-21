@@ -31,8 +31,8 @@
     "catalogueUnlockedFromStart": false,
     "buyable": false,
     "appearsInCatalogue": false,
-    "sellPrice": 7,
-    "value": 35
+    "sellPrice": 12,
+    "value": 60
   },
   "searchable": true,
   "seasons": [

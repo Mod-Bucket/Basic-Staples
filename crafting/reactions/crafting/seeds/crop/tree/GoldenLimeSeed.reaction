@@ -1,0 +1,26 @@
+{
+  "name": "Reap Grape Seeds",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.ReapGoldenLimeSeeds",
+  "recipeStep": "reap",
+  "moveResultsToSite": "seedSite",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 3,
+  "docks": [
+    "staxel.tileObject.serverVillage.SeedMaker"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenLime",
+      "quantity": 10
+    }
+  ],
+  "results": [
+    {
+      "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.seeds.GoldenLimeSeeds",
+    }
+  ],
+  "duration": 10/* seconds*/,
+  "effect": "staxel.effect.crafting.SeedMaker"/*only valid with duration*/,
+  "effectTrigger": "staxel.effect.crafting.SeedMaker.result"
+}

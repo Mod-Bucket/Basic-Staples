@@ -1,0 +1,43 @@
+{
+    "file": "staxel/treasure/crafting/tree/CocoaSeeds.treasure",
+    "priority": 999, 
+    "mergeLists": false,
+    "patch" : {
+
+"entries": [
+    {
+      "weight": 45.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.CocoaTree",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 50.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.CocoaTree",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 5.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.tree.GoldenPalmTree",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+
+    }
+}
+
+

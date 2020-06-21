@@ -34,8 +34,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": true,
     "buyable": true,
-    "sellPrice": 4954,
-    "value": 8256
+    "sellPrice": 5366,
+    "value": 8944
   },
   "searchable": true,
   "priority": 32,

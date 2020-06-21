@@ -1,0 +1,27 @@
+{
+  "code": "mods.AutoMagic.PetTreasure.Bunny",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.coats.LabCoat",
+          "palette": "staxel.palette.grey"
+        }
+      ]
+    },
+  ]//Add golden Peanut
+}

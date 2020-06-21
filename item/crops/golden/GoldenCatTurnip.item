@@ -1,0 +1,53 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"golden",
+    "market",
+    "vegetable",
+    "turnip",
+    "choppable",
+    "boilable",
+    "reapable",
+    "mixable",
+    "harvested",
+    "pet",
+	"Fluffycritters"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCatTurnip",
+  "eatTime": 1,
+  "icon": "mods/Basic-Staples/item/crops/golden/GoldenCatTurnip.qb",
+  "inHand": "mods/Basic-Staples/item/crops/golden/GoldenCatTurnip.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.25,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"swift",
+		"jumpy"
+	]
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "appearsInCatalogue": false,    
+    "sellPrice": 3420,
+    "value": 5700
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

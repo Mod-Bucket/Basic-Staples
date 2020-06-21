@@ -1,0 +1,26 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.MillPeanutButter",
+  "entries": [
+    {
+      "weight": 95.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.PeanutButter",
+		  "quantity": 1
+        }
+      ]
+    },
+	{
+      "weight": 5.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.PeanutButter",
+        },
+		{
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPeanut",
+		  "quantity": 1
+        },
+      ]
+    }
+  ]
+}

@@ -10,6 +10,7 @@
     "craftingStation",
     "tool",
     "mill",
+	"Constructiondust",
 	"grind"
   ],
   "code": "aaa.mods.mb.BasicStaples.workbenches.Mill",
@@ -20,7 +21,7 @@
       "z": 1
     }
   },
-  "descriptionImage": "staxel/ui/image/CraftingIcons/MillIcon.png",
+  "descriptionImage": "mods/Basic-Staples/docks/MillIcon.png",
   "pricing": {
     "buyable": true,
     "catalogueUnlockedFromStart": true,

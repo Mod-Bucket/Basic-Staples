@@ -1,0 +1,26 @@
+{
+  "name": "Make GoldenPuppyPotato Seeds",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.ReapGoldenPuppyPotatoSeed",
+  "recipeStep": "reap",
+  "moveResultsToSite": "seedSite",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 3,
+  "docks": [
+    "staxel.tileObject.serverVillage.SeedMaker"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPuppyPotato",
+      "quantity": 3
+    }
+  ],
+  "results": [
+    {
+      "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.seeds.GoldenPuppyPotatoSeeds",
+    }
+  ],
+  "duration": 4/* seconds*/,
+  "effect": "staxel.effect.crafting.SeedMaker"/*only valid with duration*/,
+  "effectTrigger": "staxel.effect.crafting.SeedMaker.result"
+}

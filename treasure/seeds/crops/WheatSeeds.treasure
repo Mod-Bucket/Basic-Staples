@@ -1,0 +1,35 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.seeds.WheatSeeds",
+  "entries": [
+    {
+      "weight": 45.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 51.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 4.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat.plant",
+          "quantity": 1
+        }
+      ]
+    },
+  ]
+}

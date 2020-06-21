@@ -1,0 +1,22 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.GoldenGrapesHarvest",
+  "entries": [
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes",
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}

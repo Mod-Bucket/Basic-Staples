@@ -1,9 +1,13 @@
 {
     "file": "staxel/item/crops/GoldenCoffeeBean.item",
     "priority": 2, 
-    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
-    "patch" : {
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+ "patch" : {
+    "categories": [
+	"Nutsnbolts"
+  ],
   "icon": "mods/Basic-Staples/item/crops/golden/GoldenCoffeeBean.qb",
   "inHand": "mods/Basic-Staples/item/crops/golden/GoldenCoffeeBean.qb",
+  
     }
 }

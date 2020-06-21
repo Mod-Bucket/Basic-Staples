@@ -1,0 +1,43 @@
+{
+    "file": "staxel/treasure/crafting/tree/DragonFruitSeeds.treasure",
+    "priority": 999, 
+    "mergeLists": false,
+    "patch" : {
+
+"entries": [
+    {
+      "weight": 85.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.DragonFruitTree",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.DragonFruitTree",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 5.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.tree.GoldenExoticTree",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+
+    }
+}
+
+

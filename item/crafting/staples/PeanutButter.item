@@ -1,0 +1,47 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"peanut",
+    "butter",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.PeanutButter",
+  "icon": "mods/Basic-Staples/item/crafting/staples/PeanutButter.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/PeanutButter.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 62,
+    "value": 121
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "eatTime": 2,
+  "isDrink": false,
+  "appliesStatus": {
+    "statuses": [ ],
+    "removes": [
+      "swift",
+      "jumpy",
+      "lucky",
+      "unlucky"
+    ]
+  }
+}

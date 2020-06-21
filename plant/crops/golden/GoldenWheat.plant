@@ -1,0 +1,197 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+    "wheat",
+    "cereal",
+    "grain",
+    "food",
+    "vegetable",
+    "gold",
+    "seed",
+    "seeds",
+    "packet"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat.plant",
+  "icon": "mods/Basic-Staples/plant/crops/golden/GoldenWheatSeedpacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 110,
+    "value": 559
+  },
+  "searchable": true,
+  "seasons": [
+    "summer"
+  ],
+  "stages": {
+    "WheatFruited": {
+      "alt": 4,
+      "interactionEntityAction": "staxel.entityAction.HarvestFruitedPlant",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenWheatHarvest",
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "WheatWiltedFruited",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "WheatSprout1": {
+      "alt": 1,
+      "grow": "WheatSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "WheatWilted1",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "WheatSprout2": {
+      "alt": 2,
+      "grow": "WheatSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "WheatWilted2",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "WheatSprout3": {
+      "alt": 3,
+      "grow": "WheatFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "WheatWilted3",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "WheatWilted1": {
+      "alt": 5,
+      "grow": "WheatSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "WheatWithered1",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "WheatWilted2": {
+      "alt": 6,
+      "grow": "WheatSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "WheatWithered2",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "WheatWilted3": {
+      "alt": 7,
+      "grow": "WheatSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "WheatWithered3",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "WheatWiltedFruited": {
+      "alt": 8,
+      "grow": "WheatFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "WheatWitheredFruited",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "WheatWithered1": {
+      "alt": 9,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "WheatWithered2": {
+      "alt": 10,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "WheatWithered3": {
+      "alt": 11,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "WheatWitheredFruited": {
+      "alt": 12,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "WheatSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat"
+}

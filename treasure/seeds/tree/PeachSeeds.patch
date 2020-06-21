@@ -1,0 +1,43 @@
+{
+    "file": "staxel/treasure/crafting/tree/PeachSeeds.treasure",
+    "priority": 999, 
+    "mergeLists": false,
+    "patch" : {
+
+"entries": [
+    {
+      "weight": 65.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.PeachTree",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 30.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.tree.PeachTree",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 5.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.tree.GoldenFruitTree",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+
+    }
+}
+
+

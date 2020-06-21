@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/plant/bush/base.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "bush",
+    "vine",
+    "plant",
+    "produce",
+    "growable",
+    "grapes",
+    "gold",
+    "fruit",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 2
+    },
+//    "specification": "CCCC CCCC CXCC"
+  },
+  "searchable": false,
+  "variants": [
+    "mods/Basic-Staples/plant/bush/golden/GoldenGrapes.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenGrapes2.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenGrapes3.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenGrapes4.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenGrapes5.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenGrapes6.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenGrapes7.qb?size={40,55,40}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenGrapes8.qb?size={40,55,40}?offset={0,0,0}"
+  ]
+}

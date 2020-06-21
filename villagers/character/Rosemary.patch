@@ -1,0 +1,37 @@
+{
+    "file": "staxel/village/character/Rosemary.villagernpc",
+    "priority": 999, 
+    "mergeLists": true, 
+    "patch" : {
+        "regards": [
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 5,
+      "concept": {
+        "categories": [
+          "Everythinganimal"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 3,
+      "concept": {
+        "categories": [
+          "Fluffycritters"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 1,
+      "concept": {
+        "categories": [
+  		  "Cuddlystuffedanimals"
+        ]
+      }
+    },
+  ],
+
+    }
+}

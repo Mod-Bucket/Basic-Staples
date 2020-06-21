@@ -1,0 +1,157 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "plant",
+    "gold",
+    "seed",
+    "herb",
+    "vegetable",
+	"bush"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.bush.GoldenMint.plant",
+  "growthTime": 30,
+  "icon": "mods/Basic-Staples/plant/bush/golden/GoldenMintSeedPacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 677,
+    "value": 1894
+  },
+  "requiresWatering": false,
+  "searchable": true,
+  "seasons": [
+    "spring",
+    "summer"
+  ],
+  "stages": {
+    "MintFruited": {
+      "alt": 7,
+      "axeable": {
+        "treasure": "staxel.treasure.coloredPetals.PetalsWhite"
+      },
+      "dropOffset": {
+        "x": 0.15,
+        "y": 0.0,
+        "z": 0.15
+      },
+      "interactionEntityAction": "staxel.entityAction.HarvestFruitedBush",
+      "offset": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.BushShake",
+      "picked": "MintSprout5",
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenMintHarvest"
+    },
+    "MintSprout1": {
+      "alt": 1,
+      "grow": "MintSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+		"spring",
+		"summer"
+      ],
+      "scytheable": {}
+    },
+    "MintSprout2": {
+      "alt": 2,
+      "grow": "MintSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+		"spring",
+		"summer"
+      ],
+      "scytheable": {}
+    },
+    "MintSprout3": {
+      "alt": 3,
+      "grow": "MintSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+		"spring",
+		"summer"
+      ],
+      "scytheable": {}
+    },
+    "MintSprout4": {
+      "alt": 4,
+      "axeable": {
+        "treasure": "staxel.treasure.coloredPetals.PetalsWhite"
+      },
+      "grow": "MintSprout5",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+		"spring",
+		"summer"
+      ]
+    },
+    "MintSprout5": {
+      "alt": 5,
+      "axeable": {
+        "treasure": "staxel.treasure.coloredPetals.PetalsWhite"
+      },
+      "grow": "MintSprout6",
+      "growWindow": {
+        "x": 2,
+        "y": 2
+      },
+      "growsDuring": [
+		"spring",
+		"summer"
+      ]
+    },
+    "MintSprout6": {
+      "alt": 6,
+      "axeable": {
+        "treasure": "staxel.treasure.coloredPetals.PetalsWhite"
+      },
+      "grow": "MintFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+		"spring",
+		"summer"
+      ]
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "MintSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "growsDuring": [
+		"spring",
+		"summer"
+      ],
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.bush.GoldenMint"
+}

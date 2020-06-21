@@ -1,0 +1,270 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "plant",
+    "gold",
+    "seed",
+    "flower",
+    "crop"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.plant",
+  "icon": "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerSeedpacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 68,
+    "value": 228
+  },
+  "searchable": true,
+  "stages": {
+    "SunflowerFruited": {
+      "alt": 7,
+      "interactionEntityAction": "staxel.entityAction.HarvestPullable",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenSunflowerHarvest",
+      "scytheable": {},
+      "wilted": "SunflowerWiltedFruited",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerSprout1": {
+      "alt": 1,
+      "grow": "SunflowerSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "SunflowerWilted1",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerSprout2": {
+      "alt": 2,
+      "grow": "SunflowerSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "SunflowerWilted2",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerSprout3": {
+      "alt": 3,
+      "grow": "SunflowerSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "SunflowerWilted3",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerSprout4": {
+      "alt": 4,
+      "grow": "SunflowerSprout5",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "SunflowerWilted4",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerSprout5": {
+      "alt": 5,
+      "grow": "SunflowerSprout6",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "SunflowerWilted5",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerSprout6": {
+      "alt": 6,
+      "grow": "SunflowerFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "SunflowerWilted6",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerWilted1": {
+      "alt": 8,
+      "grow": "SunflowerSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "SunflowerWithered1",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerWilted2": {
+      "alt": 9,
+      "grow": "SunflowerSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "SunflowerWithered2",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerWilted3": {
+      "alt": 10,
+      "grow": "SunflowerSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "SunflowerWithered3",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerWilted4": {
+      "alt": 11,
+      "grow": "SunflowerSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "SunflowerWithered4",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerWilted5": {
+      "alt": 12,
+      "grow": "SunflowerSprout5",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "SunflowerWithered5",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerWilted6": {
+      "alt": 13,
+      "grow": "SunflowerSprout6",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "SunflowerWithered6",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerWiltedFruited": {
+      "alt": 14,
+      "grow": "SunflowerFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "SunflowerWitheredFruited",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "SunflowerWithered1": {
+      "alt": 15,
+      "scytheable": {}
+    },
+    "SunflowerWithered2": {
+      "alt": 16,
+      "scytheable": {}
+    },
+    "SunflowerWithered3": {
+      "alt": 17,
+      "scytheable": {}
+    },
+    "SunflowerWithered4": {
+      "alt": 18,
+      "scytheable": {}
+    },
+    "SunflowerWithered5": {
+      "alt": 19,
+      "scytheable": {}
+    },
+    "SunflowerWithered6": {
+      "alt": 20,
+      "scytheable": {}
+    },
+    "SunflowerWitheredFruited": {
+      "alt": 21,
+      "scytheable": {}
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "SunflowerSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower"
+}

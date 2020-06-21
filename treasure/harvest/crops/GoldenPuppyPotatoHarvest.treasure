@@ -1,0 +1,13 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.GoldenPuppyPotatoHarvest",
+  "entries": [
+    {
+      "weight": 100.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPuppyPotato",
+        }
+      ]
+    }
+  ]
+}

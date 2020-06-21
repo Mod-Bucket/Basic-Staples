@@ -1,0 +1,26 @@
+{
+  "name": "Reap Mint Seeds",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.ReapMintSeeds",
+  "recipeStep": "reap",
+  "moveResultsToSite": "seedSite",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 3,
+  "docks": [
+    "staxel.tileObject.serverVillage.SeedMaker"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Mint",
+      "quantity": 10
+    }
+  ],
+  "results": [
+    {
+      "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.seeds.MintSeeds",
+    }
+  ],
+  "duration": 10/* seconds*/,
+  "effect": "staxel.effect.crafting.SeedMaker"/*only valid with duration*/,
+  "effectTrigger": "staxel.effect.crafting.SeedMaker.result"
+}

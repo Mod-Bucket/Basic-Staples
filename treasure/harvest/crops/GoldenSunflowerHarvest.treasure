@@ -1,0 +1,37 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.GoldenSunflowerHarvest",
+  "entries": [
+    {
+      "weight": 50.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenSunflower",
+        },
+      ]
+    },
+    {
+      "weight": 45.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenSunflower",
+        },
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.Sunflower",
+        }
+      ]
+    },
+    {
+      "weight": 5.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenSunflower",
+        },
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.plant",
+        }
+      ]
+    }
+  ]
+}

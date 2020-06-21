@@ -1,0 +1,59 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.GoldenExoticHarvest",
+  "entries": [
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenDragonFruit",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenDragonFruit",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenKiwi",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenKiwi",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenMango",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenMango",
+          "quantity": 3
+        }
+      ]
+    },
+  ]
+}

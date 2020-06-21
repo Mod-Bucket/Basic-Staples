@@ -218,6 +218,14 @@
       ]
     },
     {
+      "weight": 0.5,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPeanut",
+        }
+      ]
+    },
+    {
       "weight": 1.0,
       "items": [
         {

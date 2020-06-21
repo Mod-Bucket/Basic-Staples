@@ -1,0 +1,159 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"Easterfest",
+	"Easter",
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+	"bunny",
+	"rabbit",
+    "Carrot",
+    "vegetable",
+    "gold",
+    "seed",
+    "seeds",
+    "packet",
+    "pet"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot.plant",
+  "icon": "mods/Basic-Staples/plant/crops/golden/GoldenBunnyCarrotSeedpacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "appearsInCatalogue": false,
+    "sellPrice": 228,
+    "value": 1140
+  },
+  "searchable": true,
+  "seasons": [
+    "winter",
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "stages": {
+    "CarrotFruited": {
+      "alt": 3,
+      "interactionEntityAction": "staxel.entityAction.HarvestPullable",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenBunnyCarrotHarvest",
+      "scytheable": {},
+      "wilted": "CarrotWiltedFruited",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "CarrotSprout1": {
+      "alt": 1,
+      "grow": "CarrotSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "CarrotWilted1",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "CarrotSprout2": {
+      "alt": 2,
+      "grow": "CarrotFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "CarrotWilted2",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "CarrotWilted1": {
+      "alt": 4,
+      "grow": "CarrotSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "CarrotWithered1",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "CarrotWilted2": {
+      "alt": 5,
+      "grow": "CarrotSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "CarrotWithered2",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "CarrotWiltedFruited": {
+      "alt": 6,
+      "grow": "CarrotFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "CarrotWitheredFruited",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "CarrotWithered1": {
+      "alt": 7,
+      "scytheable": {}
+    },
+    "CarrotWithered2": {
+      "alt": 8,
+      "scytheable": {}
+    },
+    "CarrotWitheredFruited": {
+      "alt": 9,
+      "scytheable": {}
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "CarrotSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot"
+}

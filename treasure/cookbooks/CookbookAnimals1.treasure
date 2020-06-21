@@ -16,6 +16,11 @@
           "kind": "staxel.item.Recipe",
           "recipe": "staxel.crafting.recipes.PetFood",
         },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.lightMeal.PawCrudites",
+        },
+		
       ]
     },
   ]

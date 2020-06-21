@@ -6,7 +6,8 @@
 	"Mod Bucket",
     "jam",
     "Pear",
-    "food"
+    "food",
+	"Spicnspan"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.preserves.JamPear",
   "eatTime": 2,

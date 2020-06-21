@@ -1,0 +1,37 @@
+{
+    "__inherits": "staxel/plant/crop/base.config",
+	"categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+	"puppy",
+    "potato",
+    "gold",
+    "vegetable",
+    "food",
+	"pet"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.GoldenPuppyPotato",
+  "searchable": false,
+  "variants": [
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={16,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={32,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={64,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={96,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={112,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={16,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={32,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={64,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={96,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={112,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={16,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={32,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={64,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={96,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenPuppyPotatoCrop.qb?size={16,32,16}?offset={112,0,32}"
+  ]
+}

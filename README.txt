@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.03
+Version 1.1
 
 A mod for Staxel.
 
@@ -130,16 +130,20 @@ toketsupuurin:
 - Cookbooks
 - Dummy Items (Mark Grant's idea. He's a genius!)
 - Mermaid Hoe
+- NPC Likes system
 - Items:
 	- Crops: Grapes, Wheat, Mint, Puppy Potato, Peanut, Patch to Coconut QB.
-	- Chopped Crops: Banana, Coconut, Shredded Coconut, Strawberries, Sweet Potato.
-	- Staples: Beef, Boiled Sausage, Bread Dough, Chicken, Chopped Chocolate, Cocoa Butter, Cocoa Liquor, Cocoa Powder, Coconut Milk, Coconut Water, Coffee Grounds, Cookie Dough, Cooking Oil, Corn Oil, Ice Cubes, Icing, Muffin Batter, Oat Flour, Pepper, Raw Sausage, Rennet, Sprinkles, Sunflower Oil, Vanilla. Patch to Cake Batter and Pancake Batter QBs.
+	- Chopped Crops: Banana, Coconut, Shredded Coconut, Strawberries, Sweet Potato. Puppy potato, Catturnip, Bunny Carrot.
+	- Golden Crops: Apple, Banana, Brassberries, Silverberries, Bunny Carrot, CatTurnip, Cherries, Cocoa, Coconut, Dragon Fruit, Grapes, Kiwi, Lemon, Lime, Mango, Mint, Orange, Peach, Peanut, Pear, Puppy Potato, Sunflower, Tanderine, Wheat. Cabbage & Coffee Bean QB.
+	- Staples: Beef, Boiled Sausage, Bread Dough, Chicken, Chopped Chocolate, Cocoa Butter, Cocoa Liquor, Cocoa Powder, Coconut Milk, Coconut Water, Coffee Grounds, Cookie Dough, Cooking Oil, Corn Oil, Ice Cubes, Icing, Muffin Batter, Oat Flour, Pepper, Raw Sausage, Rennet, Sprinkles, Sunflower Oil, Vanilla. Patch to Cake Batter and Pancake Batter QBs. Peanut Butter.
 	- Intermediates: Blueberry Popsicle Mould, Cake Iced Batter, Chocolate Chip Cookie Unbaked, Cookie Plain Unbaked, Grape Popsicle Mould, Lime Popsicle Mould, Mint Popsicle Mould, Muffin Batter Blueberry, Muffin Batter Chocolate Chip, Muffin Batter Plain, Muffin Batter Strawberry, Orange Popsicle Mould, Pear Popsicle Mould, Pumbanoat Bread Dough, Raw Beet Turnip Gratin, Roasted Cacao, Roasted Coffee Bean, Seasoned Chicken, Strawberry Popsicle Mould, Tangerine Popsicle Mould, Uncooked Ham and Cheese. (Unused: Other Cake Batter QBs.)
-	- Supplies: Popsicle Stick, Muffin Pan (Unused), White Potion, Cheesecloth.
-	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB.
+	- Supplies: Popsicle Stick, Muffin Pan (Unused), White Potion, Cheesecloth. 
+	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB. Paw Crudites.
 
 MarkGrant: 
 	- Egg Patch
+	- Freezer Bone Animation and BVH 
+	- Idea for NPC Likes system.
 
 ===========
 
@@ -176,6 +180,18 @@ toketsupuurin:
 ===========
 
 Versions
+
+1.1
+	- Villager moddable like system is IN! Every giftable villager (aside from animals and quest only NPCs) has a system of category tags now. 
+	- Each villager has three items from basic staples or vanilla that they now like to varying degrees. These items will likely change in the future once we've had time to see how the system works and what makes the most sense.
+	- Added golden crops for EVERYTHING. Prices are good on seeds and produce.
+	- Two new berry bushes: the Silverberry(Blueberry) and Brassberry(Blackberry). The Goldenberry now only comes from Raspberries and only reaps to Raspberry and Goldenberry seeds.
+	- Golden Peanut is a rare drop from the Cornucopia. It's the only golden crop you can get from the cornucopia right now. It also drops when making peanut butter.
+	- Balanced seed prices for the normal crops that Staples added.
+	- Added Peanut Butter, Chopped Cat Turnip, Chopped Bunny Carrot, Chopped Puppy Potato, Paw Crudites.
+	- Fixed Mill crafting icon.
+	- Fixed freezer door.
+	- Added Mill and Freezer to store shelf.
 
 1.03
 	- fixed grapes. they now drop actual grapes instead of seeds.

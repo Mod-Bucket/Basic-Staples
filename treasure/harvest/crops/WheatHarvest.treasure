@@ -1,0 +1,22 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.WheatHarvest",
+  "entries": [
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat"
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}

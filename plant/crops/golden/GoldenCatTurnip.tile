@@ -1,0 +1,30 @@
+{
+    "__inherits": "staxel/plant/crop/base.config",
+	"categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+    "turnip",
+    "vegetable",
+    "gold",
+    "food",
+    "pet"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip",
+  "searchable": true,
+  "variants": [
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={32,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={48,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={112,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={32,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={48,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={112,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={32,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={48,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenCatTurnipCrop.qb?size={16,32,16}?offset={112,0,32}"
+  ]
+}

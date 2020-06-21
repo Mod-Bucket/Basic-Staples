@@ -1,0 +1,24 @@
+{
+  "code": "staxel.treasure.storeShelf.furniture",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.workbenches.Mill",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer",
+        }
+      ]
+    },
+  ]
+}

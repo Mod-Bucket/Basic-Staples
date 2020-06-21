@@ -1,0 +1,12 @@
+{
+    "file": "staxel/gatherables/fishables/garbage/AppleCore.item",
+    "priority": 2, 
+    "mergeLists": true,
+    "patch": {
+
+  "categories": [
+	"reapable",	
+  ],
+
+    }
+}

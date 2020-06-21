@@ -1,0 +1,37 @@
+{
+    "file": "staxel/village/character/Cecile.villagernpc",
+    "priority": 999, 
+    "mergeLists": true, 
+    "patch" : {
+        "regards": [
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 5,
+      "concept": {
+        "categories": [
+          "Delicatespecimen"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 3,
+      "concept": {
+        "categories": [
+          "Laboratoryparaphenalia"
+        ]
+      }
+    },
+    {
+      "kind": "staxel.concepts.Category",
+      "attitude": 1,
+      "concept": {
+        "categories": [
+  		  "Technicalspecs"
+        ]
+      }
+    },
+  ],
+
+    }
+}

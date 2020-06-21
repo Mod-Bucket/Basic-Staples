@@ -1,0 +1,77 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.GoldenCitrusHarvest",
+  "entries": [
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenLemon",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenLemon",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenLime",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenLime",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenOrange",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenOrange",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenTangerine",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "weight": 10.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenTangerine",
+          "quantity": 3
+        }
+      ]
+    },
+  ]
+}

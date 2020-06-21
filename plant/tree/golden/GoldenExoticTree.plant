@@ -1,0 +1,177 @@
+{
+  "categories": [
+    "plant",
+    "gold",
+    "seed",
+    "fruit",
+    "tree"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.tree.GoldenExoticTree",
+  "icon": "mods/Basic-Staples/plant/tree/golden/GoldenExoticSeedPacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 3367,
+    "value": 5650
+  },
+  "requiresWatering": false,
+  "searchable": true,
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "stages": {
+    "ExoticTreeFruited": {
+      "alt": 0,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "breakRemains": "ExoticTreeRemains",
+      "dropJitterOffset": {
+        "x": 0.75,
+        "y": 0.0,
+        "z": 0.75
+      },
+      "dropOffset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "interactionEntityAction": "staxel.entityAction.ShakeTree",
+      "offset": {
+        "x": 0.0,
+        "y": 1.45,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.TreeShake",
+      "picked": "ExoticTreeGrown1",
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenExoticHarvest",
+    },
+    "ExoticTreeGrown1": {
+      "alt": 2,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "breakRemains": "ExoticTreeRemains",
+      "grow": "ExoticTreeGrown2",
+      "growWindow": {
+        "x": 4,
+        "y": 4
+      },
+      "growsDuring": [
+        "winter"
+      ]
+    },
+    "ExoticTreeGrown2": {
+      "alt": 1,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "breakRemains": "ExoticTreeRemains",
+      "grow": "ExoticTreeFruited",
+      "growWindow": {
+        "x": 4,
+        "y": 4
+      },
+      "growsDuring": [
+        "winter"
+      ]
+    },
+    "ExoticTreeRemains": {
+      "alt": 8,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      }
+    },
+    "ExoticTreeSprout1": {
+      "alt": 6,
+      "grow": "ExoticTreeSprout2",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ],
+      "scytheable": {}
+    },
+    "ExoticTreeSprout2": {
+      "alt": 5,
+      "grow": "ExoticTreeSprout3",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ],
+      "scytheable": {}
+    },
+    "ExoticTreeSprout3": {
+      "alt": 4,
+      "grow": "ExoticTreeSprout4",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ],
+      "scytheable": {}
+    },
+    "ExoticTreeSprout4": {
+      "alt": 3,
+      "axeable": {
+        "treasure": "staxel.treasure.TreeChop"
+      },
+      "grow": "ExoticTreeGrown1",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ]
+    },
+    "seed": {
+      "alt": 7,
+      "grow": "ExoticTreeSprout1",
+      "growWindow": {
+        "x": 8,
+        "y": 8
+      },
+      "growsDuring": [
+		"spring",
+		"summer",
+		"autumn",
+		"winter"
+      ],
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.treetile.Golden.ExoticTree"
+}

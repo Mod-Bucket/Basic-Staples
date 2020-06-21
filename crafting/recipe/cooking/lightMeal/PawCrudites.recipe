@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.lightMeal.PawCrudites",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.PeanutButter",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBunnyCarrot",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCatTurnip",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPuppyPotato",
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 772,
+    "value": 1287
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.PawCrudites",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.CombinePawCrudites",
+  ]
+}

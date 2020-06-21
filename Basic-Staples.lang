@@ -70,41 +70,65 @@ aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenFull.description=Grows 
 aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.name=Spice Grinder
 aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.description=A magical spice grinder. Check it from time to time.
 
-aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.name=Grape Seeds
-aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
-
-aaa.mods.mb.BasicStaples.plant.bush.Grapes.name=Grape Seeds
+aaa.mods.mb.BasicStaples.plant.bush.Grapes.name=Grape Vine Seeds
 aaa.mods.mb.BasicStaples.plant.bush.Grapes.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
 
 aaa.mods.mb.BasicStaples.plant.bush.Mint.name=Mint Seeds
 aaa.mods.mb.BasicStaples.plant.bush.Mint.description=It will grow a Mint bush. Survives out of season. Harvestable in Spring and Summer.
 
-aaa.mods.mb.BasicStaples.plant.bush.Mint.plant.name=Mint Seeds
-aaa.mods.mb.BasicStaples.plant.bush.Mint.plant.description=It will grow a Mint bush. Survives out of season. Harvestable in Spring and Summer.
-
 aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.name=Bunny Carrot Seeds
 aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.description=A very strange carrot. Plant it anytime.
 
-aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant.name=Bunny Carrot Seeds
-aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant.description=A very strange carrot. Plant 
-
-aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant.name=Puppy Potato Seeds
-aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant.description=The most loyal potato. Plant it anytime.
-
 aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.name=Puppy Potato Seeds
-aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.description=The most loyal potato. Plant it anytime.
+aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.description=A loyal potato. Plant it anytime.
 
 aaa.mods.mb.BasicStaples.plant.crops.Wheat.name=Wheat Seeds
 aaa.mods.mb.BasicStaples.plant.crops.Wheat.description=It grows wheat! Grows during summer.
-
-aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant.name=Wheat Seeds
-aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant.description=It grows wheat! Grows during summer.
 
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.name=Cask
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.description=A cask for aging things.
 
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.name=Waffle Griddle
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.description=It makes waffles and paninni.
+
+aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.name=Brassberry Bush Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.description=Survives out of season. Harvestable in Winter.
+
+aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.name=Silverberry Bush Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.description=Survives out of season. Harvestable in Winter and Summer.
+
+aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.name=Golden Grape Vine Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.description=Takes a long time to grow. Survives out of season. Harvest in Autumn.
+
+aaa.mods.mb.BasicStaples.plant.bush.GoldenMint.name=Golden Mint Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenMint.description=Survives out of season. Harvestable in Spring and Summer.
+
+aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot.name=Golden Bunny Carrot
+aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot.description=The strangest carrot. Plant it anytime.
+
+aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip.name=Golden Cat Turnip
+aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip.description=It might meow. Plant it anytime.
+
+aaa.mods.mb.BasicStaples.plant.crops.GoldenPuppyPotato.name=Golden Puppy Potato
+aaa.mods.mb.BasicStaples.plant.crops.GoldenPuppyPotato.description=The most loyal potato. Plant it anytime.
+
+aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.name=Golden Sunflower
+aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.description=It will shine like the sun. Plant it anytime.
+
+aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat.name=Golden Wheat
+aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat.description=Fields of gold, indeed. Harvestable in Summer.
+
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.CitrusTree.name=Golden Citrus Tree
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.CitrusTree.description=Plant in summer if you want to harvest in winter.
+
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.ExoticTree.name=Golden Exotic Fruit Tree
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.ExoticTree.description=Plant in summer if you want to harvest in winter.
+
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.FruitTree.name=Golden Fruit Tree
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.FruitTree.description=Plant in summer if you want to harvest in winter.
+
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.PalmTree.name=Golden Palm Tree
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.PalmTree.description=Plant in summer if you want to harvest in winter.
 
 aaa.mods.mb.BasicStaples.item.tool.MermaidHoe.name=Mermaid Hoe
 aaa.mods.mb.BasicStaples.item.tool.MermaidHoe.description=Slick with magic. Doesn't water your crops though.
@@ -119,7 +143,7 @@ aaa.mods.mb.BasicStaples.item.crops.Mint.name=Mint
 aaa.mods.mb.BasicStaples.item.crops.Mint.description=Cooling on the tongue.
 
 aaa.mods.mb.BasicStaples.item.crops.Peanut.name=Peanut
-aaa.mods.mb.BasicStaples.item.crops.Peanut.description=Peanut
+aaa.mods.mb.BasicStaples.item.crops.Peanut.description=Peanut.
 
 aaa.mods.mb.BasicStaples.item.crops.PuppyPotato.name=Puppy Potato
 aaa.mods.mb.BasicStaples.item.crops.PuppyPotato.description=It looks so eager.
@@ -216,6 +240,9 @@ aaa.mods.mb.BasicStaples.item.complete.lightMeal.CrispyEggplant.description=Frie
 
 aaa.mods.mb.BasicStaples.item.complete.lightMeal.HamAndCheese.name=Croque Monsieur
 aaa.mods.mb.BasicStaples.item.complete.lightMeal.HamAndCheese.description=A hot ham and cheese sandwich.
+
+aaa.mods.mb.BasicStaples.item.complete.lightMeal.PawCrudites.name=Paw Crudites
+aaa.mods.mb.BasicStaples.item.complete.lightMeal.PawCrudites.description=An animal lover's dream dish.
 
 aaa.mods.mb.BasicStaples.item.complete.lightMeal.SlicedWatermelon.name=Sliced Watermelon
 aaa.mods.mb.BasicStaples.item.complete.lightMeal.SlicedWatermelon.description=Neatly sliced watermelon, ready for snacking.
@@ -391,6 +418,9 @@ aaa.mods.mb.BasicStaples.item.crafting.staples.MuffinBatter.description=The base
 aaa.mods.mb.BasicStaples.item.crafting.staples.OatFlour.name=Oat Flour
 aaa.mods.mb.BasicStaples.item.crafting.staples.OatFlour.description=Oats ground into a fine powder.
 
+aaa.mods.mb.BasicStaples.item.crafting.staples.PeanutButter.name=Peanut Butter
+aaa.mods.mb.BasicStaples.item.crafting.staples.PeanutButter.description=A gooey paste of deliciousness.
+
 aaa.mods.mb.BasicStaples.item.crafting.staples.Pepper.name=Pepper
 aaa.mods.mb.BasicStaples.item.crafting.staples.Pepper.description=A spice that everyone uses.
 
@@ -419,7 +449,7 @@ aaa.mods.mb.BasicStaples.item.crafting.staples.Vinegar.name=Vinegar
 aaa.mods.mb.BasicStaples.item.crafting.staples.Vinegar.description=Ugh. Sour and horrible by itself.
 
 aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth.name=Cheesecloth
-aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth.description=Cheesecloth
+aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth.description=Very fine sterile cloth treated for cheesemaking.
 
 aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick.name=Popsicle Stick
 aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick.description=A little wooden stick that can carry a treat.
@@ -433,8 +463,17 @@ aaa.mods.mb.BasicStaples.item.crafting.supplies.VialWhite.description=Magically 
 aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBanana.name=Sliced Banana
 aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBanana.description=Neatly sliced banana. 
 
+aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBunnyCarrot.name=Chopped Bunny Carrot
+aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBunnyCarrot.description=Julienned.
+
+aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCatTurnip.name=Chopped Cat Turnip
+aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCatTurnip.description=Sliced neatly.
+
 aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCoconut.name=Chopped Coconut
 aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCoconut.description=Chopped up coconut.
+
+aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPuppyPotato.name=Chopped Puppy Potato
+aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPuppyPotato.description=Chunky.
 
 aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedStrawberries.name=Sliced Strawberries
 aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedStrawberries.description=Neatly sliced strawberries.
@@ -444,3 +483,75 @@ aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedSweetPotato.description=Chopp
 
 aaa.mods.mb.BasicStaples.item.crops.chopped.ShreddedCoconut.name=Shredded Coconut
 aaa.mods.mb.BasicStaples.item.crops.chopped.ShreddedCoconut.description=Fine bits of coconut. You can do almost anything with this.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenApple.name=Golden Apple
+aaa.mods.mb.BasicStaples.item.crops.GoldenApple.description=Causes much discord.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenBanana.name=Golden Banana
+aaa.mods.mb.BasicStaples.item.crops.GoldenBanana.description=This is one peel you won't slip on.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenBlackberries.name=Brassberries
+aaa.mods.mb.BasicStaples.item.crops.GoldenBlackberries.description=These brass berries ring like bells.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenBlueberries.name=Silverberries
+aaa.mods.mb.BasicStaples.item.crops.GoldenBlueberries.description=Solid silver. They make a pleasant noise.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenBunnyCarrot.name=Golden Bunny Carrot
+aaa.mods.mb.BasicStaples.item.crops.GoldenBunnyCarrot.description=It seems jumpy.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenCatTurnip.name=Golden Cat Turnip
+aaa.mods.mb.BasicStaples.item.crops.GoldenCatTurnip.description=The ears aren't moving. Definitely not.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenCherries.name=Golden Cherries
+aaa.mods.mb.BasicStaples.item.crops.GoldenCherries.description=Delicious. And requires a dentist.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenCocoa.name=Golden Cocoa
+aaa.mods.mb.BasicStaples.item.crops.GoldenCocoa.description=I wonder if there's an upgradeable mill out there?
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenCoconut.name=Golden Coconut
+aaa.mods.mb.BasicStaples.item.crops.GoldenCoconut.description=Something's sloshing inside but you'd need an auger to get it out.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenDragonFruit.name=Golden Dragon Fruit
+aaa.mods.mb.BasicStaples.item.crops.GoldenDragonFruit.description=Ouch! It's pointy!
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes.name=Golden Grapes
+aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes.description=King Midas has nothing on you.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenKiwi.name=Golden Kiwi
+aaa.mods.mb.BasicStaples.item.crops.GoldenKiwi.description=Is there green gold inside?
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenLemon.name=Golden Lemon
+aaa.mods.mb.BasicStaples.item.crops.GoldenLemon.description=There's nothing sour about this.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenLime.name=Golden Lime
+aaa.mods.mb.BasicStaples.item.crops.GoldenLime.description=This will pack a punch. To your wallet!
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenMango.name=Golden Mango
+aaa.mods.mb.BasicStaples.item.crops.GoldenMango.description=How did it get darker as it goes down? It's all gold...
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenMint.name=Golden Mint
+aaa.mods.mb.BasicStaples.item.crops.GoldenMint.description=It's a gold leaf!
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenOrange.name=Golden Orange
+aaa.mods.mb.BasicStaples.item.crops.GoldenOrange.description=Not a bit juicy. Who cares?!
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenPeach.name=Golden Peach
+aaa.mods.mb.BasicStaples.item.crops.GoldenPeach.description=The fruit of immortality. How do you eat it?
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenPeanut.name=Golden Peanut
+aaa.mods.mb.BasicStaples.item.crops.GoldenPeanut.description=Hard Peanut.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenPear.name=Golden Pear
+aaa.mods.mb.BasicStaples.item.crops.GoldenPear.description=It still has a delicate aroma.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenPuppyPotato.name=Golden Puppy Potato
+aaa.mods.mb.BasicStaples.item.crops.GoldenPuppyPotato.description=It's a little wiggly.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenSunflower.name=Golden Sunflower
+aaa.mods.mb.BasicStaples.item.crops.GoldenSunflower.description=It's so sparkly it hurts to look at it!
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenTangerine.name=Golden Tangerine
+aaa.mods.mb.BasicStaples.item.crops.GoldenTangerine.description=Solid Gold. It could break your toe if you dropped it.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenWheat.name=Golden Wheat
+aaa.mods.mb.BasicStaples.item.crops.GoldenWheat.description=Ouch! Those little needles are super sharp!

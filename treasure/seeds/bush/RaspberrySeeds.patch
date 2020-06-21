@@ -1,0 +1,42 @@
+{
+    "file": "staxel/treasure/crafting/RaspberrySeeds.treasure",
+    "priority": 999, 
+    "mergeLists": false,
+    "patch" : {
+
+  "entries": [
+    {
+      "weight": 90.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.bush.RaspberryBush",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "weight": 5.0,
+      "items": [
+        {
+          "kind": "staxel.item.Null",
+        }
+      ]
+    },
+    {
+      "weight": 5.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.bush.GoldenberryBush",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+
+
+    }
+}
+
+

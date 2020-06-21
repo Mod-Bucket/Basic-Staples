@@ -59,6 +59,22 @@ The CheeseCloth recipe has an example of how a Dummy Item works. The text of the
 
 ------
 
+On Villager Likes:
+	Every villager now has a set of category tags specifically for them that tells them how to feel about an item. Using Aliza as an example:
+
+          "AlizaTranscendent" (10)
+          "AlizaLoves" (5)
+          "AlizaLikes" (3)
+	  "AlizaOk" (1)
+	  "AlizaNotOk" (-1)
+          "AlizaDislikes" (-3)
+          "AlizaHates" (-5)
+          "AlizaLoathes" (-10)
+
+	Loathing and transcendent should be used extremely sparingly. (I Morel is the only character in the game with a "Loathes" for example. It's the Weed Killer. Leif's dislike of monsters is only a -2.) No character in vanilla has anything better than the "loves" category. Transcendence is pretty much a cheat. It should be a nightmare to get or make. Loves and Hates should be rare. Note that players *CAN* search for these category tags. You might be better off copying the patches and directly entering codes. 
+
+------
+
 Actually Adding Basic Staples items to your mod:
 
 If you just want to use a Basic Staples item in your mod there are a few ways to go about it:

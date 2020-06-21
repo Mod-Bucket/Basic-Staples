@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/plant/crop/crop22.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+    "Sunflower",
+    "gold",
+    "flower",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower",
+  "randomizePosition": false,
+  "searchable": false,
+  "variants": [
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={16,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={32,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={48,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={64,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={80,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={96,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={112,0,0}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={16,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={32,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={48,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={64,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={80,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={96,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={112,0,16}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={16,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={32,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={48,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={64,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={80,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={96,0,32}",
+    "mods/Basic-Staples/plant/crops/golden/GoldenSunflowerCrop.qb?size={16,32,16}?offset={112,0,32}"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "file": "staxel/treasure/crafting/SunflowerSeeds.treasure",
+    "priority": 999, 
+    "mergeLists": false,
+    "patch" : {
+
+  "entries": [
+    {
+      "weight": 19.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.Sunflower",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "weight": 76.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.Sunflower",
+          "quantity": 5
+        }
+      ]
+    },
+	{
+      "weight": 5.0,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.plant",
+          "quantity": 1
+        }
+      ]
+    },
+  ]
+
+
+    }
+}
+
+

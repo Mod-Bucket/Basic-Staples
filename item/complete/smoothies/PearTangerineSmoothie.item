@@ -5,7 +5,8 @@
     "smoothie",
     "pear",
     "tangerine",
-    "drink"
+    "drink",
+	"Tickingtimepiece"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.smoothies.PearTangerineSmoothie",
   "eatTime": 2,

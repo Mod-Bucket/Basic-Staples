@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/plant/bush/base.config",
+  "categories": [
+    "bush",
+    "plant",
+    "produce",
+    "growable",
+    "blackberry",
+    "brass",
+    "fruit",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush",
+  "searchable": false,
+  "variants": [
+    "mods/Basic-Staples/plant/bush/golden/GoldenBlackberryBush.qb?size={32,32,32}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenBlackberryBush.qb?size={32,32,32}?offset={32,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenBlackberryBush.qb?size={32,32,32}?offset={64,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenBlackberryBush.qb?size={32,32,32}?offset={96,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenBlackberryBush.qb?size={32,32,32}?offset={128,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenBlackberryBush.qb?size={32,32,32}?offset={160,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenBlackberryBush.qb?size={32,32,32}?offset={192,0,0}",
+    "mods/Basic-Staples/plant/bush/golden/GoldenBlackberryBush.qb?size={32,32,32}?offset={224,0,0}"
+  ]
+}
