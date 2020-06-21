@@ -12,7 +12,8 @@
     "boilable",
     "choppable",
     "mixable",
-    "harvested"
+    "harvested",
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCherries",
   "eatTime": 1,

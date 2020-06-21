@@ -11,7 +11,8 @@
     "reapable",
     "mixable",
     "harvested",
-	"Onewithnature"
+	"Onewithnature",
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenMint",
   "eatTime": 1,

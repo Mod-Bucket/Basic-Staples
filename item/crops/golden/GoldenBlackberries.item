@@ -11,7 +11,7 @@
     "reapable",
     "boilable",
     "mixable",
-    "harvested"
+    "Pocketchange"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenBlackberries",
   "eatTime": 1,

@@ -10,7 +10,8 @@
     "millable",
     "boilable",
     "reapable",
-    "harvested"
+    "harvested",
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenWheat",
   "eatTime": 1,

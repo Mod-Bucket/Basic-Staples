@@ -15,6 +15,7 @@
     "harvested",
     "pet",
 	"Everythinganimal",
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenBunnyCarrot",
   "eatTime": 1,

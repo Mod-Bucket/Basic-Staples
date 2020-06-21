@@ -11,7 +11,8 @@
     "reapable",
     "boilable",
     "mixable",
-    "harvested"
+    "harvested",
+    "Makinitrain",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenBlueberries",
   "eatTime": 1,

@@ -8,7 +8,8 @@
     "reapable",
     "mixable",
     "harvested",
-	"purple"
+	"purple",
+	"Treehugging"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.Grapes",
   "eatTime": 1,

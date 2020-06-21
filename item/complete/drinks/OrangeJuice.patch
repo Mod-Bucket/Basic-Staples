@@ -1,7 +1,7 @@
 {
     "file": "staxel/item/complete/OrangeJuice.item",
     "priority": 2, 
-    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {
   "edible": true,
   "eatTime": 2,
@@ -11,6 +11,9 @@
     "sound": "staxel.sound.Player.drink.sip"
   },
   "isDrink": true,
+  "categories": [
+	"Manureinsacks"
+  ],
 
     }
 }

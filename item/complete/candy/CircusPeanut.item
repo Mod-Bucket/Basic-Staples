@@ -7,7 +7,8 @@
     "candy",
     "marshmallow",
 	"peanut",
-    "food"
+    "food",
+	"Debuggingcode",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.candy.CircusPeanut",
   "icon": "mods/Basic-Staples/item/complete/candy/CircusPeanut.qb",

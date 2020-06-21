@@ -11,7 +11,7 @@
     "reapable",
     "mixable",
     "harvested",
-	"purple"
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes",
   "eatTime": 1,

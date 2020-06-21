@@ -13,6 +13,7 @@
     "mixable",
     "harvested",
 	"Laboratoryparaphenalia",
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenDragonFruit",
   "eatTime": 1,

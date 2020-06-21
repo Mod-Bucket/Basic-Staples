@@ -10,7 +10,8 @@
     "boilable",
     "reapable",
     "mixable",
-    "harvested"
+    "harvested",
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenBanana",
   "eatTime": 1,

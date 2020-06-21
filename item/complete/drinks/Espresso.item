@@ -4,7 +4,8 @@
 	"Mod Bucket",
     "coffee",
     "food",
-	"Powerfuel"
+	"Powerfuel",
+	"Hecanmashedpotato"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso",
   "icon": "staxel/item/quest/Rowan/OrderForAliza.qb",

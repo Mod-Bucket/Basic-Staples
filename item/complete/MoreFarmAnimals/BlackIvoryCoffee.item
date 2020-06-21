@@ -7,7 +7,8 @@
 	"Black",
 	"Ivory",
     "coffee",
-    "drink"
+    "drink",
+	"Rainbowpower",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.MoreFarmAnimals.BlackIvoryCoffee",
   "eatTime": 2,

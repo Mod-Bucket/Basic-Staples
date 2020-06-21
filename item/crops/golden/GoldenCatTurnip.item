@@ -13,7 +13,8 @@
     "mixable",
     "harvested",
     "pet",
-	"Fluffycritters"
+	"Fluffycritters",
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCatTurnip",
   "eatTime": 1,

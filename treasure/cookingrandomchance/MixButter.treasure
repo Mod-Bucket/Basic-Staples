@@ -1,0 +1,16 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.MixButter",
+  "entries": [
+	{
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.crafting.Butter",
+        },
+		{
+          "code": "staxel.item.crafting.Buttermilk",
+        },
+      ]
+    }
+  ]
+}

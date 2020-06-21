@@ -36,7 +36,7 @@ Patches are applied in sequential order so first comes the original file, then a
 
 ------
 
-On Dummies:
+On Dummies and Random Reaction Outputs:
 
 Basic Staples has several Dummy items that are completely worthless. They don't do anything and a player cannot access them under any circumstances. They exist PURELY for acting as placeholders in recipes that could take multiple options. So if you have a recipe that wants jam or a fish but you don't care which the player uses then use the appropriate dummy item in the recipe (This should probably be a final step in a recipe. The game might not register step completion if you use these. I can't do anything about it.)
 
@@ -57,21 +57,29 @@ You'll need to make a dummy reaction for the recipe to point to that uses the du
 
 The CheeseCloth recipe has an example of how a Dummy Item works. The text of the name is in the Basic-Staples.lang file.
 
+If a reaction has a treasure drop rather than giving a single item it can cause problems if it's not the last step in the recipe. Anything that does this should either be the final step in a recipe, or a staple that's super obvious to make like something using the mill or the chopper machines.
+
+Currently milling peanut butter and using the butter mixing recipe both drop multiple items. This isn't a real problem as you can simply call for butter, buttermilk or peanut butter and assume the player will know how to make or obtain them.
+
 ------
 
 On Villager Likes:
-	Every villager now has a set of category tags specifically for them that tells them how to feel about an item. Using Aliza as an example:
+	Every villager now has a set of category tags specifically for them that tells them how to feel about an item. They are as follows:
 
-          "AlizaTranscendent" (10)
-          "AlizaLoves" (5)
-          "AlizaLikes" (3)
-	  "AlizaOk" (1)
-	  "AlizaNotOk" (-1)
-          "AlizaDislikes" (-3)
-          "AlizaHates" (-5)
-          "AlizaLoathes" (-10)
+          Loves (+5)
+          Likes (+3)
+	  Ok    (+1)
 
-	Loathing and transcendent should be used extremely sparingly. (I Morel is the only character in the game with a "Loathes" for example. It's the Weed Killer. Leif's dislike of monsters is only a -2.) No character in vanilla has anything better than the "loves" category. Transcendence is pretty much a cheat. It should be a nightmare to get or make. Loves and Hates should be rare. Note that players *CAN* search for these category tags. You might be better off copying the patches and directly entering codes. 
+	A loved item will get you their "Oh this is awesome!" dialogue.
+	These three tags are probably the most useful options for gift giving so they're the ones that have been made. If you want something for a one off that gives another value, adding an individual like or dislike isn't hard. Should you feel the need for an entire additional tag category, (say, a dislike option) please let us know. Adding one won't be difficult now that the system is set up. 
+
+	The tags have been obfucated with long, bizzare search terms so that a user can't just type a character's name or "loves" into the search box and get a list of hits. For the files with the category tags to use see:
+
+mods\Basic-Staples\item\dummy\VillagerConcepts\
+
+These dummy items are unsearchable and unobtainable in game. If you activate them they'll act as cheat items. This is not recommended.	
+
+Note that a player who knows the search term to look for can still cheat and search for these terms in the box. If you don't want them to be able to do that then you should make your own patch that specifically defines the items you want them to have opinions about.
 
 ------
 

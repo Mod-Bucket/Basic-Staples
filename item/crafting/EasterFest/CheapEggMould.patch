@@ -1,6 +1,6 @@
 {
     "file": "mods/EasterFest/item/crafting/intermediary/cooking/CheapEggMould.item",
-    "priority": 999, 
+    "priority": 1, 
     "mergeLists": true,
     "patch": {
 	

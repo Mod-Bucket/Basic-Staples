@@ -11,7 +11,7 @@
       ]
     },
 	{
-      "weight": 5.0,
+      "weight": 0.5,
       "items": [
         {
           "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.PeanutButter",

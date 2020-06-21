@@ -7,7 +7,8 @@
     "boilable",
     "reapable",
     "mixable",
-    "harvested"
+    "harvested",
+	"Lettercarrying",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.Mint",
   "eatTime": 1,

@@ -186,12 +186,14 @@ Versions
 	- Each villager has three items from basic staples or vanilla that they now like to varying degrees. These items will likely change in the future once we've had time to see how the system works and what makes the most sense.
 	- Added golden crops for EVERYTHING. Prices are good on seeds and produce.
 	- Two new berry bushes: the Silverberry(Blueberry) and Brassberry(Blackberry). The Goldenberry now only comes from Raspberries and only reaps to Raspberry and Goldenberry seeds.
-	- Golden Peanut is a rare drop from the Cornucopia. It's the only golden crop you can get from the cornucopia right now. It also drops when making peanut butter.
+	- Golden Peanut is a rare drop from the Cornucopia. It's the only golden "crop" you can get from the cornucopia right now. It also drops when making peanut butter but it's a pretty rare drop. Should take about 200 peanuts?
 	- Balanced seed prices for the normal crops that Staples added.
 	- Added Peanut Butter, Chopped Cat Turnip, Chopped Bunny Carrot, Chopped Puppy Potato, Paw Crudites.
 	- Fixed Mill crafting icon.
 	- Fixed freezer door.
 	- Added Mill and Freezer to store shelf.
+	- Fixed some patch priorities.
+	- Added a second method to get Buttermilk. (The proper method for real buttermilk, not the cultured stuff. At the moment they both point to the original Staxel buttermilk. Should we ever have reason to split buttermilk and cultured buttermilk the yeast recipe will change to cultured.)
 
 1.03
 	- fixed grapes. they now drop actual grapes instead of seeds.

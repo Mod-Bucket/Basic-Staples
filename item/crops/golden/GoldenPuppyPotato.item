@@ -13,7 +13,8 @@
     "reapable",
     "mixable",
     "harvested",
-	"Fluffycritters"
+	"Fluffycritters",
+    "Goldenfruit",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPuppyPotato",
   "eatTime": 1,

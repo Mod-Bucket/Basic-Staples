@@ -1,6 +1,6 @@
 {
     "file": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/ElephantSplat.item",
-    "priority": 2, 
+    "priority": 999, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {
   "pricing": {

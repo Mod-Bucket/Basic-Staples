@@ -7,7 +7,8 @@
     "cooking",
     "popsicle",
     "pear",
-    "food"
+    "food",
+    "Fungussupreme",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.candy.ChocoPearPopsicle",
   "icon": "mods/Basic-Staples/item/complete/candy/ChocoPearPopsicle.qb",

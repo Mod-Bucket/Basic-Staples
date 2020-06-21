@@ -7,7 +7,8 @@
     "cooking",
     "tangerine",
     "popsicle",
-    "food"
+    "food",
+	"Clotheshorse",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.complete.candy.ChocoTangerinePopsicle",
   "icon": "mods/Basic-Staples/item/complete/candy/ChocoTangerinePopsicle.qb",

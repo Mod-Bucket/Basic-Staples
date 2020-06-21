@@ -5,5 +5,9 @@
     "patch" : {
   "icon": "mods/Basic-Staples/item/crops/golden/GoldenCabbage.qb",
   "inHand": "mods/Basic-Staples/item/crops/golden/GoldenCabbage.qb",
+  "categories": [
+    "Goldenfruit",
+  ],
+  
     }
 }
