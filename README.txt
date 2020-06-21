@@ -17,36 +17,35 @@ If you're a modder, Staples gives you access to new ingredients from other mods 
 
 What's going to happen with Basic Staples in the future?
 
-The core functionality is done, but there are plans to add patches that will make villagers like more things with an eye to more variety in gift giving. In the future as new mods are released Staples will add ingredients and new recipes. Basic Staples will never have quest content and is essentially in as finished a state as a core mod like this can ever be. It will continue to grow as a resource for players and modders alike so your villagers will always have delicious and intriguing food!
+In the future as new mods are released Staples will add ingredients and new recipes. Basic Staples will never have quest content and is essentially in as finished a state as a core mod like this can ever be. It will continue to grow as a resource for players and modders alike so your villagers will always have delicious and intriguing food!
 
 ==========
 
 On Pets:
 
-This mod adds patches to the pet files so that they will each drop ONLY their own special kind of pet seed. Patches are included for the dragon pet, Auto Magic and Xable's pet mods. If you want the Bunny Carrot, Puppy Potato, and Cat Turnip to be dropped by all pets then delete the PetPatches folder or the subfolder for any mod you don't want affected. The vanilla pet treasure list has been patched to add the bunny carrot and puppy potato to the standard pet gift list. (That patch isn't in the PetPatches folder so you don't need to worry about it.)
+This mod adds patches to the pet files so that they will each drop ONLY their own special kind of pet seed. Patches are included for the dragon pet, Auto Magic and Xable's pet mods. If you want the Bunny Carrot, Puppy Potato, and Cat Turnip to be dropped by all pets then delete the PetPatches folder or the subfolder for any mod you don't want affected. The vanilla pet treasure list has been patched to add the bunny carrot and puppy potato to the standard pet gift list. (That patch isn't in the PetPatches folder so you don't need to worry about accidentaly deleting it.)
 
 ==========
 
 On Patches:
 
-This mod adds Patches for interaction with some other Mods. You can see the lists below. If you are running a mod in the Fully Supported or Partly Supported categories you'll want to go to the "mods/Basic-Staples/VoluntaryPatches" folder. Find any mods you're running, and inside those folders if there is a "-" at the end of a file extension: rename and remove the "-". Don't do this if there's a text file in the folder indicating that the patches aren't working. (You may need to turn on the ability to see file extensions in your computer's settings.)
+This mod adds patches for interaction with some other Mods. You can see the lists below. If you are running a mod in the Fully Supported or Partly Supported categories you'll want to go to the "mods/Basic-Staples/VoluntaryPatches" folder. Check through these folders for any notes or instructions if you see a mod you're playing with. 
 
 ==========
 
 Mods Basic Staples interacts with:
 
 Fully Supported*:  
-	- Easter Fest:
+	Easter Fest:
 		* Patches out a few duplicate recipes and cloned some ingredients and the bunny carrot. 
 		* Eggwood is not a food crop and will never be cloned.
 		* Filligree Rabbits already only drop bunny carrot seeds. 
 		* The Easter Fest plant is patched to drop Basic Staples Bunny Carrots. 
 		* You might wind up with two stacks of bunny carrot seeds. Both produce the same crop item.
-	- Dragon Pets:
+	Dragon Pets:
 		* Added a patch so that the dragons use a special dragon table. 
 		* Dragons drop all three pet seeds and treasures instead of clothing.
-	- Xable's Animals - Patches added to redirect the pet drop tables.
-	- More Farm Animals: (This mod is DEPENDENT on Basic Staples)
+	More Farm Animals: (This mod is DEPENDENT on Basic Staples)
 		* The peanut is native to Staples and available from the beginning. (Cornucopia) The elephant makes peanuts more plentiful and useful.
 		* The Elephant Splat and all derivatives are turned off in Staples. MFA turns these on. 
 		* Black Ivory Coffee is available in Staples for future crafting.
@@ -60,7 +59,6 @@ Fully Supported*:
 Partly Supported**:
 	
 	OilC:
-		* Patches make both oils equivalent to Staple's oil for the purposes of making cooking oil. 
 		* OilC oils may or may not work if another mod decides to use oils other than "cooking oil."
 		* OilC's crusher will make Staples's oils. 
 		* The Crusher is much more efficent than Staple's mill so there is incentive to use it.
@@ -75,6 +73,10 @@ Partly Supported**:
 		* Patches added to redirect the pet drop tables.
 		* Automated Recipes have not been added yet.
 		
+	Xable's Animals - Patches added to redirect the pet drop tables.
+		* It's possible these patches won't work because there's a space in the Xable's Animal's name. 
+		* This is a limitation of the patching system... but you might get lucky?
+
 **A partly supported mod might have some recipe conflicts with Basic Staples that have been patched out. Some items in the mod might be duplicates of Basic Staples items and the mod's recipes have been changed to produce or use Staples products. The mod may have ingredients that are unavailable for use with other mods. Mods that use Basic Staples might forget to include reactions for some of this mod's ingredients. 
 
 ---------
