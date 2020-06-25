@@ -1,0 +1,26 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.crafting.supplies.CarvePopsicleStickRecast",
+  "automated": true,
+  "automationDelay": 1,
+  "recipeStep": "carve",
+  "tools": [],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.gatherable.garbage.GarbageTwig",
+      "quantity": 1
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+      "quantity": 1
+    }
+  ],
+  "duration": 1,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "effect": "staxel.effect.crafting.CarveSpell",
+}

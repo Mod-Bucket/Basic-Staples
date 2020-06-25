@@ -1,0 +1,48 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"More Farm Animals",
+	"Elephant",
+	"animal",
+	"Food",
+	"Feed",
+  ],
+  "code": "aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood",
+  "feederHelper": {
+    "canReplace": [
+      {
+        "from": "aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty",
+        "to": "aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughFeed"
+      }
+    ],
+    "feedAmount": 6,
+    "replaceSound": "staxel.sounds.farmAnimals.Trough.fill"
+  },
+  "icon": "mods/Basic-Staples/item/complete/misc/ElephantFood.qb",
+  "inHand": "mods/Basic-Staples/item/complete/misc/ElephantFood.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 40,
+    "value": 50
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

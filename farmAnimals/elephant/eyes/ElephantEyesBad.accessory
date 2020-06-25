@@ -1,0 +1,11 @@
+{
+  "availableInChargen": false,
+  "bodyType": [
+    "mods.mb.MoreFarmAnimals.bodyType.Elephant"
+  ],
+  "code": "mods.mb.MoreFarmAnimals.eyes.Elephant.bad",
+  "kind": "Eyes",
+  "model": "mods/Basic-Staples/farmAnimals/elephant/eyes/ElephantEyesBad.qb",
+  "palettes": [],
+  "searchable": false
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mix Blueberry Muffins Batter Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.MixMuffinBlueberryRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.MuffinBatter",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+	{
+	  "code": "staxel.item.crops.Blueberries",
+	},
+  ],
+  "results": [
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterBlueberry",
+	}
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "duration": 5,
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

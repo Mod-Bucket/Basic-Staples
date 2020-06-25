@@ -87,6 +87,11 @@ staxel.item.crafting.LightMeal.Sushi.name=Sushi
 staxel.item.crafting.LimePopsicle.description=Chilly lime pulp in portable form.
 staxel.item.crafting.LimePopsicle.name=Lime Popsicle
 
+staxel.item.crafting.SauceApple.description=Some people call this Apple Butter. There's no butter.
+staxel.item.crafting.SauceApple.name=Apple Jam
+staxel.item.crafting.SaucePeach.description=Chunky but soft and sticky.
+staxel.item.crafting.SaucePeach.name=Peach Jam
+
 staxel.item.crafting.MangoPeachSmoothie.description=Silky smooth and sweet.
 staxel.item.crafting.MangoPeachSmoothie.name=Mango & Peach Smoothie
 staxel.item.crafting.MintPopsicle.description=Chilly minty milk in portable form.
@@ -415,6 +420,10 @@ staxel.item.crops.Cabbage.name=Cabbage
 staxel.item.crops.Cocoa.description=The pod is very delicate.
 staxel.item.crops.Cocoa.name=Cacao
 
+staxel.tree.CocoaTree.description=Chocolate does grow on trees! Fruits in Summer.
+staxel.tree.CocoaTree.name=Cacao Tree Seed
+staxel.plant.tree.CocoaTree.description=
+staxel.plant.tree.CocoaTree.name=Cacao Tree
 
 staxel.item.gatherable.Crab.description=This isn't a softshell crab.
 staxel.item.gatherable.Crab.name=Crab
@@ -430,3 +439,20 @@ staxel.item.gatherable.Starfish.description=There's edible meat in there. Somewh
 staxel.item.gatherable.Starfish.name=Starfish
 staxel.item.gatherable.SwirlyShell.description=Good for escargot.
 staxel.item.gatherable.SwirlyShell.name=Swirly Shell
+
+staxel.item.crafting.BrownSugar.description=It's like sugar, but brown!
+staxel.item.crafting.BrownSugar.name=Brown Sugar
+staxel.item.crafting.CakeBatter.description=Drippy, messy, and delicious.
+staxel.item.crafting.CakeBatter.name=Cake Batter
+staxel.item.crafting.BreadSlice.description=A freshly cut slice of bread.
+staxel.item.crafting.BreadSlice.name=Bread Slice
+staxel.item.crafting.BasicSalad.description=Green, healthy, and desperately boring.
+staxel.item.crafting.BasicSalad.name=Basic Salad
+staxel.item.crafting.lightMeal.BoiledEgg.description=It's kinda bouncy.
+staxel.item.crafting.lightMeal.BoiledEgg.name=Boiled Egg
+staxel.item.crafting.IcedCake.description=Mmm, the icing looks delicious! The whole thing looks good but the icing is the icing on the cake.
+staxel.item.crafting.IcedCake.name=Iced Cake
+staxel.item.crafting.lightMeal.FriedEgg.description=It hasn't been scraped off the pavement, right?
+staxel.item.crafting.lightMeal.FriedEgg.name=Fried Egg
+staxel.item.crafting.PancakeBatter.description=Pancake Batter
+staxel.item.crafting.PancakeBatter.name=This won't be tasty until after it's cooked. Baking soda, blech!

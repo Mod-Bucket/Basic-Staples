@@ -1,0 +1,32 @@
+{
+  "name": "Tangerine Marmalade",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.AutoMarmaladeTangerine",
+  "recipeStep": "Auto Boil",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BoilingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.WhiteSugar"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedTangerine",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.preserves.MarmaladeTangerine",
+    }
+  ],
+  "duration": 5,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "water"
+}

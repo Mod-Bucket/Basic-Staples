@@ -1,0 +1,41 @@
+{
+  "code": "mods.mb.MoreFarmAnimals.bodyType.Elephant",
+  "shoulderHeight": 1.125,
+  "bodyHeight": 2.25,
+  "bodyRadius": 1.1,
+  "riserRadius": 0.95,
+  "riserHeight": 1.0,
+  "tposeEmote": "tpose",
+  "boneAnimations": "staxel.boneAnimation.Cow",
+  "centerBias": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "topHeadOffset": {
+    "x": 0.0,
+    "y": 0.7,
+    "z": -0.9
+  },
+  "layers": [
+    "Torso",
+    "Head",
+    "Tail",
+    "ShoulderRight",
+    "ShoulderRight2",
+    "UpperFrontLeg_Right",
+    "LowerFrontLeg_Right",
+    "ShoulderLeft",
+    "ShoulderLeft2",
+    "UpperFrontLeg_Left",
+    "LowerFrontLeg_Left",
+    "BackThighRIght",
+    "BackThighRight2",
+    "UpperBackLeg_Right",
+    "LowerBackLeg_Right",
+    "BackThighLeft",
+    "BackThighLeft2",
+    "UpperBackLeg_Left",
+    "LowerBackLeg_Left"
+  ]
+}

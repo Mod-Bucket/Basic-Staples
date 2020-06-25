@@ -1,0 +1,42 @@
+{
+  "name": "Mix Trough Food Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.misc.TroughFoodRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crops.Beet",
+    },
+    {
+      "code": "staxel.item.crops.Corn",
+    },
+    {
+      "code": "staxel.item.crops.Eggplant",
+    },
+	{
+      "code": "staxel.item.crops.Carrot",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.farmAnimals.TroughFood",
+      "quantity": 5
+    }
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "duration": 5,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

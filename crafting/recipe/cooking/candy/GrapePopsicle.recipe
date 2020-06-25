@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.GrapePopsicle",
+  "grouping": "desserts",
+  "ingredients": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+    },
+    {
+      "code": "staxel.item.crafting.WaterJar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Grapes",
+    },
+
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1270,
+    "value": 2039
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.item.crafting.GrapePopsicle",
+    }
+  },
+  "searchable": true,
+  "steps": [
+	"aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.CombinePopsicleMouldGrape",
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.FreezeGrapePopsicle",
+  ]
+}

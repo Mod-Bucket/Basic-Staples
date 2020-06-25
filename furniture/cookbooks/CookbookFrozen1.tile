@@ -21,7 +21,7 @@
   "kind": "object",
   "axeable": {},
   "lootable": {
-    "petals": 0,
+    "petals": -1,
     "singleUse": true,
     "treasure": "aaa.mods.mb.BasicStaples.treasure.CookbookFrozen1",
   },

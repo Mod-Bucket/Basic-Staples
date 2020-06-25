@@ -1,0 +1,29 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.AutoFryHamAndCheese",
+  "recipeStep": "Auto Fry",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.UncookedHamAndCheese",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
+    },
+	{
+      "code": "staxel.item.crafting.Batter",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.HamAndCheese",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

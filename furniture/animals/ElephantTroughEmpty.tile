@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tileObject/feeder.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"More Farm Animals",
+	"Elephant",
+	"animal",
+    "trough",
+    "feed",
+    "feeding",
+    "empty",
+    "brown"
+  ],
+  "code": "aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 2
+    }
+  },
+  "feeder": {},
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+	"appearsInCatalogue": true,  
+    "sellPrice": 180,
+    "value": 345
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Basic-Staples/furniture/animals/ElephantTroughEmpty.qb"
+}

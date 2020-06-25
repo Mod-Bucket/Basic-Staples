@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.AutoBoilBrownSugar",
+  "recipeStep": "Auto Boil",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crops.SugarCane",
+      "quantity": 1
+    },
+	{
+	  "code": "staxel.item.crafting.ChoppedSugarBeet",
+      "quantity": 1
+    },
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.BrownSugar",
+	  "quantity": 2
+    }
+  ],
+  "duration": 10,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "water"
+}

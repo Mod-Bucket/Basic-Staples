@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.MoreFarmAnimals.crafting.reactions.AutoBoilBlackIvoryVanillaCoffee",
+  "recipeStep": "Auto Boil",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.BlackIvoryCoffeeGrounds",
+    },
+    {
+      "code": "staxel.item.crafting.WaterJar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Vanilla",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.MoreFarmAnimals.item.complete.BlackIvoryVanillaCoffee",
+	  "quantity": 1
+    }
+  ],
+  "duration": 10,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "syrup"
+}

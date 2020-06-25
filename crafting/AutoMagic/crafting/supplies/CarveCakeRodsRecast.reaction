@@ -1,0 +1,38 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.crafting.supplies.CarveCakeRodsRecast",
+  "automated": true,
+  "automationDelay": 1,
+  "recipeStep": "carve",
+  "tools": [],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.Pickets",
+      "quantity": 2
+    },
+    {
+      "code": "staxel.item.crafting.Varnish",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.Glue",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.VialWhite",
+      "quantity": 1
+    },
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.CakeRods",
+      "quantity": 1
+    }
+  ],
+  "duration": 1,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "effect": "staxel.effect.crafting.CarveSpell",
+}

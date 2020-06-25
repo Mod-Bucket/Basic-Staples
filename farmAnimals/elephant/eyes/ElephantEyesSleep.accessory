@@ -1,0 +1,11 @@
+{
+  "availableInChargen": false,
+  "bodyType": [
+    "mods.mb.MoreFarmAnimals.bodyType.Elephant"
+  ],
+  "code": "mods.mb.MoreFarmAnimals.eyes.Elephant.sleep",
+  "kind": "Eyes",
+  "model": "mods/Basic-Staples/farmAnimals/elephant/eyes/ElephantEyesSleep.qb",
+  "palettes": [],
+  "searchable": false
+}

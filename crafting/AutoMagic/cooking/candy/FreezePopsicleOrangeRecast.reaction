@@ -1,0 +1,29 @@
+{
+  "name": "Freeze Orange Popsicle Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.FreezeOrangePopsicleRecast",
+  "automated": true,
+  "automationDelay": 1,
+  "recipeStep": "freeze",
+  "tools": [],
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.DeepFreezer"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.OrangePopsicleMould"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.OrangePopsicle"
+    }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "aaa.mods.mb.BasicStaples.effect.FreezerChill",
+  "effectTrigger": "staxel.effect.DockItemSpell"
+}

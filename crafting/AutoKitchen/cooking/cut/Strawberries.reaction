@@ -1,0 +1,29 @@
+{
+  "name": "Chopped Strawberries",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.AutoChoppedStrawberries",
+  "recipeStep": "Auto Chop",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crops.Strawberries",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedStrawberries",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effect": "staxel.effect.cooking.Chop"
+}

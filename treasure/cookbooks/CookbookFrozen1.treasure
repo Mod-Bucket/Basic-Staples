@@ -40,6 +40,10 @@
           "kind": "staxel.item.Recipe",
           "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoOrangePopsicle",
         },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.crafting.wood.PopsicleStick"
+        },
       ]
     },
   ]

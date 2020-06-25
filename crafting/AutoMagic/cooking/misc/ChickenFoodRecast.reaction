@@ -1,0 +1,39 @@
+{
+  "name": "Mix Chicken Food Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.misc.ChickenFoodRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat",
+    },
+    {
+      "code": "staxel.item.crops.Oat"
+    },
+    {
+      "code": "staxel.item.gatherable.Cricket",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.farmAnimals.ChickenFood",
+      "quantity": 5
+    }
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "duration": 5,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

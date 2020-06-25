@@ -1,0 +1,15 @@
+{
+  "code": "mods.mb.MoreFarmAnimals.species.Elephant",
+  "icon": "",
+  "male": {
+    "icon": "",
+    "bodyType": "mods.mb.MoreFarmAnimals.bodyType.Elephant",
+    "model": ""
+  },
+  "female": {
+    "icon": "",
+    "bodyType": "mods.mb.MoreFarmAnimals.bodyType.Elephant",
+    "model": ""
+  },
+  "playable": false
+}

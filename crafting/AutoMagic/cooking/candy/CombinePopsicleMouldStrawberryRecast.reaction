@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.CombinePopsicleMouldStrawberryRecast",
+  "automated": true,
+  "automationDelay": 2,
+  "duration": 1,
+  "triggerDurationCraftManually": true,
+  "recipeStep": "combine",
+  "tools": [],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+    },
+    {
+      "code": "staxel.item.crafting.WaterJar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedStrawberries",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.StrawberryPopsicleMould",
+    }
+  ],
+  "effect": "staxel.effect.cooking.CombineSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell"
+}

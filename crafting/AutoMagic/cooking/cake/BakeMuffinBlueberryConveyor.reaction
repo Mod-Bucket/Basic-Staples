@@ -1,0 +1,38 @@
+{
+  "name": "Bake Blueberry Muffins Conveyor",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.BakeMuffinsBlueberryConveyor",
+  "recipeStep": "Conveyor Bake",
+  "processDrawable": "Cake",
+  "craftAnimation": {
+	"type": "lerp",
+	"from": {
+	  "x": 0.5,
+	  "y": -0.1,
+	  "z": 0.0
+	},
+	"to": {
+	  "x": -0.8,
+	  "y": -0.1,
+	  "z": 0.0
+	}
+  },
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+		"code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterBlueberry",
+	}
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.MuffinsBlueberry",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

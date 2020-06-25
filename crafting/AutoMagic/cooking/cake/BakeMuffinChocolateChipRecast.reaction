@@ -1,0 +1,29 @@
+{
+  "name": "Bake Chocolate Chip Muffins Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.BakeMuffinsChocolateChipRecast",
+  "automated": true,
+  "automationDelay": 2,
+  "recipeStep": "bake",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterChocolateChip",
+	}
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.MuffinsChocolateChip",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmokeSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell"
+}

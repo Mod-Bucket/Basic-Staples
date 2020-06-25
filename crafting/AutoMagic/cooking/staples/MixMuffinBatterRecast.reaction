@@ -1,0 +1,41 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.MixMuffinBatterRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.BakingPowder",
+    },
+    {
+      "code": "staxel.item.crafting.Egg",
+    },
+    {
+      "code": "staxel.item.crafting.Cream",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.OatFlour",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.MuffinBatter",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

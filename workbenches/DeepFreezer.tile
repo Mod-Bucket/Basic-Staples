@@ -28,12 +28,12 @@
   "descriptionImage": "mods/Basic-Staples/docks/FreezeIcon.png",
   "interactVerb": "controlHint.verb.Open",
   "pricing": {
-    "buyable": true,
     "catalogueUnlockedFromStart": true,
+    "buyable": true,    
     "sellPrice": 5,
     "value": 1000
   },
-  "searchable": true,
+  "searchable": true, 
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "customRendererVoxels": "mods/Basic-Staples/workbenches/DeepFreezer.qb",
   "voxels": "mods/Basic-Staples/workbenches/DeepFreezer.qb"

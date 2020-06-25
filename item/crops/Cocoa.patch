@@ -1,0 +1,13 @@
+{
+    "file": "staxel/plant/tree/CocoaTree.plant",
+    "priority": 2, 
+    "mergeLists": true,
+    "patch": {
+
+  "categories": [
+	"cocoa",	
+	"cacao",	
+  ],
+
+    }
+}

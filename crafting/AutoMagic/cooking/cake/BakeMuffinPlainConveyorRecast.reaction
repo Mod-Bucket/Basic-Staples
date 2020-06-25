@@ -1,0 +1,43 @@
+{
+  "name": "Bake Plain Muffins ConveyorRecast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.BakeMuffinsPlainConveyorRecast",
+  "automated": true,
+  "automationDelay": 2,
+  "recipeStep": "Conveyor Bake",
+  "processDrawable": "Cake",
+  "craftAnimation": {
+	"type": "lerp",
+	"from": {
+	  "x": 0.5,
+	  "y": -0.1,
+	  "z": 0.0
+	},
+	"to": {
+	  "x": -0.8,
+	  "y": -0.1,
+	  "z": 0.0
+	}
+  },
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterPlain",
+	}
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.MuffinsPlain",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmokeSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell"
+}

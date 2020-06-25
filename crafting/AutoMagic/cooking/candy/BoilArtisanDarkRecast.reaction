@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.BoilArtisanDarkRecast",
+  "automated": true,
+  "automationDelay": 1,
+  "recipeStep": "boil",
+  "tools": [
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaLiquor",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+	
+  ],
+  "results": [
+    {
+	  "code": "aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanDark",
+	  "quantity": 1
+    }
+  ],
+  "duration": 5,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.BoilSpell",
+  "processDrawable": "water"
+}

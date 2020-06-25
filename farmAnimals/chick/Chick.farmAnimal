@@ -1,0 +1,108 @@
+{
+  "__inherits": "staxel/farmAnimals/farmAnimal.config",
+  "code": "mods.mb.MoreFarmAnimals.farmAnimal.Chick",
+  "names": [
+    "Chip",
+    "Chirp",
+    "Tweet",
+    "Fluff",
+    "Trouble"
+  ],
+  "idleBehaviours": [
+    "staxel.farmAnimalBehaviour.Idle"
+  ],
+  "spawnBehaviours": [
+    "staxel.farmAnimalBehaviour.Spawn"
+  ],
+  "milkingBehaviours": [],
+  "shearingBehaviours": [],
+  "unhappyBehaviours": [
+    "staxel.farmAnimalBehaviour.Unhappy"
+  ],
+  "despawnBehaviourKind": [
+    "staxel.farmAnimalBehaviour.Catatonic"
+  ],
+  "models": [
+    "mods/Basic-Staples/farmAnimals/chick/Chick1.qb"
+  ],
+  "nudeModels": [],
+  "crateTile": "mods.mb.MoreFarmAnimals.tileObject.farmAnimals.Chick",
+  "designs": [
+    {
+      "_version": 2,
+      "Species": "staxel.species.Chicken",
+      "Gender": "male",
+      "Personality": "staxel.personality.Chicken",
+      "LeftHanded": false,
+      "Shoes": {
+        "model": "",
+        "palette": ""
+      },
+      "Hair": {
+        "model": "",
+        "palette": ""
+      },
+      "Eyes": {
+        "model": "",
+        "palette": ""
+      },
+      "Shirt": {
+        "model": "",
+        "palette": ""
+      },
+      "Trousers": {
+        "model": "",
+        "palette": ""
+      },
+      "Model": {
+        "model": "",
+        "palette": ""
+      }
+    }
+  ],
+  "happy": {
+    "emotes": [
+      "staxel.emote.farmAnimals.Happy_1"
+    ],
+    "sounds": [
+      "staxel.sounds.farmAnimals.Chicken.happy_1"
+    ]
+  },
+  "unhappy": {
+    "emotes": [
+      "staxel.emote.farmAnimals.Unhappy_1"
+    ],
+    "sounds": [
+      "staxel.sounds.farmAnimals.Chicken.unhappy_1"
+    ]
+  },
+  "eating": {
+    "emotes": [
+      "staxel.emote.farmAnimals.Chicken.Eating"
+    ]
+  },
+  "standingResistance": 0.3,
+  "airResistance": 0.1,
+  "movementVelocity": 2.5,
+  "jumpForce": 1200,
+  "animationParameters": {
+    "WalkingStrideCycleLength": 0.5,
+    "SwimmingStrideCycleLength": 0.5,
+    "MaxWalkingSpeed": 2.0,
+    "RunningStrideCycleLength": 1.0,
+    "MinRunningSpeed": 3.0,
+    "AnimationJitterFactor": 1.0
+  },
+  "velocityRandomizationFactor": 0.05,
+  "turnSmoothingFactor": 0.1,
+  "pushedForce": 0.4,
+  "resistedPushedForce": 0.2,
+  "eatsFromHand": [],
+  "poops": [],
+  "eggs": [],
+  "milks": [],
+  "wools": [],
+  "feedKind": "water",
+  "grazes": true,
+  "eatsGrass": false
+}

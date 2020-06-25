@@ -1,0 +1,31 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.FryCrispyEggplantRecast",
+  "automated": true,
+  "automationDelay": 1,
+  "recipeStep": "fry",
+  "tools": [],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.ChoppedEggplant",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
+    },
+	{
+      "code": "staxel.item.crafting.Batter",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.CrispyEggplant",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "effect": "staxel.effect.cooking.FrySpell",
+  "processDrawable": "veggies"
+}

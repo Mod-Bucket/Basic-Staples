@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoPopsicle",
+  "grouping": "desserts",
+  "ingredients": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.dummy.AnyPopsicle",
+    },
+    {
+      "code": "staxel.item.crafting.CandyChocolateBar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Sprinkles",
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1270,
+    "value": 2039
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.BasicStaples.item.dummy.AnyChocoPopsicle",
+    }
+  },
+  "searchable": true,
+  "steps": [
+	"aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.CombinePopsicleChocoDummy",
+  ]
+}

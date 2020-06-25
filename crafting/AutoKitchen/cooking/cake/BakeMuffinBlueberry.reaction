@@ -1,0 +1,27 @@
+{
+  "name": "Bake Blueberry Muffins",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.AutoBakeMuffinsBlueberry",
+  "recipeStep": "Auto Bake",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+		"code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterBlueberry",
+	}
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.MuffinsBlueberry",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

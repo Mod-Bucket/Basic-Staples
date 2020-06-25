@@ -1,0 +1,32 @@
+{
+  "name": "Butter Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.ButterRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.Cream"
+    }
+  ],
+  "results": [
+    {
+	  "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.MixButter",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

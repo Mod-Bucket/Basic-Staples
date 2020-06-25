@@ -1,0 +1,151 @@
+{
+  "__inherits": "staxel/farmAnimals/farmAnimal.config",
+  "code": "mods.mb.MoreFarmAnimals.farmAnimal.Elephant",
+  "names": [
+"Navin", "Rajiv", "Javas", "Babar", "Stompers", "Yasar", 
+"Tino", "Harjeet", "Ramakrishna", "Maddie", "Katie",
+"Kala", "Jaamini", "Patches", "Squirt", "Daisy", "Bhuma"
+  ],
+  "idleBehaviours": [
+    "staxel.farmAnimalBehaviour.Idle"
+  ],
+  "spawnBehaviours": [
+    "staxel.farmAnimalBehaviour.Spawn"
+  ],
+  "milkingBehaviours": [
+    "staxel.farmAnimalBehaviour.Milking"
+  ],
+  "shearingBehaviours": [],
+  "unhappyBehaviours": [
+    "staxel.farmAnimalBehaviour.Unhappy"
+  ],
+  "despawnBehaviourKind": [
+    "staxel.farmAnimalBehaviour.Catatonic"
+  ],
+  "models": [
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant1-1.qb",
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant1-2.qb",
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant1-3.qb",
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant2-1.qb",
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant2-2.qb",
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant2-3.qb",
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant3-1.qb",
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant3-2.qb",
+    "mods/Basic-Staples/farmAnimals/elephant/Elephant3-3.qb",
+	],
+  "nudeModels": [],
+  "paramAnimator": "staxel.paramAnimation.AnimalEat",
+  "eatPartcles": "mods.mb.MoreFarmAnimals.particles.ElephantEat",
+  "moods": {
+    "great": [
+      "mods.mb.MoreFarmAnimals.eyes.Elephant.great"
+    ],
+    "good": [
+      "mods.mb.MoreFarmAnimals.eyes.Elephant.happy"
+    ],
+    "normal": [
+      "mods.mb.MoreFarmAnimals.eyes.Elephant.normal"
+    ],
+    "bad": [
+      "mods.mb.MoreFarmAnimals.eyes.Elephant.bad"
+    ],
+    "horrible": [
+      "mods.mb.MoreFarmAnimals.eyes.Elephant.horrible"
+    ],
+    "sleeping": [
+      "mods.mb.MoreFarmAnimals.eyes.Elephant.sleep"
+    ]
+  },  "crateTile": "mods.mb.MoreFarmAnimals.tileObject.crate.elephant",
+  "designs": [
+    {
+      "_version": 2,
+      "Species": "mods.mb.MoreFarmAnimals.species.Elephant",
+      "Gender": "female",
+      "Personality": "mods.mb.MoreFarmAnimals.personality.Elephant",
+      "LeftHanded": false,
+      "Shoes": {
+        "model": "",
+        "palette": ""
+      },
+      "Hair": {
+        "model": "",
+        "palette": ""
+      },
+      "Eyes": {
+        "model": "",
+        "palette": ""
+      },
+      "Shirt": {
+        "model": "",
+        "palette": ""
+      },
+      "Trousers": {
+        "model": "",
+        "palette": ""
+      },
+      "Model": {
+        "model": "",
+        "palette": ""
+      }
+    }
+  ],
+  "happy": {
+    "emotes": [
+      "staxel.emote.farmAnimals.Happy_1"
+    ],
+    "sounds": [
+      "mods.mb.MoreFarmAnimals.sounds.elephant.unhappy6",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.unhappy5",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.unhappy4",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.unhappy3",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.unhappy2",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.unhappy1",
+    ]
+  },
+  "unhappy": {
+    "emotes": [
+      "staxel.emote.farmAnimals.Unhappy_1"
+    ],
+    "sounds": [
+      "mods.mb.MoreFarmAnimals.sounds.elephant.happy7",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.happy6",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.happy5",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.happy4",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.happy3",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.happy2",
+      "mods.mb.MoreFarmAnimals.sounds.elephant.happy1",
+  ]
+  },
+  "standingResistance": 0.3,
+  "airResistance": 0.1,
+  "movementVelocity": 3.5,
+  "jumpForce": 1200,
+  "animationParameters": {
+    "WalkingStrideCycleLength": 0.5,
+    "SwimmingStrideCycleLength": 0.5,
+    "MaxWalkingSpeed": 3.0,
+    "RunningStrideCycleLength": 2.0,
+    "MinRunningSpeed": 4.0,
+    "AnimationJitterFactor": 1.0
+  },
+  "velocityRandomizationFactor": 0.05,
+  "turnSmoothingFactor": 0.1,
+  "pushedForce": 0.8,
+  "resistedPushedForce": 0.2,
+  "eatsFromHand": [],
+  "poops": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.ElephantSplat"
+    }
+  ],
+  "eggs": [    
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Peanut"
+    }
+  ],
+  "milks": [],
+  "wools": [],
+  "feedKind": "elephantFeed",
+  "grazes": true,
+  "eatsGrass": true
+}

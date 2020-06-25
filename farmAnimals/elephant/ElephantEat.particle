@@ -1,0 +1,40 @@
+{
+  "code": "mods.mb.MoreFarmAnimals.particles.ElephantEat",
+  "angularVelocity": 0.0,
+  "color": "ff663300",
+  "colorSpread": {
+    "x": 0.1,
+    "y": 0.1,
+    "z": 0.1
+  },
+  "emitDuration": 0.0,
+  "emitVelocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "emitVelocitySpread": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": -0.3
+  },
+  "gravityFactor": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "liveDuration": 0.75,
+  "particlesPerSecond": 300.0,
+  "position": {
+    "x": 0.0,
+    "y": -0.5,
+    "z": 1.0
+  },
+  "positionSpread": {
+    "x": 0.05,
+    "y": 0.05,
+    "z": 0.05
+  },
+  "scale": 1.0,
+  "scaleSpread": 2.0
+}

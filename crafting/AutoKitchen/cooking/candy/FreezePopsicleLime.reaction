@@ -1,0 +1,27 @@
+{
+  "name": "Freeze Lime Popsicle",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.AutoFreezeLimePopsicle",
+  "recipeStep": "Auto Freeze",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.DeepFreezer"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.LimePopsicleMould"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.LimePopsicle"
+    }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "aaa.mods.mb.BasicStaples.effect.FreezerChill",
+  "effectTrigger": "staxel.effect.DockItem"
+}

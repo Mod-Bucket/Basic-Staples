@@ -18,8 +18,9 @@
   ],
   "code": "aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask",
   "pricing": {
-    "buyable": false,
     "catalogueUnlockedFromStart": false,
+    "appearsInCatalogue": false,
+    "buyable": false, 
     "sellPrice": 91,
     "value": 153
   },
@@ -30,7 +31,8 @@
       "z": 2
     }
   },
-  "searchable": true,
+  "searchable": false,    
+  "canBeEarntFromLuckyBox": false,  
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "voxels": "mods/Basic-Staples/workbenches/HiddenUnlessPatched/Cask.qb"
 }

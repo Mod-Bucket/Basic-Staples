@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.crafting.supplies.BoilCheeseCloth2Recast",
+  "automated": true,
+  "automationDelay": 1,
+  "recipeStep": "boil",
+  "tools": [
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+	{
+	  "code": "staxel.item.crafting.Butter",
+    },
+	{
+	  "code": "staxel.item.quest.Eris.SurfCotton",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth",
+	  "quantity": 5
+    }
+  ],
+  "duration": 10,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.BoilSpell",
+  "processDrawable": "water"
+}

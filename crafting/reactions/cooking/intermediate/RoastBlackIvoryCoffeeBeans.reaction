@@ -1,0 +1,25 @@
+{
+
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.MoreFarmAnimals.RoastBlackIvoryCoffeeBean",
+  "recipeStep": "bake",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+		"code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.BlackIvoryCoffeeBean",
+		"quantity": 1
+	}
+  ],
+  "results": [
+    {
+        "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.RoastedBlackIvoryCoffeeBean",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

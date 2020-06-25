@@ -1,0 +1,29 @@
+{
+  "name": "Bake Strawberry Muffins Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.BakeMuffinsStrawberryRecast",
+  "automated": true,
+  "automationDelay": 2,
+  "recipeStep": "bake",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterStrawberry",
+	}
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.MuffinsStrawberry",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmokeSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell"
+}

@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.MoreFarmAnimals.elephant.crafting.CombineElephantFood4Recast",
+  "recipeStep": "combine",
+  "tools": [
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+	{
+      "code": "staxel.item.crops.CoffeeBean",
+    },
+    {
+      "code": "staxel.item.crafting.RawWood",
+      "quantity": 10
+    },
+	{
+      "code": "staxel.item.crops.Kiwi",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood",
+      "quantity": 5
+    }
+  ],
+  "effect": "staxel.effect.cooking.CombineSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell",
+}

@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.CombineSeasonedChickenRecast",
+  "automated": true,
+  "automationDelay": 2,
+  "duration": 1,
+  "triggerDurationCraftManually": true,
+  "recipeStep": "combine",
+  "tools": [
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Chicken",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Pepper",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.Salt",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.SeasonedChicken",
+      "quantity": 1
+    }
+  ],
+  "effect": "staxel.effect.cooking.CombineSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell",
+}

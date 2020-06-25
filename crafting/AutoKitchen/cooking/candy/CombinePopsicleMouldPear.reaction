@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.AutoCombinePopsicleMouldPear",
+  "recipeStep": "Auto Combine",
+      "triggerDurationCraftManually": true,
+	  "duration": 1,
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+    },
+    {
+      "code": "staxel.item.crafting.WaterJar",
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedPear",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.PearPopsicleMould",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

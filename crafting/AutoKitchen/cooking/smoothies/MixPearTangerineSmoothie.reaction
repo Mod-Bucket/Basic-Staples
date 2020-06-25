@@ -1,0 +1,39 @@
+{
+  "name": "Mix Pear Tangerine Smoothie",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.smoothies.AutoMixPearTangerineSmoothie",
+  "recipeStep": "Auto Mix",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.ChoppedTangerine",
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedPear",
+    },
+    {
+      "code": "staxel.item.crafting.Yoghurt",
+    },
+    {
+      "code": "staxel.item.crafting.Milk",
+    }
+  ],
+  "results": [
+    {
+		"code": "aaa.mods.mb.BasicStaples.item.complete.smoothies.PearTangerineSmoothie",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "duration": 5,
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

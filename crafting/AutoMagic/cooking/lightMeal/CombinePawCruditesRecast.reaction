@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.CombinePawCruditesRecast",
+  "automated": true,
+  "automationDelay": 2,
+  "duration": 1,
+  "triggerDurationCraftManually": true,
+  "recipeStep": "combine",
+  "tools": [
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.PeanutButter",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBunnyCarrot",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCatTurnip",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPuppyPotato",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.PawCrudites",
+      "quantity": 1
+    }
+  ],
+  "effect": "staxel.effect.cooking.CombineSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell",
+}

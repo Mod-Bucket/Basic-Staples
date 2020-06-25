@@ -1,0 +1,31 @@
+{
+  "name": "Chopped Strawberries Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.ChoppedBunnyCarrotRecast",
+  "automated": true,
+  "automationDelay": 1,
+  "recipeStep": "cut",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBunnyCarrot",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effect": "staxel.effect.cooking.ChopSpell"
+}

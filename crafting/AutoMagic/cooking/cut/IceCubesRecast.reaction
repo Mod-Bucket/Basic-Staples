@@ -1,0 +1,32 @@
+{
+  "name": "Sliced Watermelon Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.IceCubesRecast",
+  "automated": true,
+  "automationDelay": 1,
+  "recipeStep": "cut",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.IceCubes",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.gatherable.Snowball",
+	  "quantity": 1
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effect": "staxel.effect.cooking.ChopSpell"
+}

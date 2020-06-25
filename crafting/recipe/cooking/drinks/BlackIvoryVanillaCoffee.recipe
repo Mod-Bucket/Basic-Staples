@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.MoreFarmAnimals.crafting.recipe.BlackIvoryVanillaCoffee",
+  "grouping": "drinks",
+  "ingredients": [
+	{
+      "code": "staxel.item.crafting.WaterJar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.ElephantSplat",
+      "quantity": 50
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Vanilla",
+    },	
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5000,
+    "value": 10000
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "aaa.mods.mb.MoreFarmAnimals.item.complete.BlackIvoryVanillaCoffee",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    {
+      "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.MoreFarmAnimals.CombineElephantSplat",
+      "quantity": 5
+    },
+    {
+      "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.MoreFarmAnimals.RoastBlackIvoryCoffeeBean",
+      "quantity": 5
+    },
+	"aaa.mods.mb.BasicStaples.crafting.reactions.MoreFarmAnimals.MillBlackIvoryCoffeeGrounds",
+	"aaa.mods.mb.MoreFarmAnimals.crafting.reactions.BoilBlackIvoryVanillaCoffee",
+  ]
+}

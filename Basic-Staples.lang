@@ -91,8 +91,14 @@ aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.description=A cask
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.name=Waffle Griddle
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.description=It makes waffles and paninni.
 
+aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.plant.name=Brassberry Bush Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.plant.description=Survives out of season. Harvestable in Winter.
+
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.name=Brassberry Bush Seeds
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.description=Survives out of season. Harvestable in Winter.
+
+aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.plant.name=Silverberry Bush Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.plant.description=Survives out of season. Harvestable in Winter and Summer.
 
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.name=Silverberry Bush Seeds
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.description=Survives out of season. Harvestable in Winter and Summer.
@@ -184,11 +190,17 @@ aaa.mods.mb.BasicStaples.item.dummy.DummyFiber.description=Dummy Item
 aaa.mods.mb.BasicStaples.item.dummy.MostFruit.name=Most Fruit
 aaa.mods.mb.BasicStaples.item.dummy.MostFruit.description=Dummy Item
 
+aaa.mods.mb.BasicStaples.item.dummy.AnyChocoPopsicle.name=Any Choco Popsicle
+aaa.mods.mb.BasicStaples.item.dummy.AnyChocoPopsicle.description=Dummy Item
+
+aaa.mods.mb.BasicStaples.item.dummy.AnyPopsicle.name=Any Popsicle
+aaa.mods.mb.BasicStaples.item.dummy.AnyPopsicle.description=Dummy Item
+
 aaa.mods.mb.BasicStaples.item.complete.bread.PumbanoatBread.name=Pumbanoat Bread
 aaa.mods.mb.BasicStaples.item.complete.bread.PumbanoatBread.description=Pumpkin banana and Oat bread.
 
 aaa.mods.mb.BasicStaples.item.complete.cake.StrawberryBananaPancakes.name=Strawberry Banana Pancakes
-aaa.mods.mb.BasicStaples.item.complete.cake.StrawberryBananaPancakes.description=Sticks to your ribs.
+aaa.mods.mb.BasicStaples.item.complete.cake.StrawberryBananaPancakes.description=That stack is a mile high.
 
 aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanBlanc.name=Artisan Blanc
 aaa.mods.mb.BasicStaples.item.complete.candy.ArtisanBlanc.description=Fancy, exclusive chocolate for people who don't like chocolate.
@@ -334,7 +346,7 @@ aaa.mods.mb.BasicStaples.item.crafting.intermediate.PumbanoatBreadDough.descript
 aaa.mods.mb.BasicStaples.item.crafting.intermediate.RawBeetTurnipGratin.name=Raw Beet Turnip Gratin
 aaa.mods.mb.BasicStaples.item.crafting.intermediate.RawBeetTurnipGratin.description=Not edible yet.
 
-aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCacao.name=Roasted Cacao
+aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCacao.name=Roasted Cocoa
 aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCacao.description=Smells so good, but needs more processing.
 
 aaa.mods.mb.BasicStaples.item.crafting.intermediate.RoastedCoffeeBean.name=Roasted Coffee Beans
@@ -383,7 +395,7 @@ aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaLiquor.name=Chocolate Liquor
 aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaLiquor.description=Really high quality pure chocolate. Nasty without at least a little sugar.
 
 aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder.name=Cocoa Powder
-aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder.description=The flavor part of a cacao pod. It makes chocolate, chocolate.
+aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder.description=The flavored part of a cacao pod. It makes chocolate, chocolate.
 
 aaa.mods.mb.BasicStaples.item.crafting.staples.CoconutMilk.name=Coconut Milk
 aaa.mods.mb.BasicStaples.item.crafting.staples.CoconutMilk.description=More fat than regular milk.
@@ -505,7 +517,7 @@ aaa.mods.mb.BasicStaples.item.crops.GoldenCatTurnip.description=The ears aren't 
 aaa.mods.mb.BasicStaples.item.crops.GoldenCherries.name=Golden Cherries
 aaa.mods.mb.BasicStaples.item.crops.GoldenCherries.description=Delicious. And requires a dentist.
 
-aaa.mods.mb.BasicStaples.item.crops.GoldenCocoa.name=Golden Cocoa
+aaa.mods.mb.BasicStaples.item.crops.GoldenCocoa.name=Golden Cacao
 aaa.mods.mb.BasicStaples.item.crops.GoldenCocoa.description=I wonder if there's an upgradeable mill out there?
 
 aaa.mods.mb.BasicStaples.item.crops.GoldenCoconut.name=Golden Coconut

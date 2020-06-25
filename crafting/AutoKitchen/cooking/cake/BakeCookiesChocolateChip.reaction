@@ -1,0 +1,27 @@
+{
+  "name": "Bake Chocolate Chip Cookies",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.AutoBakeCookiesChocolateChip",
+  "recipeStep": "Auto Bake",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+		"code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieChocolateChipUnbaked",
+	}
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.CookiesChocolateChip",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

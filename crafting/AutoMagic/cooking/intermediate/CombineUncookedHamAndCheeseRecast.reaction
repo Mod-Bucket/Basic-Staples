@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.CombineUncookedHamAndCheeseRecast",
+  "automated": true,
+  "automationDelay": 2,
+  "duration": 1,
+  "triggerDurationCraftManually": true,
+  "recipeStep": "combine",
+  "tools": [
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.Butter",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.BreadSlice",
+      "quantity": 2
+    },
+    {
+      "code": "staxel.item.crafting.Bacon",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.SwissCheeseSlice",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.UncookedHamAndCheese",
+      "quantity": 1
+    }
+  ],
+  "effect": "staxel.effect.cooking.CombineSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell",
+}

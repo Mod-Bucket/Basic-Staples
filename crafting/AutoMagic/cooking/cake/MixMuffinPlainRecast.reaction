@@ -1,0 +1,35 @@
+{
+  "name": "Mix Plain Muffins Batter Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.MixMuffinPlainRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.MuffinBatter",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+  ],
+  "results": [
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterPlain",
+	}
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "duration": 5,
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

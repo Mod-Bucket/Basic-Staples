@@ -1,0 +1,36 @@
+{
+  "name": "Mix Chocolate Chip Muffins Batter",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.AutoMixMuffinChocolateChip",
+  "recipeStep": "Auto Mix",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.MuffinBatter",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+	{
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.ChoppedChocolate",
+    },
+  ],
+  "results": [
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterChocolateChip",
+	}
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "duration": 5,
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

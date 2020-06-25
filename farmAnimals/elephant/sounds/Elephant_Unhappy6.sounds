@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.MoreFarmAnimals.sounds.elephant.unhappy6",
+  "sounds": [
+    {
+      "file": "mods/Basic-Staples/farmAnimals/elephant/sounds/Elephant_Unhappy6",
+      "volume": 1
+    }
+  ]
+}

@@ -30,11 +30,13 @@
   "descriptionImage": "staxel/ui/image/CraftingIcons/MixIcon.png",
   "pricing": {
     "catalogueUnlockedFromStart": false,
-    "buyable": false,
+    "appearsInCatalogue": false,
+    "buyable": false, 
     "sellPrice": 600,
     "value": 1000
   },
-  "searchable": true,
+  "searchable": false,    
+  "canBeEarntFromLuckyBox": false,  
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "voxels": "mods/Basic-Staples/workbenches/HiddenUnlessPatched/WaffleGriddle.qb"
 }

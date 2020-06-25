@@ -1,0 +1,35 @@
+{
+  "name": "Mix Plain Cookies Dough Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.MixCookiesPlainRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookieDough",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+  ],
+  "results": [
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookiePlainUnbaked",
+	}
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "duration": 5,
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

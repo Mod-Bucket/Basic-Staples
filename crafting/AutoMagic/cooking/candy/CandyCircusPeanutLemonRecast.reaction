@@ -1,0 +1,39 @@
+{
+  "name": "Purple Candy Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.CandyCircusPeanutLemonRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.Syrup"
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Peanut",
+    },
+    {
+      "code": "staxel.item.crops.Lemon",
+    },
+	
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.candy.CircusPeanutLemon",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

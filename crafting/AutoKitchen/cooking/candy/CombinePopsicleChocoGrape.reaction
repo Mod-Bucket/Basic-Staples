@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.AutoCombinePopsicleChocoGrape",
+  "recipeStep": "Auto Combine",
+      "triggerDurationCraftManually": true,
+	  "duration": 1,
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.GrapePopsicle",
+    },
+    {
+      "code": "staxel.item.crafting.CandyChocolateBar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Sprinkles",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.ChocoGrapePopsicle",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

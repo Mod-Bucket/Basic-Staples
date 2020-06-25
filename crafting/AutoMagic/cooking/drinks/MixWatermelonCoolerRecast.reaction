@@ -1,0 +1,41 @@
+{
+  "name": "Mix Watermelon Cooler Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.drinks.MixWatermelonCoolerRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.SlicedWatermelon",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCoconut",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.IceCubes",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Mint",
+    }
+  ],
+  "results": [
+    {
+		"code": "aaa.mods.mb.BasicStaples.item.complete.drinks.WatermelonCooler",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "duration": 5,
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

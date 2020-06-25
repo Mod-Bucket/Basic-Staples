@@ -1,0 +1,42 @@
+{
+  "name": "RoyalIcing Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.MixRoyalIcingRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.Egg",
+      "quantity": 1
+    },
+	{
+      "code": "staxel.item.crafting.WaterJar",
+      "quantity": 1
+    },
+	{
+      "code": "staxel.item.crafting.WhiteSugar",
+      "quantity": 1
+    },
+	
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RoyalIcing"
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

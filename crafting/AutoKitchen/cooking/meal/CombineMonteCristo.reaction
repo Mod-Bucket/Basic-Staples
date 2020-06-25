@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.meal.AutoCombineMonteCristo",
+  "recipeStep": "Auto Combine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.HamAndCheese",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.JamRaspberry",
+      "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.meal.MonteCristo",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine",
+}

@@ -1,0 +1,26 @@
+language.code=en-GB
+language=English
+
+mods.mb.MoreFarmAnimals.tileObject.farmAnimals.Chick.name=Chick
+mods.mb.MoreFarmAnimals.tileObject.farmAnimals.Chick.description=Completely worthless. Feed it water, it scratches up all the bugs it needs.
+
+mods.mb.MoreFarmAnimals.tileObject.crate.elephant.name=Elephant
+mods.mb.MoreFarmAnimals.tileObject.crate.elephant.description=It works for peanuts.
+
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty.name=Elephant Trough
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty.description=Somewhere an elephant is going hungry.
+
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughFeed.name=Elephant Feet Trough
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughFeed.description=Tasty for Elephants. Not for people.
+
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughWater.name=Elephant Water Trough
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughWater.description=It's wet.
+
+aaa.mods.mb.MoreFarmAnimals.item.complete.BlackIvoryVanillaCoffee.name=Black Ivory Vanilla Coffee
+aaa.mods.mb.MoreFarmAnimals.item.complete.BlackIvoryVanillaCoffee.description=The most exquisite coffee with a hint of vanilla.
+
+aaa.mods.mb.MoreFarmAnimals.elephant.item.dummy.TangerineKiwiMangoOrPeach.name=Fruit (Tangerine, Kiwi, Mango or Peach)
+aaa.mods.mb.MoreFarmAnimals.elephant.item.dummy.TangerineKiwiMangoOrPeach.description=Dummy Item
+
+aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood.name=Elephant Food
+aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood.description=Lots of roughage.

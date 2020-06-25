@@ -1,0 +1,15 @@
+{
+  "code": "staxel.treasure.storeShelf.addModItemsToThisOne", 
+  "additive": true,
+  "entries": [
+	{
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.MoreFarmAnimals.item.complete.CookbookElephant1",
+        }
+      ]
+    },
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Bake Iced Cake Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.BakeCakeIcedRecast",
+  "automated": true,
+  "automationDelay": 2,
+  "recipeStep": "bake",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.CakeTin_Circle",
+      "contains": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CakeIcedBatter"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.IcedCake"
+    }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmokeSpell",
+  "effectTrigger": "staxel.effect.DockItemSpell"
+}

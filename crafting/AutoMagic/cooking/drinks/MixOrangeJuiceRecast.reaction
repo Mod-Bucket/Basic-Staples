@@ -1,0 +1,41 @@
+{
+  "name": "Mix Orange Juice Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.drinks.MixOrangeJuiceRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.RedPetal",
+    },
+    {
+      "code": "staxel.item.crafting.YellowPetal",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+    },
+    {
+      "code": "staxel.item.crafting.WaterJar",
+    }
+  ],
+  "results": [
+    {
+		"code": "staxel.item.crafting.OrangeJuice",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "duration": 5,
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

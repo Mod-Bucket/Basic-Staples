@@ -4,15 +4,17 @@
   "grouping": "desserts",
   "ingredients": [
     {
-      "code": "staxel.item.crops.Cocoa",
-	  "quantity": 2
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaButter",
     },
     {
       "code": "staxel.item.crafting.WhiteSugar",
     },
-	{
-	  "code": "staxel.item.crafting.BakingPowder",
-	},
+    {
+      "code": "staxel.item.crafting.BakingPowder",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaLiquor",
+    },
 	
 
   ],
@@ -30,19 +32,6 @@
   },
   "searchable": true,
   "steps": [
-    {
-      "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.BakeCocoa",
-      "quantity": 2
-    },
-	{
-      "reaction": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.CocoaPowder",
-      "quantity": 1
-    },  	
-	{
-      "reaction": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.BakeCocoaButter",
-      "quantity": 1
-    },
-	"aaa.mods.mb.BasicStaples.crafting.reaction.cooking.mill.ChocolateLiquor",
     "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.BoilArtisanRuby",
   ]
 }

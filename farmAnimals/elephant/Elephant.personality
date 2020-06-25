@@ -1,0 +1,24 @@
+{
+  "code": "mods.mb.MoreFarmAnimals.personality.Elephant",
+  "walk": [
+    "walk"
+  ],
+  "run": [
+    "run"
+  ],
+  "idle": [
+    "idle",
+    "idle2",
+    "idle3"
+  ],
+  "swim": [
+    "swim"
+  ],
+  "swimIdle": [
+    "swim"
+  ],
+  "bodyType": [],
+  "wave": [
+    "staxel.animation.Waving"
+  ]
+}

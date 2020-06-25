@@ -1,0 +1,43 @@
+{
+  "name": "Mix Iced Cake Batter Recast",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.MixCakeIcedRecast",
+  "automated": true,
+  "automationDelay": 3,
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+	{
+	  "code": "mods.AutoMagic.MagicCatalyst"
+	},
+    {
+      "code": "staxel.item.crafting.CakeBatter"
+    },
+    {
+      "code": "staxel.item.crafting.BrownSugar"
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Icing"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.CakeTin_Circle",
+      "contains": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CakeIcedBatter"
+        }
+      ]
+    }
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItemSpell",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+
+  "duration": 5,
+  "effect": "staxel.effect.cooking.MixerSpell",
+  "processDrawable": "sludge"
+}

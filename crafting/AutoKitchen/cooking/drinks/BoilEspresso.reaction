@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.AutoBoilEspresso",
+  "recipeStep": "Auto Boil",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.VialBlack",
+    },
+	{
+      "code": "staxel.item.crafting.WaterJar",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoffeeGrounds",
+	  "quantity": 5
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso",
+	  "quantity": 1
+    }
+  ],
+  "duration": 10,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "milk"
+}

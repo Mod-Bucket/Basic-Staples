@@ -1,0 +1,27 @@
+{
+  "name": "Freeze Pear Popsicle",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.AutoFreezePearPopsicle",
+  "recipeStep": "Auto Freeze",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.DeepFreezer"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.PearPopsicleMould"
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.candy.PearPopsicle"
+    }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "aaa.mods.mb.BasicStaples.effect.FreezerChill",
+  "effectTrigger": "staxel.effect.DockItem"
+}

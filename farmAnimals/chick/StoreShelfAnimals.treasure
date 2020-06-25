@@ -1,0 +1,15 @@
+{
+  "code": "staxel.treasure.storeShelf.animals",
+  "additive": true,
+  "entries": [
+    {
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.mb.MoreFarmAnimals.tileObject.farmAnimals.Chick"
+        }
+      ],
+    },
+  ]
+}
