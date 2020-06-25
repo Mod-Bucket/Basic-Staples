@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.1
+Version 1.2
 
 A mod for Staxel.
 
@@ -202,6 +202,13 @@ toketsupuurin:
 
 Versions
 
+1.2
+	- Fixed some random vanilla typos. 
+	- Cocoa tree and related are now Cacao tree, etc until roasting as is proper.
+	- Added a second method to get Buttermilk. (The proper method for real buttermilk, not the cultured stuff. At the moment they both point to the original Staxel buttermilk. Should we ever have reason to split buttermilk and cultured buttermilk the yeast recipe will change to cultured.)
+	- Folded More Farm Animals into Basic Staples. (Added Elephant, Elephant Trough, Vanilla Black Ivory Coffee, Elephant Cookbook. Added Chick)
+	- Added preliminary support for AutoKitchen and AutoMagic. Recipes for nearly everything (Easterfest recipes will not be automated except for melting eggs into chocolate bars at the moment.) These have only been spot checked. Automated recipes exist for everything, but not everything has a station capable of automation or has enough slots for Magic Powder.
+
 1.1
 	- Villager moddable like system is IN! Every giftable villager (aside from animals and quest only NPCs) has a system of category tags now. 
 	- Each villager has three items from basic staples or vanilla that they now like to varying degrees. These items will likely change in the future once we've had time to see how the system works and what makes the most sense.
@@ -214,11 +221,6 @@ Versions
 	- Fixed freezer door.
 	- Added Mill and Freezer to store shelf.
 	- Fixed some patch priorities.
-	- Fixed some random vanilla typos. 
-	- Cocoa tree and related are now Cacao tree, etc until roasting as is proper.
-	- Added a second method to get Buttermilk. (The proper method for real buttermilk, not the cultured stuff. At the moment they both point to the original Staxel buttermilk. Should we ever have reason to split buttermilk and cultured buttermilk the yeast recipe will change to cultured.)
-	- Folded More Farm Animals into Basic Staples. (Added Elephant, Elephant Trough, Vanilla Black Ivory Coffee, Elephant Cookbook. Added Chick)
-	- Added preliminary support for AutoKitchen and AutoMagic. Recipes for nearly everything (Easterfest recipes will not be automated except for melting eggs into chocolate bars at the moment.) These have only been spot checked. Automated recipes exist for everything, but not everything has a station capable of automation or has enough slots for Magic Powder.
 
 1.03
 	- fixed grapes. they now drop actual grapes instead of seeds.
