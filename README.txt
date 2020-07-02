@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.2
+Version 1.2.1
 
 A mod for Staxel.
 
@@ -92,8 +92,8 @@ Partly Supported**:
 		* The animal food recipes are entirely different. Flexibility!
 	Auto Magic:
 		* Patches added to tweak the pet tables.
-		* Automated Recipes are in an experimental state.
 		* DO NOT put any bookshelf in the building store except the vanilla shelf. Any other shelf will fail to stock items even if it meets totem requirements.
+		* Automated Recipes will have to be released in a separate patch mod.
 
 	Xable's Animals - Patches added to redirect the pet drop tables.
 		* It's possible these patches won't work because there's a space in the Xable's Animal's name. 
@@ -129,7 +129,7 @@ Non-conflicting Mods***:
 
 Unsupported Mods****:
 	auto baker/boiler/fryer/mixer/chopper:
-		* These mods are no longer developed and won't be supported.
+		* These mods are no longer developed and probably won't be supported. (AutoBaker might be. Still considering.)
 	Coffee in Staxel:
 		* Maybe someday? It will take looking into.
 	Dairy:
@@ -202,12 +202,17 @@ toketsupuurin:
 
 Versions
 
+1.2.1
+	- Adjusted prices on mint and all related products.
+	- Fixed prices on popsicle moulds.
+
 1.2
 	- Fixed some random vanilla typos. 
 	- Cocoa tree and related are now Cacao tree, etc until roasting as is proper.
 	- Added a second method to get Buttermilk. (The proper method for real buttermilk, not the cultured stuff. At the moment they both point to the original Staxel buttermilk. Should we ever have reason to split buttermilk and cultured buttermilk the yeast recipe will change to cultured.)
 	- Folded More Farm Animals into Basic Staples. (Added Elephant, Elephant Trough, Vanilla Black Ivory Coffee, Elephant Cookbook. Added Chick)
 	- Added preliminary support for AutoKitchen and AutoMagic. Recipes for nearly everything (Easterfest recipes will not be automated except for melting eggs into chocolate bars at the moment.) These have only been spot checked. Automated recipes exist for everything, but not everything has a station capable of automation or has enough slots for Magic Powder.
+	- changed how popsicle recipes work and changed how chocolate recipes are handles from start to finish to be a less confusing recipe.
 
 1.1
 	- Villager moddable like system is IN! Every giftable villager (aside from animals and quest only NPCs) has a system of category tags now. 

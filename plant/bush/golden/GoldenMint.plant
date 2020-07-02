@@ -25,8 +25,8 @@
   "pricing": {
     "buyable": true,
     "catalogueUnlockedFromStart": true,
-    "sellPrice": 677,
-    "value": 1894
+    "sellPrice": 1452,
+    "value": 2420
   },
   "requiresWatering": false,
   "searchable": true,

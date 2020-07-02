@@ -16,5 +16,27 @@
 //		"populateAnyways" : true
 //      }
     },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "mods.mb.MoreFarmAnimals.tileObject.crate.elephant"
+        }
+      ],
+      "globalGate": {
+        "global": "sellCoffeeBeans",
+		//"populateAnyways" : true
+      }
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1",
+        }
+      ]
+    },
   ]
 }

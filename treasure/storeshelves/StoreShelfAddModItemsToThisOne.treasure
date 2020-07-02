@@ -70,15 +70,6 @@
       "items": [
         {
 		  "kind": "staxel.item.Placer",
-          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1",
-        }
-      ]
-    },
-    {
-      "weight": 1,
-      "items": [
-        {
-		  "kind": "staxel.item.Placer",
           "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookCandy1",
         }
       ]
