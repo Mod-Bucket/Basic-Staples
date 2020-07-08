@@ -83,6 +83,17 @@ Note that a player who knows the search term to look for can still cheat and sea
 
 ------
 
+Mini-crafters:
+	Mini crafting machines (like the toaster and coffee maker) are designed to be set on kitchen counters and automate some basic functions. They also have cheaper recipes at the cost of counter space and keeping track of another crafting machine.
+
+Coffee recipes are usually boiled, and a boiled recipe should require a jar of water. The makers don't require water. A coffee recipe requires requires at least one "percable" item. Any grounds should be labeled "percable".
+
+Toast is usually fried, and the fried recipe requires butter. No butter is needed for the toaster. A toastable item requires the term "toasting"
+
+
+
+------
+
 Actually Adding Basic Staples items to your mod:
 
 If you just want to use a Basic Staples item in your mod there are a few ways to go about it:

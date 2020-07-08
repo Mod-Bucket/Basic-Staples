@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.toast.CombineToastJamTangerine",
+  "recipeStep": "combine",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.preserves.MarmaladeTangerine",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Toast",
+    },
+  ],
+  "results": [
+    {
+	  "quantity": 1,
+      "code": "aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamTangerine",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

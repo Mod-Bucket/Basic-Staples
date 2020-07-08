@@ -1,0 +1,15 @@
+{
+    "file": "staxel/item/crafting/BreadSlice.item",
+    "priority": 999, 
+    "mergeLists": true,
+    "patch": {
+		"categories": [
+			"toasting",
+  ],
+  "pricing": {
+		"catalogueUnlockedFromStart": false,
+  },
+  "icon": "mods/Basic-Staples/item/crafting/staples/BreadSlice.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/BreadSlice.qb",  
+    }
+}

@@ -48,6 +48,10 @@
           "kind": "staxel.item.Recipe",
           "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.Espresso",
         },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.MintTea",
+        },
 //		{ "kind": "staxel.item.Recipe",
 //          "recipe": "staxel.crafting.recipes.MugOSap"}, //Quest
       ]

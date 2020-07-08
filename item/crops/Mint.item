@@ -9,6 +9,7 @@
     "mixable",
     "harvested",
 	"Lettercarrying",
+	"percable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crops.Mint",
   "eatTime": 1,

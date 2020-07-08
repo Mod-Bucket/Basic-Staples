@@ -6,7 +6,8 @@
     "coffeebean",
     "grounds",
     "boilable",
-    "mixable"
+    "mixable",
+	"percable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoffeeGrounds",
   "icon": "mods/Basic-Staples/item/crafting/staples/CoffeeGrounds.qb",

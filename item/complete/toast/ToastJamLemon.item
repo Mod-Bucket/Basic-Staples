@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+    "Basic Staples",
+	"Mod Bucket",
+    "jam",
+    "Lemon",
+    "food",
+    "bread",
+    "toast",
+    "yellow",
+	"Marmalade"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamLemon",
+  "eatTime": 2,
+  "icon": "mods/Basic-Staples/item/complete/toast/ToastJamLemon.qb",
+  "inHand": "mods/Basic-Staples/item/complete/toast/ToastJamLemon.qb",
+  "inHandRotation": {
+    "x": 0.0,
+    "y": -1.56,
+    "z": -1.56
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"swift",
+		"jumpy"
+	]
+  },
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 440,
+    "value": 733
+  },
+  "searchable": true,
+  "canBeEarntFromLuckyBox": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

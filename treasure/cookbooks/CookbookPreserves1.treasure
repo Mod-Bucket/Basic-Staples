@@ -6,6 +6,18 @@
       "items": [
 		{
           "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.toast.ToastButter",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.toast.ToastJamDummy",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.toast.ToastPeanutButterHoney",
+        },
+		{
+          "kind": "staxel.item.Recipe",
           "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.preserves.MarmaladeTangerine",
         },
 		{

@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.PercolateEspresso",
+  "recipeStep": "percolate",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.VialBlack",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoffeeGrounds",
+	  "quantity": 5
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso",
+	  "quantity": 1
+    }
+  ],
+  "triggerDurationCraftManually": true,
+  "automated": true,
+  "automationDelay": 3,
+  "duration": 6,
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Boil",
+}

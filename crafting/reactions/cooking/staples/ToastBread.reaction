@@ -1,0 +1,26 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.ToastBread",
+  "interactVerb": "toast",
+  "recipeStep": "toast",
+  "tools": [],
+  "docks": [
+    "aaa.mods.mb.BasicStaples.docks.Toaster"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.BreadSlice",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Toast"
+    }
+  ],
+  "triggerDurationCraftManually": true,
+  "automated": true,
+  "automationDelay": 0.2,
+  "effectTrigger": "staxel.effect.DockItem",
+  "duration": 5,
+  "effect": "staxel.effect.cooking.OvenSmoke"
+}

@@ -12,7 +12,8 @@
 	"coffee",
     "grounds",
     "boilable",
-    "mixable"
+    "mixable",
+	"percable"
   ],
   "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.BlackIvoryCoffeeGrounds",
   "icon": "mods/Basic-Staples/item/crafting/MoreFarmAnimals/BlackIvoryCoffeeGrounds.qb",

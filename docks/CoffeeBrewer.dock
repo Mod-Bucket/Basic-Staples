@@ -1,0 +1,50 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.docks.CoffeeBrewer",
+  "craftingKeyword": "percolate",
+  "removeReagentsOnCraftStart": false,
+  "nameTagOffset": {
+    "x": 0.0,
+    "y": 0.6,
+    "z": 0.0
+  },
+  "resultSite": "results",
+  "effectSite": "results",
+  "sites": [
+    {
+      "allowStacks": true,
+      "siteName": "results",
+ 	  "disallowManualDocking": true,
+      "location": {"x": -0.75, "y": 0.0625, "z": 0.125},
+      "rotation": {"x": 0.0, "y": 0.0,"z": 0.0},
+      "compact": false,
+      
+    },
+    {
+      "allowStacks": true,
+      "siteName": "ingredient1",
+	  "disallowManualDocking": false,
+      "location": {"x": 0.4375, "y": 0.0625, "z": 0.25},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0},
+      "compact": true,
+	  "craftSite": true
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "percable",
+      "offset": {"x": 0.0, "y": 0.0, "z": 0.0},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0},
+      "effectTrigger": "staxel.effect.DockItem",
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "sites": ["results", "ingredient1",]
+    },
+    {
+      "category": "all",
+      "offset": {"x": 0.0, "y": 0.0625, "z": 0.0},
+      "rotation": {"x": 0.0, "y": 0.0, "z": 0.0},
+      "effectTrigger": "staxel.effect.DockItem",
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "sites": ["results", "ingredient1",]
+    }
+  ]
+}

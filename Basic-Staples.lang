@@ -1,14 +1,38 @@
 language.code=en-GB
 language=English
 
+aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer.name=Cheap Coffee Brewer
+aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer.description=Ugly and not very useful. But you don't need water.
+
+aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer2.name=Coffee Brewer
+aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer2.description=Makes a decent cup. Doesn't need water.
+
 aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer.name=Deep Freezer
 aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer.description=It makes stuff cold.
 
 aaa.mods.mb.BasicStaples.workbenches.Mill.name=Mill
 aaa.mods.mb.BasicStaples.workbenches.Mill.description=It grinds powders and makes oils.
 
+aaa.mods.mb.BasicStaples.Breader.name=Toaster
+aaa.mods.mb.BasicStaples.Breader.description=It makes stuff toasty. Doesn't need butter.
+
 aaa.mods.mb.BasicStaples.tileObject.farmAnimal.Angus.name=Angus
 aaa.mods.mb.BasicStaples.tileObject.farmAnimal.Angus.description=It's a big beefy cow. No milk.
+
+mods.mb.MoreFarmAnimals.tileObject.farmAnimals.Chick.name=Chick
+mods.mb.MoreFarmAnimals.tileObject.farmAnimals.Chick.description=Completely worthless. Feed it water, it scratches up all the bugs it needs.
+
+mods.mb.MoreFarmAnimals.tileObject.crate.elephant.name=Elephant
+mods.mb.MoreFarmAnimals.tileObject.crate.elephant.description=A dwarf elephant. It works for coffee, not peanuts.
+
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty.name=Elephant Trough
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty.description=Somewhere an elephant is going hungry.
+
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughFeed.name=Elephant Feed Trough
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughFeed.description=Tasty for Elephants. Not for people.
+
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughWater.name=Elephant Water Trough
+aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughWater.description=It's wet.
 
 aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1.name=Animals v1
 aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1.description=Recipes for animals.
@@ -157,6 +181,9 @@ aaa.mods.mb.BasicStaples.item.crops.PuppyPotato.description=It looks so eager.
 aaa.mods.mb.BasicStaples.item.crops.Wheat.name=Wheat
 aaa.mods.mb.BasicStaples.item.crops.Wheat.description=A grain with a lot of different purposes...all of which require milling.
 
+aaa.mods.mb.BasicStaples.item.dummy.AnyChocoPopsicle.name=Any Choco Popsicle
+aaa.mods.mb.BasicStaples.item.dummy.AnyChocoPopsicle.description=Dummy Item
+
 aaa.mods.mb.BasicStaples.item.dummy.RaspberryCherryOrSlicedWatermelon.name=Fruit (Raspberry, Cherry, or Sliced Watermelon)
 aaa.mods.mb.BasicStaples.item.dummy.RaspberryCherryOrSlicedWatermelon.description=Dummy Item
 
@@ -168,6 +195,9 @@ aaa.mods.mb.BasicStaples.item.dummy.ChoppedLimeChoppedKiwiOrChoppedPear.descript
 
 aaa.mods.mb.BasicStaples.item.dummy.ChoppedAppleOrStrawberry.name=Fruit (Chopped Apple or Strawberry)
 aaa.mods.mb.BasicStaples.item.dummy.ChoppedAppleOrStrawberry.description=Dummy Item
+
+aaa.mods.mb.BasicStaples.item.dummy.AnyPopsicle.name=Any Popsicle
+aaa.mods.mb.BasicStaples.item.dummy.AnyPopsicle.description=Dummy Item
 
 aaa.mods.mb.BasicStaples.item.dummy.ChoppedOrangeChoppedPeachOrChoppedTangerine.name=Fruit (Chopped Orange, Chopped Peach, or Chopped Tangerine)
 aaa.mods.mb.BasicStaples.item.dummy.ChoppedOrangeChoppedPeachOrChoppedTangerine.description=Dummy Item
@@ -190,11 +220,20 @@ aaa.mods.mb.BasicStaples.item.dummy.DummyFiber.description=Dummy Item
 aaa.mods.mb.BasicStaples.item.dummy.MostFruit.name=Most Fruit
 aaa.mods.mb.BasicStaples.item.dummy.MostFruit.description=Dummy Item
 
-aaa.mods.mb.BasicStaples.item.dummy.AnyChocoPopsicle.name=Any Choco Popsicle
-aaa.mods.mb.BasicStaples.item.dummy.AnyChocoPopsicle.description=Dummy Item
-
 aaa.mods.mb.BasicStaples.item.dummy.AnyPopsicle.name=Any Popsicle
 aaa.mods.mb.BasicStaples.item.dummy.AnyPopsicle.description=Dummy Item
+
+aaa.mods.mb.MoreFarmAnimals.elephant.item.dummy.TangerineKiwiMangoOrPeach.name=Fruit (Tangerine, Kiwi, Mango or Peach)
+aaa.mods.mb.MoreFarmAnimals.elephant.item.dummy.TangerineKiwiMangoOrPeach.description=Dummy Item
+
+aaa.mods.mb.BasicStaples.item.dummy.TangerineKiwiMangoOrPeach.name=Fruit (Tangerine, Mango, Kiwi, or Peach)
+aaa.mods.mb.BasicStaples.item.dummy.TangerineKiwiMangoOrPeach.description=Dummy Item
+
+aaa.mods.mb.BasicStaples.item.dummy.AnyJamToast.name=Any Jam or Marmalade Toast
+aaa.mods.mb.BasicStaples.item.dummy.AnyJamToast.description=Dummy Item
+
+aaa.mods.mb.BasicStaples.item.dummy.AnyJam.name=Any Jam or Marmalade
+aaa.mods.mb.BasicStaples.item.dummy.AnyJam.description=Dummy Item
 
 aaa.mods.mb.BasicStaples.item.complete.bread.PumbanoatBread.name=Pumbanoat Bread
 aaa.mods.mb.BasicStaples.item.complete.bread.PumbanoatBread.description=Pumpkin banana and Oat bread.
@@ -238,8 +277,14 @@ aaa.mods.mb.BasicStaples.item.complete.candy.CircusPeanutVanilla.description=Hey
 aaa.mods.mb.BasicStaples.item.complete.candy.PearPopsicle.name=Pear Popsicle
 aaa.mods.mb.BasicStaples.item.complete.candy.PearPopsicle.description=Chilly chunks of pear in portable form.
 
-aaa.mods.mb.BasicStaples.item.complete.candy.TangerinePopsicle.name=TangerinePopsicle
+aaa.mods.mb.BasicStaples.item.complete.candy.TangerinePopsicle.name=Tangerine Popsicle
 aaa.mods.mb.BasicStaples.item.complete.candy.TangerinePopsicle.description=Chilly tangerine pulp in portable form.
+
+aaa.mods.mb.BasicStaples.item.complete.MoreFarmAnimals.BlackIvoryCoffee.name=Black Ivory Coffee
+aaa.mods.mb.BasicStaples.item.complete.MoreFarmAnimals.BlackIvoryCoffee.description=The most exclusive coffee in the world. Try not to think about how it's made.
+
+aaa.mods.mb.MoreFarmAnimals.item.complete.BlackIvoryVanillaCoffee.name=Black Ivory Vanilla Coffee
+aaa.mods.mb.MoreFarmAnimals.item.complete.BlackIvoryVanillaCoffee.description=The most exquisite coffee with a hint of vanilla.
 
 aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso.name=Espresso
 aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso.description=A rich, bitter coffee that will really wake you up.
@@ -271,8 +316,14 @@ aaa.mods.mb.BasicStaples.item.complete.meal.MonteCristo.description=A ham and ch
 aaa.mods.mb.BasicStaples.item.complete.meat.RoastChicken.name=Roast Chicken
 aaa.mods.mb.BasicStaples.item.complete.meat.RoastChicken.description=Golden brown with crunchy skin.
 
-aaa.mods.mb.BasicStaples.item.complete.MoreFarmAnimals.BlackIvoryCoffee.name=Black Ivory Coffee
-aaa.mods.mb.BasicStaples.item.complete.MoreFarmAnimals.BlackIvoryCoffee.description=The most exclusive coffee in the world. Try not to think about how it's made.
+aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood.name=Elephant Food
+aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood.description=Lots of roughage.
+
+aaa.mods.mb.BasicStaples.item.complete.preserves.JamGrape.name=Grape Jelly
+aaa.mods.mb.BasicStaples.item.complete.preserves.JamGrape.description=Goes great with peanut butter.
+
+aaa.mods.mb.BasicStaples.item.complete.preserves.JamMint.name=Mint Jelly
+aaa.mods.mb.BasicStaples.item.complete.preserves.JamMint.description=Unusual and zingy. Works well on meat.
 
 aaa.mods.mb.BasicStaples.item.complete.preserves.JamPear.name=Pear Jam
 aaa.mods.mb.BasicStaples.item.complete.preserves.JamPear.description=It has a delicate flavor.
@@ -282,6 +333,57 @@ aaa.mods.mb.BasicStaples.item.complete.preserves.MarmaladeTangerine.description=
 
 aaa.mods.mb.BasicStaples.item.complete.smoothies.PearTangerineSmoothie.name=Pear Tangerine Smoothie
 aaa.mods.mb.BasicStaples.item.complete.smoothies.PearTangerineSmoothie.description=Are you sure this tastes good?
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastButter.name=Buttered Toast
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastButter.description=Simple toast with a smear of butter.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamApple.name=Toast with Apple Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamApple.description=Sweet and crunchy.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamBlackberry.name=Toast with Blackberry Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamBlackberry.description=Jammy berries with crunch.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamBlueberry.name=Toast with Blueberry Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamBlueberry.description=The sweetness of blueberries in breakfast form.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamCherry.name=Toast with Cherry Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamCherry.description=Tangy, tart cherries smeared on bread.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamDragonFruit.name=Toast with Dragon Fruit Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamDragonFruit.description=The dragon fruit has a delicate flavor that the toast enhances.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamGrape.name=Toast with Grape Jelly
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamGrape.description=A perfect purple smear.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamLemon.name=Toast with Lemon Marmalade
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamLemon.description=Gag. It's so sour. Great way to wake up?
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamLime.name=Toast with Lime Marmalade
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamLime.description=Tangy and bitter with crunch.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamMint.name=Toast with Mint Jelly
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamMint.description=Kind of weird but refreshing.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamOrange.name=Toast with Orange Marmalade
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamOrange.description=The perfect breakfast food.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamPeach.name=Toast with Peach Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamPeach.description=Sticky and a little cloying.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamPear.name=Toast with Pear Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamPear.description=Lightly fruity and not too sweet for breakfast.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamRaspberry.name=Toast with Raspberry Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamRaspberry.description=The greatest form of toast ever made.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamStrawberry.name=Toast with Strawberry Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamStrawberry.description=The sweet smear of strawberries.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamTangerine.name=Toast with Tangerine Jam
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamTangerine.description=Gag. The toast doesn't help with the bitter.
+
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastPeanutButterHoney.name=Toast with Peanut Butter and Honey
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastPeanutButterHoney.description=Mouth fusing tastiness.
 
 aaa.mods.mb.BasicStaples.item.crafting.intermediate.CakeIcedBatter.name=Iced Cake Batter
 aaa.mods.mb.BasicStaples.item.crafting.intermediate.CakeIcedBatter.description=Won't be tasty until it's baked.
@@ -450,6 +552,9 @@ aaa.mods.mb.BasicStaples.item.crafting.staples.Sprinkles.description=Cute little
 
 aaa.mods.mb.BasicStaples.item.crafting.staples.SunflowerOil.name=Sunflower Oil
 aaa.mods.mb.BasicStaples.item.crafting.staples.SunflowerOil.description=Pure sunflower oil. Good for selling or mixing into cooking oil.
+
+aaa.mods.mb.BasicStaples.item.crafting.staples.Toast.name=Toast
+aaa.mods.mb.BasicStaples.item.crafting.staples.Toast.description=Extra crunchy bread.
 
 aaa.mods.mb.BasicStaples.item.crafting.staples.UmamiSauce.name=Umami Sauce
 aaa.mods.mb.BasicStaples.item.crafting.staples.UmamiSauce.description=It's dark and rich and tastes delicious. You only need a little.

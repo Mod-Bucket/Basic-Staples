@@ -154,7 +154,7 @@ toketsupuurin:
 - Rooster patch to make the rooster functional
 - Chick (totally copied from an early staxel design image.)
 - Grapes, Wheat, Mint, Puppy Potato
-- Mill, Freezer
+- Mill, Freezer, Cheap Coffee Maker, Coffee Maker
 - Cornucopia, Spice Grinder, Herb Garden (And unused alternates for Cornucopia and Herb Garden.)
 - Cake Stand, Cheesecake Stand, Iced Cake Standm Raspberry Pie Stand
 - Cookbooks
@@ -166,10 +166,10 @@ toketsupuurin:
 	- Crops: Grapes, Wheat, Mint, Puppy Potato, Peanut, Patch to Coconut QB.
 	- Chopped Crops: Banana, Coconut, Shredded Coconut, Strawberries, Sweet Potato. Puppy potato, Catturnip, Bunny Carrot.
 	- Golden Crops: Apple, Banana, Brassberries, Silverberries, Bunny Carrot, CatTurnip, Cherries, Cocoa, Coconut, Dragon Fruit, Grapes, Kiwi, Lemon, Lime, Mango, Mint, Orange, Peach, Peanut, Pear, Puppy Potato, Sunflower, Tanderine, Wheat. Cabbage & Coffee Bean QB.
-	- Staples: Beef, Boiled Sausage, Bread Dough, Chicken, Chopped Chocolate, Cocoa Butter, Cocoa Liquor, Cocoa Powder, Coconut Milk, Coconut Water, Coffee Grounds, Cookie Dough, Cooking Oil, Corn Oil, Ice Cubes, Icing, Muffin Batter, Oat Flour, Pepper, Raw Sausage, Rennet, Sprinkles, Sunflower Oil, Vanilla. Patch to Cake Batter and Pancake Batter QBs. Peanut Butter.
+	- Staples: Beef, Boiled Sausage, Bread Dough, Chicken, Chopped Chocolate, Cocoa Butter, Cocoa Liquor, Cocoa Powder, Coconut Milk, Coconut Water, Coffee Grounds, Cookie Dough, Cooking Oil, Corn Oil, Ice Cubes, Icing, Muffin Batter, Oat Flour, Pepper, Raw Sausage, Rennet, Sprinkles, Sunflower Oil, Vanilla. Patch to Cake Batter and Pancake Batter QBs. Peanut Butter. Toast.
 	- Intermediates: Blueberry Popsicle Mould, Cake Iced Batter, Chocolate Chip Cookie Unbaked, Cookie Plain Unbaked, Grape Popsicle Mould, Lime Popsicle Mould, Mint Popsicle Mould, Muffin Batter Blueberry, Muffin Batter Chocolate Chip, Muffin Batter Plain, Muffin Batter Strawberry, Orange Popsicle Mould, Pear Popsicle Mould, Pumbanoat Bread Dough, Raw Beet Turnip Gratin, Roasted Cacao, Roasted Coffee Bean, Seasoned Chicken, Strawberry Popsicle Mould, Tangerine Popsicle Mould, Uncooked Ham and Cheese. (Unused: Other Cake Batter QBs.)
 	- Supplies: Popsicle Stick, Muffin Pan (Unused), White Potion, Cheesecloth. 
-	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB. Paw Crudites. Elephant Trough, Elephant Food, Vanilla Black Ivory Coffee, Elephant Cookbook.
+	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB. Paw Crudites. Elephant Trough, Elephant Food, Vanilla Black Ivory Coffee, Elephant Cookbook. Mint Jelly, Grape Jelly, Mint Tea, Buttered Toast, Toast with PB & honey, Jam Toasts (Apple, Blackberry, Blueberry, Cherry, Dragonfruit, Grape, Lemon, Lime, Mint, Orange, Peach, Pear, Raspberry, Strawberry, Tangerine).
 
 MarkGrant: 
 	- Egg Patch
@@ -179,6 +179,8 @@ MarkGrant:
 	- Elephant splat
 	- Elephant Noises
 	- Elephant Particles
+	- Toaster
+	- Bread Slice QB edits.
 
 ===========
 
@@ -205,6 +207,17 @@ Versions
 1.2.1
 	- Adjusted prices on mint and all related products.
 	- Fixed prices on popsicle moulds.
+	- Added mint jam and grape jam.
+	- Added toaster. Toaster recipes don't require butter.
+	- tweaked sliced bread model and patched it to work with toaster.
+	- Added toast, buttered toast, peanut butter honey toast, And jam-type toasts (Apple, Blackberry, Blueberry, Cherry, Dragonfruit, Grape, Lemon, Lime, Mint, Orange, Peach, Pear, Raspberry, Strawberry, Tangerine).
+	- Removed Elephant Cookbook and added recipes to animal book. Repriced book.
+	- Added toast recipe to Staples1 cookbook. Repriced book.
+	- Added all other toast recipes to preserves book.
+	- Renamed vanilla Apple and Peach Sauces to Jams.
+	- Made the roast chicken edible.
+	- Added functional coffee makers. They don't require water to make coffee or tea, the cheap one can only take one ingredient (some form of grounds).
+	- Added mint tea. Added it to Drinks book and repriced it.
 
 1.2
 	- Fixed some random vanilla typos. 

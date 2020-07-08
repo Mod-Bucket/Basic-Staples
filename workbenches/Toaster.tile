@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "categories": [
+    "kitchen",
+    "toaster",
+    "misc",
+    "white"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.Breader",
+  "descriptionImage": "mods/Basic-Staples/workbenches/ToastIcon.png",
+  "compound": { "size": {"x": 2, "y": 1, "z": 1} },
+  "dockDefinition": "aaa.mods.mb.BasicStaples.docks.Toaster",
+  "prefetchTileState": true,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 150,
+    "value": 1500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Basic-Staples/workbenches/Toaster.qb"
+}

@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.PercolateBlackIvoryCoffee",
+  "recipeStep": "percolate",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.BlackIvoryCoffeeGrounds",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.MoreFarmAnimals.BlackIvoryCoffee",
+	  "quantity": 1
+    }
+  ],
+  "triggerDurationCraftManually": true,
+  "automated": true,
+  "automationDelay": 3,
+  "duration": 6,
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Boil",
+}

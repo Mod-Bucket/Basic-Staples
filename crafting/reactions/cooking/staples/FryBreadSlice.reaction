@@ -1,0 +1,23 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.FryBreadSlice",
+  "recipeStep": "fry",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.BreadSlice",
+    },
+    {
+      "code": "staxel.item.crafting.Butter",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Toast",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

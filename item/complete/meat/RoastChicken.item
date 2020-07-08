@@ -8,6 +8,7 @@
     "cooking",
 	"Juicyprey"
   ],
+  "eatTime": 4,
   "code": "aaa.mods.mb.BasicStaples.item.complete.meat.RoastChicken",
   "icon": "mods/Basic-Staples/item/complete/meat/RoastChicken.qb",
   "inHand": "mods/Basic-Staples/item/complete/meat/RoastChicken.qb",
@@ -21,6 +22,7 @@
     "y": 0.0,
     "z": 1.56
   },
+  "isDrink": false,
   "isDockable": true,
   "kind": "staxel.item.CraftItem",
   "pricing": {

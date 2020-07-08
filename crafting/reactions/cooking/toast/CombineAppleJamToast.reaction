@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.toast.CombineToastJamApple",
+  "recipeStep": "combine",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.SauceApple",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Toast",
+    },
+  ],
+  "results": [
+    {
+	  "quantity": 1,
+      "code": "aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamApple",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

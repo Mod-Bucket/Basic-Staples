@@ -1,0 +1,38 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "bread",
+    "toast",
+    "brown"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Toast",
+  "icon": "mods/Basic-Staples/item/crafting/staples/Toast.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/staples/Toast.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": -1.56,
+    "z": -1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 36,
+    "value": 60
+  },
+  "eatTime": 2,
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

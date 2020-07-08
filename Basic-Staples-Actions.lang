@@ -3,3 +3,5 @@ language=English
 
 crafting.action.keyword.freeze=Freeze
 crafting.action.keyword.grind=Grind
+crafting.action.keyword.percolate=Percolate
+crafting.action.keyword.toast=Toast

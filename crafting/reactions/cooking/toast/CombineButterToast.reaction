@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.toast.CombineToastButter",
+  "recipeStep": "combine",
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Butter",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Toast",
+    },
+  ],
+  "results": [
+    {
+	  "quantity": 1,
+      "code": "aaa.mods.mb.BasicStaples.item.complete.toast.ToastButter",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

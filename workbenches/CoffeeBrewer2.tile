@@ -1,0 +1,37 @@
+{
+  "__inherits": "mods/Basic-Staples/docks/CoffeeBrewer2.config",
+  "attachToBelow": true,
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "kitchen",
+    "Percolator",
+	"Coffee Maker",
+	"Coffee Brewer",
+    "furniture",
+    "black",
+    "station",
+    "tool",
+	"percolate",
+	"coffee press"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer2",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "descriptionImage": "mods/Basic-Staples/docks/PercolateIcon.png",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,    
+    "sellPrice": 500,
+    "value": 10000
+  },
+  "canBeGifted": true,
+  "isDockable": true,
+  "searchable": true,
+  "voxels": "mods/Basic-Staples/workbenches/CoffeeBrewer2.qb"
+}
