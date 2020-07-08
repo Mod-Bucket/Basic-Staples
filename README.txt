@@ -207,6 +207,7 @@ Versions
 1.2.1
 	- Adjusted prices on mint and all related products.
 	- Fixed prices on popsicle moulds.
+	- fixed popsicle recipes and corrected the frozen cookbook.
 	- Added mint jam and grape jam.
 	- Added toaster. Toaster recipes don't require butter.
 	- tweaked sliced bread model and patched it to work with toaster.
@@ -218,6 +219,7 @@ Versions
 	- Made the roast chicken edible.
 	- Added functional coffee makers. They don't require water to make coffee or tea, the cheap one can only take one ingredient (some form of grounds).
 	- Added mint tea. Added it to Drinks book and repriced it.
+	- Added toaster and coffeemakers to store shelves.
 
 1.2
 	- Fixed some random vanilla typos. 
