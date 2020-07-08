@@ -10,35 +10,39 @@
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoMintPopsicle",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.BlueberryPopsicle",
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoLimePopsicle",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoPopsicle",
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoGrapePopsicle",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.StrawberryPopsicle",
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoBlueberryPopsicle",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.GrapePopsicle",
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoTangerinePopsicle",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.LimePopsicle",
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoStrawberryPopsicle",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.MintPopsicle",
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoPearPopsicle",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.OrangePopsicle",
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoOrangePopsicle",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.PearPopsicle",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.TangerinePopsicle",
         },
 		{
           "kind": "staxel.item.Recipe",
