@@ -34,6 +34,14 @@
         },
 		{
           "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.preserves.JamMint",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.preserves.JamGrape",
+        },
+		{
+          "kind": "staxel.item.Recipe",
           "recipe": "staxel.crafting.recipes.JamCherry",
         },
 		{
