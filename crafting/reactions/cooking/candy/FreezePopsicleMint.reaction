@@ -17,7 +17,7 @@
     }
   ],
   "duration": 10,
-  "triggerDurationCraftManually": true,
+  "triggerDurationCraftManually": false,
   "triggerDockAction": "staxel.entityAction.OpenOvenAction",
   "effect": "aaa.mods.mb.BasicStaples.effect.FreezerChill",
   "effectTrigger": "staxel.effect.DockItem"

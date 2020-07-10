@@ -14,7 +14,7 @@
       "siteName": "grate",
       "location": {
         "x": 0.0625,
-        "y": 0.8125,
+        "y": 0.9375,
         "z": 0.375
       },
       "rotation": {
@@ -23,13 +23,14 @@
         "z": 0.0
       },
       "allowStacks": true,
+	  "compact": true,
       "craftSite": true
     },
     {
       "siteName": "results",
       "location": {
         "x": -0.125,
-        "y": 1.375,
+        "y": 1.5,
         "z": 0.5
       },
       "rotation": {
@@ -38,6 +39,8 @@
         "z": 0.0
       },
       "allowStacks": true,
+	  "compact": true,
+   	  "disallowManualDocking": true,
       "craftSite": false
     },
   ],
