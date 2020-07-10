@@ -1,0 +1,30 @@
+{
+  "name": "Purple Candy",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.Auto20PurpleCandy2",
+  "recipeStep": "autoMix",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Syrup"
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Grapes",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.CandyPurple",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

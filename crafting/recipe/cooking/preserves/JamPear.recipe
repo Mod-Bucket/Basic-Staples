@@ -25,6 +25,6 @@
   "searchable": true,
   "steps": [
 	"staxel.crafting.reaction.CutPear",
-    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.JamPear",
+    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.BoilJamPear",
   ]
 }

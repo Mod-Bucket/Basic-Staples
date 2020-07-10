@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.Auto20CombinePopsicleMouldOrange",
+  "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 1,
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+    },
+    {
+      "code": "staxel.item.crafting.WaterJar",
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedOrange",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.candy.OrangePopsicleMould",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

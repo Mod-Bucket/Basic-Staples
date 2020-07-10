@@ -1,0 +1,36 @@
+{
+  "name": "Mix Scrambled Egg",
+  "code": "staxel.crafting.reaction.Auto20MixScrambledEgg",
+  "recipeStep": "autoMix",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Egg",
+      "quantity": 2
+    },
+    {
+      "code": "staxel.item.crafting.Milk"
+    },
+    {
+      "code": "staxel.item.crafting.Butter"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.ScrambledEggMix"
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

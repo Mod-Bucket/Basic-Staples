@@ -1,0 +1,32 @@
+{
+  "name": "Combine Fruit Salad",
+  "code": "staxel.crafting.reaction.Auto20Sushi",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.BoiledRice"
+    },
+    {
+      "code": "staxel.item.gatherable.Salmon"
+    },
+    {
+      "code": "staxel.item.gatherable.Seaweed"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedCucumber"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.LightMeal.Sushi"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

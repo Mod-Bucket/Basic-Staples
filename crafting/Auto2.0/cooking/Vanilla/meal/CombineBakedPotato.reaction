@@ -1,0 +1,29 @@
+{
+  "name": "Combine Baked Potato",
+  "code": "staxel.crafting.reaction.Auto20CombineBakedPotato",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.ChoppedPotato"
+    },
+    {
+      "code": "staxel.item.crafting.Cheese"
+    },
+    {
+      "code": "staxel.item.crafting.Salt"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.UnbakedBakedPotatoWithColdUnbakedCheese"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

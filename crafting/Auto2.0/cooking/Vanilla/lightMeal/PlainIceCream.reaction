@@ -1,0 +1,38 @@
+{
+  "name": "Mix Ice Cream",
+  "code": "staxel.crafting.reaction.Auto20PlainIceCream",
+  "recipeStep": "autoMix",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Salt"
+    },
+    {
+      "code": "staxel.item.crafting.Cream"
+    },
+    {
+      "code": "staxel.item.crafting.Milk"
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.PlainIceCream"
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

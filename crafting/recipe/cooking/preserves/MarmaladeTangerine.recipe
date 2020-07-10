@@ -25,6 +25,6 @@
   "searchable": true,
   "steps": [
 	"staxel.crafting.reaction.CutTangerine",
-    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.MarmaladeTangerine",
+    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.BoilMarmaladeTangerine",
   ]
 }

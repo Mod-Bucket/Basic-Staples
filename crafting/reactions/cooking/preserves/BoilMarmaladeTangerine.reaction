@@ -1,6 +1,6 @@
 {
   "name": "Tangerine Marmalade",
-  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.MarmaladeTangerine",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.BoilMarmaladeTangerine",
   "recipeStep": "boil",
   "tools": [],
   "docks": [

@@ -1,0 +1,33 @@
+{
+  "name": "Combine Bacon Sandwich",
+  "code": "staxel.crafting.reaction.Auto20CombineBaconSandwich",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.ChoppedTomato"
+    },
+    {
+      "code": "staxel.item.crafting.Bacon"
+    },
+    {
+      "code": "staxel.item.crafting.Butter"
+    },
+    {
+      "code": "staxel.item.crafting.BreadSlice",
+      "quantity": 2
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.UncookedBaconSandwich"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

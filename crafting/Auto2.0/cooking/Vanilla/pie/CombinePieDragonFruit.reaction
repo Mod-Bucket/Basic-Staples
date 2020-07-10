@@ -1,0 +1,26 @@
+{
+  "name": "Combine DragonFruit Pie",
+  "code": "staxel.crafting.reaction.Auto20CombinePieDragonFruit",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCrust"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedDragonFruit"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.PieDragonFruitUnbaked"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

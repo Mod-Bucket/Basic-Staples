@@ -28,6 +28,6 @@
   "searchable": true,
   "steps": [
 	"staxel.crafting.reaction.CutApple",
-    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.JamMint",
+    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.BoilJamMint",
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.crafting.supplies.AutoBoilCheeseCloth3",
+  "recipeStep": "Auto Boil",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [
+  ],
+  "reagents": [
+	{
+	  "code": "staxel.item.crafting.Butter",
+    },
+	{
+	  "code": "staxel.item.crafting.Wool",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth",
+	  "quantity": 3
+    }
+  ],
+  "duration": 15,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "water"
+}

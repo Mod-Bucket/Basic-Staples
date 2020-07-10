@@ -1,0 +1,35 @@
+{
+  "name": "Egg Fried Rice",
+  "code": "staxel.crafting.reaction.Auto20ShrimpFriedRice",
+  "recipeStep": "autoFry",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.FryingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Rice"
+    },
+    {
+      "code": "staxel.item.crops.Onion"
+    },
+    {
+      "code": "staxel.item.crafting.Salt"
+    },
+    {
+      "code": "staxel.item.gatherable.Shrimp"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.ShrimpFriedRice"
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

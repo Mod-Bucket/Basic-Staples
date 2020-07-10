@@ -1,0 +1,34 @@
+{
+  "name": "Mix Cheese Cake Batter",
+  "code": "staxel.crafting.reaction.Auto20MixCakeCheese",
+  "recipeStep": "mix",
+  "tools": [
+  ],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation",
+    "staxel.tileObject.serverVillage.PatisserieMixingStation"
+  ],
+  "reagents": [
+    { "code": "staxel.item.crafting.CakeBatter" },
+    { "code": "staxel.item.crafting.Cheese" },
+    { "code": "staxel.item.crafting.Cream" },
+    { "code": "staxel.item.crops.Lemon" }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.CakeTin_Circle",
+      "contains": [
+        { "code": "staxel.item.crafting.CakeCheeseBatter" }
+      ]
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}
+

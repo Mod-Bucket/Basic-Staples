@@ -1,0 +1,25 @@
+{
+  "name": "Bake Strawberry Muffins",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.Auto20BakeMuffinsStrawberry",
+  "recipeStep": "autoBake",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+
+  "reagents": [
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.MuffinBatterStrawberry",
+	}
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.MuffinsStrawberry",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

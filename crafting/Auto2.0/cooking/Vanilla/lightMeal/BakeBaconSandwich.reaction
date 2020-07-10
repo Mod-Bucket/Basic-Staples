@@ -1,0 +1,26 @@
+{
+  "name": "Bake Bacon Sandwich",
+  "code": "staxel.crafting.reaction.Auto20BakeBaconSandwich",
+  "recipeStep": "autoBake",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.UncookedBaconSandwich"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.BaconSandwich"
+    }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockBakedItem"
+}

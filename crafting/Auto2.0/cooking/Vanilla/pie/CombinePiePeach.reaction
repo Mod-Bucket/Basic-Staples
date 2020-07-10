@@ -1,0 +1,26 @@
+{
+  "name": "Combine Peach Pie",
+  "code": "staxel.crafting.reaction.Auto20CombinePiePeach",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCrust"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedPeach"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.PiePeachUnbaked"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

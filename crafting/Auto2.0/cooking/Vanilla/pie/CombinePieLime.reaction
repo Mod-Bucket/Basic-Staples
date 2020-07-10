@@ -1,0 +1,26 @@
+{
+  "name": "Combine Lime Pie",
+  "code": "staxel.crafting.reaction.Auto20CombinePieLime",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCrust"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedLime"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.PieLimeUnbaked"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

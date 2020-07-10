@@ -1,0 +1,29 @@
+{
+  "name": "Fried Egg",
+  "code": "staxel.crafting.reaction.Auto20SeasonedSalmon",
+  "recipeStep": "autoFry",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.FryingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.gatherable.Salmon"
+    },
+    {
+      "code": "staxel.item.crops.Onion"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.LightMeal.SeasonedSalmon"
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

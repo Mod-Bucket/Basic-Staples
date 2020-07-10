@@ -1,0 +1,26 @@
+{
+  "name": "Combine Vegetable Pie",
+  "code": "staxel.crafting.reaction.Auto20CombinePieVegetable",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCrust"
+    },
+    {
+      "code": "staxel.item.crafting.VegetableMedley"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.PieVegetableUnbaked"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

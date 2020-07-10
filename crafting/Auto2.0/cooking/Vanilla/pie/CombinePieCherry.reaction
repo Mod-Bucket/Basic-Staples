@@ -1,0 +1,26 @@
+{
+  "name": "Combine Cherry Pie",
+  "code": "staxel.crafting.reaction.Auto20CombinePieCherry",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCrust"
+    },
+    {
+      "code": "staxel.item.crops.Cherries"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.PieCherryUnbaked"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

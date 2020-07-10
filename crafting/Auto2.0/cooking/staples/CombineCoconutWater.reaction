@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.Auto20CombineCoconutWater",
+  "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 3,
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.JarEmpty",
+      "quantity": 1
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCoconut",
+      "quantity": 1
+    },
+  ],
+  "results": [
+    {
+	  "quantity": 1,
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CoconutWater",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

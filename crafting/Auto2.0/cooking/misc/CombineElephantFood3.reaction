@@ -1,0 +1,28 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.MoreFarmAnimals.elephant.crafting.Auto20CombineElephantFood3",
+  "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "reagents": [
+	{
+      "code": "staxel.item.crops.CoffeeBean",
+    },
+    {
+      "code": "staxel.item.crafting.RawWood",
+      "quantity": 10
+    },
+	{
+      "code": "staxel.item.crops.Mango",
+    },
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood",
+      "quantity": 5
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine",
+}

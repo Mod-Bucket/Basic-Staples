@@ -1,0 +1,32 @@
+{
+  "name": "Mint Jam",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.Auto20JamMint",
+  "recipeStep": "autoBoil",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.WhiteSugar"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedApple",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Mint",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.complete.preserves.JamMint",
+    }
+  ],
+  "duration": 5,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "water"
+}

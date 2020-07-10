@@ -1,0 +1,36 @@
+{
+  "name": "Mug O' Sap",
+  "code": "staxel.crafting.reaction.Auto20MugOSap",
+  "recipeStep": "autoMix",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.gatherable.Wildberry",
+	  "quantity" : 2
+    },
+    {
+      "code": "staxel.item.gatherable.HoneyPotFull"
+    },
+    {
+      "code": "staxel.item.quest.SecretIngredient"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.MugOSap"
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

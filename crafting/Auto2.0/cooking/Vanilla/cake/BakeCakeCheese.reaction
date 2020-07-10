@@ -1,0 +1,28 @@
+{
+  "name": "Bake Cheese Cake",
+  "code": "staxel.crafting.reaction.Auto20BakeCakeCheese",
+  "recipeStep": "autoBake",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation",
+    "staxel.tileObject.serverVillage.PatisserieBakingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.CakeTin_Circle",
+      "contains": [
+        { "code": "staxel.item.crafting.CakeCheeseBatter" }
+      ]
+    }
+  ],
+  "results": [
+    { "code": "staxel.item.crafting.CakeCheese" }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

@@ -91,7 +91,7 @@ Partly Supported**:
 		* Do not recommend using this mod's cocoa recipe. Fast to get you catalog chocolate early but not economical. 
 		* The animal food recipes are entirely different. Flexibility!
 	Auto Magic:
-		* Patches added to tweak the pet tables.
+		* Patches added to tweak the pet tables. (* It's possible these patches won't work because there's a space in the file path.) 
 		* DO NOT put any bookshelf in the building store except the vanilla shelf. Any other shelf will fail to stock items even if it meets totem requirements.
 		* Automated Recipes will have to be released in a separate patch mod.
 
@@ -104,6 +104,9 @@ Partly Supported**:
 		* Dragons drop all three pet seeds and treasures instead of clothing.(not 100% this is working.)
 
 	Autokitchen by NiccyNeko:
+		* Automated Recipes are in an experimental state.
+
+	auto baker/boiler/fryer/mixer/chopper:
 		* Automated Recipes are in an experimental state.
 
 **A partly supported mod might have some recipe conflicts with Basic Staples that have been patched out. Some items in the mod might be duplicates of Basic Staples items and the mod's recipes have been changed to produce or use Staples products. The mod may have ingredients that are unavailable for use with other mods. Mods that use Basic Staples might forget to include reactions for some of this mod's ingredients. 
@@ -128,8 +131,6 @@ Non-conflicting Mods***:
 ---------
 
 Unsupported Mods****:
-	auto baker/boiler/fryer/mixer/chopper:
-		* These mods are no longer developed and probably won't be supported. (AutoBaker might be. Still considering.)
 	Coffee in Staxel:
 		* Maybe someday? It will take looking into.
 	Dairy:
@@ -220,13 +221,15 @@ Versions
 	- Added functional coffee makers. They don't require water to make coffee or tea, the cheap one can only take one ingredient (some form of grounds).
 	- Added mint tea. Added it to Drinks book and repriced it.
 	- Added toaster and coffeemakers to store shelves.
+	- Made all freezer recipes automated.
+	- Made Auto 2.0 recipes. They're experimental. Also added most of the recipes that were missing. (Not the quest potion though.)
 
 1.2
 	- Fixed some random vanilla typos. 
 	- Cocoa tree and related are now Cacao tree, etc until roasting as is proper.
 	- Added a second method to get Buttermilk. (The proper method for real buttermilk, not the cultured stuff. At the moment they both point to the original Staxel buttermilk. Should we ever have reason to split buttermilk and cultured buttermilk the yeast recipe will change to cultured.)
 	- Folded More Farm Animals into Basic Staples. (Added Elephant, Elephant Trough, Vanilla Black Ivory Coffee, Elephant Cookbook. Added Chick)
-	- Added preliminary support for AutoKitchen and AutoMagic. Recipes for nearly everything (Easterfest recipes will not be automated except for melting eggs into chocolate bars at the moment.) These have only been spot checked. Automated recipes exist for everything, but not everything has a station capable of automation or has enough slots for Magic Powder.
+	- Added preliminary support for AutoKitchen. Recipes for nearly everything (Easterfest recipes will not be automated except for melting eggs into chocolate bars at the moment.) These have only been spot checked. Automated recipes exist for everything, but not everything has a station capable of automation.
 	- changed how popsicle recipes work and changed how chocolate recipes are handles from start to finish to be a less confusing recipe.
 
 1.1

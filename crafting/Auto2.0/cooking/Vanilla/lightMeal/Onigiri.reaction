@@ -1,0 +1,29 @@
+{
+  "name": "Combine Onigiri",
+  "code": "staxel.crafting.reaction.Auto20Onigiri",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.BoiledRice"
+    },
+    {
+      "code": "staxel.item.crafting.LightMeal.SeasonedSalmon"
+    },
+    {
+      "code": "staxel.item.gatherable.Seaweed"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.LightMeal.Onigiri"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

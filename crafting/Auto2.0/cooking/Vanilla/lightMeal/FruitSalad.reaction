@@ -1,0 +1,32 @@
+{
+  "name": "Combine Fruit Salad",
+  "code": "staxel.crafting.reaction.Auto20CombineFruitSalad",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.ChoppedKiwi"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedLettuce"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedOrange"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedApple"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.FruitSalad"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

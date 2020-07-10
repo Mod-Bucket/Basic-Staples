@@ -1,0 +1,28 @@
+{
+  "name": "Sliced Watermelon",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.Auto20IceCubes",
+  "recipeStep": "autoCut",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.IceCubes",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.gatherable.Snowball",
+	  "quantity": 1
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effect": "staxel.effect.cooking.Chop"
+}

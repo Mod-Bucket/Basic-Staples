@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/crafting/reactions/crafting/craft.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.toast.AutoCombineToastJamLime",
+  "recipeStep": "Auto Combine",
+      "triggerDurationCraftManually": true,
+	  "duration": 2,
+      "automated": true,
+  "tools": [
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.MarmaladeLime",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Toast",
+    },
+  ],
+  "results": [
+    {
+	  "quantity": 1,
+      "code": "aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamLime",
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

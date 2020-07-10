@@ -1,0 +1,27 @@
+{
+  "name": "Chopped Banana",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.Auto20ChoppedBanana",
+  "recipeStep": "autoCut",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crops.Banana",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedBanana",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "effect": "staxel.effect.cooking.Chop"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Combine Apple Pie",
+  "code": "staxel.crafting.reaction.Auto20CombinePieApple",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCrust"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedApple"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.PieAppleUnbaked"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

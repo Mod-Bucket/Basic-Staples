@@ -1,0 +1,30 @@
+{
+  "name": "Bake Iced Cake",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.Auto20BakeCakeIced",
+  "recipeStep": "autoBake",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.CakeTin_Circle",
+      "contains": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CakeIcedBatter"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.IcedCake"
+    }
+  ],
+  "duration": 10,
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

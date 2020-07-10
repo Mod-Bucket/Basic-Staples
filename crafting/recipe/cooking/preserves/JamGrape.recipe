@@ -24,6 +24,6 @@
   },
   "searchable": true,
   "steps": [
-    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.JamGrape",
+    "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.BoilJamGrape",
   ]
 }

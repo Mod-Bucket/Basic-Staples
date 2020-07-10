@@ -1,0 +1,35 @@
+{
+  "name": "Mix Chicken Food",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.misc.Auto20ChickenFood",
+  "recipeStep": "autoMix",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.Wheat",
+    },
+    {
+      "code": "staxel.item.crops.Oat"
+    },
+    {
+      "code": "staxel.item.gatherable.Cricket",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.farmAnimals.ChickenFood",
+      "quantity": 5
+    }
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+      "automated": true,
+  "duration": 5,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

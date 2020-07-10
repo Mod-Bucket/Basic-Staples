@@ -1,6 +1,6 @@
 {
   "name": "Pear Jam",
-  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.JamPear",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.BoilJamPear",
   "recipeStep": "boil",
   "tools": [],
   "docks": [

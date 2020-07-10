@@ -1,0 +1,32 @@
+{
+  "name": "Basic Salad",
+  "code": "staxel.crafting.reaction.Auto20BasicSalad",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.ChoppedTomato"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedLettuce"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedCucumber"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedCabbage"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.BasicSalad"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

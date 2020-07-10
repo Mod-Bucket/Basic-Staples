@@ -1,0 +1,26 @@
+{
+  "name": "Combine Raspberry Pie",
+  "code": "staxel.crafting.reaction.Auto20CombinePieRaspberry",
+    "recipeStep": "autoCombine",
+      "triggerDurationCraftManually": true,
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCrust"
+    },
+    {
+      "code": "staxel.item.crops.Raspberries"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.item.crafting.PieRaspberryUnbaked"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

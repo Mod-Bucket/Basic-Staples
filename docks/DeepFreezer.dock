@@ -6,7 +6,7 @@
     "y": 0.6,
     "z": 0.0
   },
-  "resultSite": "grate",
+  "resultSite": "results",
   "effectSite": "grate",
   "removeReagentsOnCraftStart": false,
   "sites": [
@@ -22,9 +22,24 @@
         "y": 0.0,
         "z": 0.0
       },
-      "allowStacks": false,
+      "allowStacks": true,
       "craftSite": true
-    }
+    },
+    {
+      "siteName": "results",
+      "location": {
+        "x": -0.125,
+        "y": 1.375,
+        "z": 0.5
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "allowStacks": true,
+      "craftSite": false
+    },
   ],
   "validDockables": [
     {
