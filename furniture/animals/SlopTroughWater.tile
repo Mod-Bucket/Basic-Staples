@@ -1,0 +1,48 @@
+{
+  "__inherits": "staxel/tileObject/feeder.config",
+  "categories": [
+"Basic Staples",
+	"Mod Bucket",
+	"More Farm Animals",
+	"chick",
+	"animal",
+    "trough",
+    "feed",
+    "feeding",
+    "water",
+	"blue"
+  ],
+  "code": "aaa.mods.mb.MoreFarmAnimals.Furniture.SlopTroughWater",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 2
+    }
+  },
+  "feeder": {
+    "emptyFeederCode": "staxel.tileObject.animalFurniture.SlopTroughEmpty",
+    "feedCapacity": 8,
+    "feedKind": "water"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 90,
+    "value": 150
+  },
+  "searchable": false,
+  "spawnOnBreak": {
+    "drops": {
+      "entries": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.animalFurniture.SlopTroughEmpty"
+        }
+      ]
+    },
+    "selfDropChance": 0.0
+  },
+  "stepSoundGroup": "staxel.sounds.DirtFootSteps",
+  "voxels": "mods/Basic-Staples/furniture/animals/SlopTroughWater.qb"
+}

@@ -1,0 +1,26 @@
+{
+    "file": "staxel/item/crafting/WaterJar.item",
+    "priority": 2, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "feederHelper": {
+    "canReplace": [
+      {
+        "from": "aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty",
+        "to": "aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughWater",
+      },
+      {
+        "from": "aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererEmpty",
+        "to": "aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererWater",
+      },
+      {
+        "from": "staxel.tileObject.animalFurniture.SlopTroughEmpty",
+        "to": "aaa.mods.mb.MoreFarmAnimals.Furniture.SlopTroughWater",
+      },
+    ],
+  },
+
+
+    }
+}

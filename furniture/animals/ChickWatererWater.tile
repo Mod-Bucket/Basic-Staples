@@ -1,0 +1,49 @@
+{
+  "__inherits": "staxel/tileObject/feeder.config",
+  "categories": [
+"Basic Staples",
+	"Mod Bucket",
+	"More Farm Animals",
+	"chick",
+	"animal",
+    "trough",
+    "feed",
+    "feeding",
+    "water",
+	"blue"
+  ],
+  "code": "aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererWater",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "feeder": {
+    "emptyFeederCode": "aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererEmpty",
+    "feedCapacity": 30,
+    "feedKind": "water"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+	"appearsInCatalogue": false,
+    "buyable": true,
+    "sellPrice": 180,
+    "value": 345
+  },
+  "searchable": true,
+  "spawnOnBreak": {
+    "drops": {
+      "entries": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererEmpty"
+        }
+      ]
+    },
+    "selfDropChance": 0.0
+  },
+  "stepSoundGroup": "staxel.sounds.PuddleFootSteps",
+  "voxels": "mods/Basic-Staples/furniture/animals/ChickWatererWater.qb"
+}

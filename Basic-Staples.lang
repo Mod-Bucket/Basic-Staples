@@ -25,6 +25,12 @@ mods.mb.MoreFarmAnimals.tileObject.farmAnimals.Chick.description=Completely wort
 mods.mb.MoreFarmAnimals.tileObject.crate.elephant.name=Elephant
 mods.mb.MoreFarmAnimals.tileObject.crate.elephant.description=A dwarf elephant. It works for coffee, not peanuts.
 
+aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererEmpty.name=Chick Waterer
+aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererEmpty.description=It holds enough to keep a chick happy all season.
+
+aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererWater.name=Full Chick Waterer
+aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererWater.description=This will keep the chicks happy.
+
 aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty.name=Elephant Trough
 aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty.description=Somewhere an elephant is going hungry.
 

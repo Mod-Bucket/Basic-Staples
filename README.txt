@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.2.1
+Version 1.2.2
 
 A mod for Staxel.
 
@@ -73,6 +73,7 @@ Fully Supported*:
 		* Filligree Rabbits already only drop bunny carrot seeds. 
 		* The Easter Fest plant is patched to drop Basic Staples Bunny Carrots. 
 		* You might wind up with two stacks of bunny carrot seeds. Both produce the same crop item.
+		* No current plans for native recipes for any of the Easter Eggs that have been cloned. Any mod that wants to use them will need to just include their steps into whatever final recipe it's making. These are soft hidden. You can't get them without randomly making the recipes and unlocking the chocolate egg in creative, but they aren't hard hidden either.
 
 *A fully supported mod has patches to ensure no conflicting recipes and might have copies of ingredients and crops placed within the Basic Staples mod to make them accessible to other mods. ALL OBJECTS OR ITEMS CONTAINED IN BASIC STAPLES ARE HERE WITH THE PERMISSION OF THE ORIGINAL MODDER AND THEIR WORK IS LISTED IN THE CREDITS SECTION.
 
@@ -154,6 +155,7 @@ toketsupuurin:
 - Angus cow
 - Rooster patch to make the rooster functional
 - Chick (totally copied from an early staxel design image.)
+- Elephant Trough. Chick Waterer
 - Grapes, Wheat, Mint, Puppy Potato
 - Mill, Freezer, Cheap Coffee Maker, Coffee Maker
 - Cornucopia, Spice Grinder, Herb Garden (And unused alternates for Cornucopia and Herb Garden.)
@@ -170,7 +172,7 @@ toketsupuurin:
 	- Staples: Beef, Boiled Sausage, Bread Dough, Chicken, Chopped Chocolate, Cocoa Butter, Cocoa Liquor, Cocoa Powder, Coconut Milk, Coconut Water, Coffee Grounds, Cookie Dough, Cooking Oil, Corn Oil, Ice Cubes, Icing, Muffin Batter, Oat Flour, Pepper, Raw Sausage, Rennet, Sprinkles, Sunflower Oil, Vanilla. Patch to Cake Batter and Pancake Batter QBs. Peanut Butter. Toast.
 	- Intermediates: Blueberry Popsicle Mould, Cake Iced Batter, Chocolate Chip Cookie Unbaked, Cookie Plain Unbaked, Grape Popsicle Mould, Lime Popsicle Mould, Mint Popsicle Mould, Muffin Batter Blueberry, Muffin Batter Chocolate Chip, Muffin Batter Plain, Muffin Batter Strawberry, Orange Popsicle Mould, Pear Popsicle Mould, Pumbanoat Bread Dough, Raw Beet Turnip Gratin, Roasted Cacao, Roasted Coffee Bean, Seasoned Chicken, Strawberry Popsicle Mould, Tangerine Popsicle Mould, Uncooked Ham and Cheese. (Unused: Other Cake Batter QBs.)
 	- Supplies: Popsicle Stick, Muffin Pan (Unused), White Potion, Cheesecloth. 
-	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB. Paw Crudites. Elephant Trough, Elephant Food, Vanilla Black Ivory Coffee, Elephant Cookbook. Mint Jelly, Grape Jelly, Mint Tea, Buttered Toast, Toast with PB & honey, Jam Toasts (Apple, Blackberry, Blueberry, Cherry, Dragonfruit, Grape, Lemon, Lime, Mint, Orange, Peach, Pear, Raspberry, Strawberry, Tangerine).
+	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB. Paw Crudites. Elephant Food, Vanilla Black Ivory Coffee, Elephant Cookbook. Mint Jelly, Grape Jelly, Mint Tea, Buttered Toast, Toast with PB & honey, Jam Toasts (Apple, Blackberry, Blueberry, Cherry, Dragonfruit, Grape, Lemon, Lime, Mint, Orange, Peach, Pear, Raspberry, Strawberry, Tangerine).
 
 MarkGrant: 
 	- Egg Patch
@@ -204,6 +206,13 @@ toketsupuurin:
 ============
 
 Versions
+
+1.2.2
+	- Added Chick Waterer. It holds 30 water.
+	- Gave the Giant Chocolate Egg Recipe automated versions.
+	- Added native Giant Sugar Egg reaction and automated versions. 
+	- Added water version of Slop trough.
+	- Patched water jar so it can fill the new troughs with water.
 
 1.2.1
 	- Adjusted prices on mint and all related products.

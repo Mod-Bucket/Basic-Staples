@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/tileObject/feeder.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"More Farm Animals",
+	"chick",
+	"animal",
+    "trough",
+    "feed",
+    "feeding",
+    "empty",
+    "water",
+	"blue"
+  ],
+  "code": "aaa.mods.mb.MoreFarmAnimals.Furniture.ChickWatererEmpty",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "feeder": {},
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+	"appearsInCatalogue": true,  
+    "sellPrice": 180,
+    "value": 345
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Basic-Staples/furniture/animals/ChickWatererEmpty.qb"
+}

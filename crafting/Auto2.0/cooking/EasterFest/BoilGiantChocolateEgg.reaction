@@ -1,0 +1,33 @@
+{
+  "name": "GiantChocolateEgg",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.EasterFest.Auto20BoilGiantChocolateEgg",
+  "recipeStep": "autoBoil",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BoilingStation"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.ChocolateEgg",
+      "quantity": 10
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.CheapEggMould",
+      "quantity": 1
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.EasterFest.GiantChocolateEgg",
+    }
+  ],
+  "duration": 5,
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "syrup"
+}
