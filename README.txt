@@ -213,6 +213,7 @@ Versions
 	- Added native Giant Sugar Egg reaction and automated versions. 
 	- Added water version of Slop trough.
 	- Patched water jar so it can fill the new troughs with water.
+	- Fixed carrot wedding cake price.
 
 1.2.1
 	- Adjusted prices on mint and all related products.

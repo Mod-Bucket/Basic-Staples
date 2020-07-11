@@ -40,6 +40,9 @@ aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughFeed.description=Tasty for E
 aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughWater.name=Elephant Water Trough
 aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughWater.description=It's wet.
 
+aaa.mods.mb.MoreFarmAnimals.Furniture.SlopTroughWater.name=Slop Water Trough
+aaa.mods.mb.MoreFarmAnimals.Furniture.SlopTroughWater.description=Wet but nasty.
+
 aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1.name=Animals v1
 aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookAnimals1.description=Recipes for animals.
 
@@ -100,20 +103,20 @@ aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenFull.description=Grows 
 aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.name=Spice Grinder
 aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.description=A magical spice grinder. Check it from time to time.
 
-aaa.mods.mb.BasicStaples.plant.bush.Grapes.name=Grape Vine Seeds
-aaa.mods.mb.BasicStaples.plant.bush.Grapes.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
+aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.name=Grape Vine Seeds
+aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
 
-aaa.mods.mb.BasicStaples.plant.bush.Mint.name=Mint Seeds
-aaa.mods.mb.BasicStaples.plant.bush.Mint.description=It will grow a Mint bush. Survives out of season. Harvestable in Spring and Summer.
+aaa.mods.mb.BasicStaples.plant.bush.Mint.plant.name=Mint Seeds
+aaa.mods.mb.BasicStaples.plant.bush.Mint.plant.description=It will grow a Mint bush. Survives out of season. Harvestable in Spring and Summer.
 
-aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.name=Bunny Carrot Seeds
-aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.description=A very strange carrot. Plant it anytime.
+aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant.name=Bunny Carrot Seeds
+aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant.description=A very strange carrot. Plant it anytime.
 
-aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.name=Puppy Potato Seeds
-aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.description=A loyal potato. Plant it anytime.
+aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant.name=Puppy Potato Seeds
+aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant.description=A loyal potato. Plant it anytime.
 
-aaa.mods.mb.BasicStaples.plant.crops.Wheat.name=Wheat Seeds
-aaa.mods.mb.BasicStaples.plant.crops.Wheat.description=It grows wheat! Grows during summer.
+aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant.name=Wheat Seeds
+aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant.description=It grows wheat! Grows during summer.
 
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.name=Cask
 aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.Cask.description=A cask for aging things.
@@ -124,47 +127,41 @@ aaa.mods.mb.BasicStaples.workbenches.HiddenUnlessPatched.WaffleGriddle.descripti
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.plant.name=Brassberry Bush Seeds
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.plant.description=Survives out of season. Harvestable in Winter.
 
-aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.name=Brassberry Bush Seeds
-aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.description=Survives out of season. Harvestable in Winter.
-
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.plant.name=Silverberry Bush Seeds
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.plant.description=Survives out of season. Harvestable in Winter and Summer.
 
-aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.name=Silverberry Bush Seeds
-aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.description=Survives out of season. Harvestable in Winter and Summer.
+aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.plant.name=Golden Grape Vine Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.plant.description=Takes a long time to grow. Survives out of season. Harvest in Autumn.
 
-aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.name=Golden Grape Vine Seeds
-aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.description=Takes a long time to grow. Survives out of season. Harvest in Autumn.
+aaa.mods.mb.BasicStaples.plant.bush.GoldenMint.plant.name=Golden Mint Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenMint.plant.description=Survives out of season. Harvestable in Spring and Summer.
 
-aaa.mods.mb.BasicStaples.plant.bush.GoldenMint.name=Golden Mint Seeds
-aaa.mods.mb.BasicStaples.plant.bush.GoldenMint.description=Survives out of season. Harvestable in Spring and Summer.
+aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot.plant.name=Golden Bunny Carrot
+aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot.plant.description=The strangest carrot. Plant it anytime.
 
-aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot.name=Golden Bunny Carrot
-aaa.mods.mb.BasicStaples.plant.crops.GoldenBunnyCarrot.description=The strangest carrot. Plant it anytime.
+aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip.plant.name=Golden Cat Turnip
+aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip.plant.description=It might meow. Plant it anytime.
 
-aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip.name=Golden Cat Turnip
-aaa.mods.mb.BasicStaples.plant.crops.GoldenCatTurnip.description=It might meow. Plant it anytime.
+aaa.mods.mb.BasicStaples.plant.crops.GoldenPuppyPotato.plant.name=Golden Puppy Potato
+aaa.mods.mb.BasicStaples.plant.crops.GoldenPuppyPotato.plant.description=The most loyal potato. Plant it anytime.
 
-aaa.mods.mb.BasicStaples.plant.crops.GoldenPuppyPotato.name=Golden Puppy Potato
-aaa.mods.mb.BasicStaples.plant.crops.GoldenPuppyPotato.description=The most loyal potato. Plant it anytime.
+aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.plant.name=Golden Sunflower
+aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.plant.description=It will shine like the sun. Plant it anytime.
 
-aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.name=Golden Sunflower
-aaa.mods.mb.BasicStaples.plant.crops.GoldenSunflower.description=It will shine like the sun. Plant it anytime.
+aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat.plant.name=Golden Wheat
+aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat.plant.description=Fields of gold, indeed. Harvestable in Summer.
 
-aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat.name=Golden Wheat
-aaa.mods.mb.BasicStaples.plant.crops.GoldenWheat.description=Fields of gold, indeed. Harvestable in Summer.
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.CitrusTree.plant.name=Golden Citrus Tree
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.CitrusTree.plant.description=Plant in summer if you want to harvest in winter.
 
-aaa.mods.mb.BasicStaples.plant.treetile.Golden.CitrusTree.name=Golden Citrus Tree
-aaa.mods.mb.BasicStaples.plant.treetile.Golden.CitrusTree.description=Plant in summer if you want to harvest in winter.
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.ExoticTree.plant.name=Golden Exotic Fruit Tree
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.ExoticTree.plant.description=Plant in summer if you want to harvest in winter.
 
-aaa.mods.mb.BasicStaples.plant.treetile.Golden.ExoticTree.name=Golden Exotic Fruit Tree
-aaa.mods.mb.BasicStaples.plant.treetile.Golden.ExoticTree.description=Plant in summer if you want to harvest in winter.
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.FruitTree.plant.name=Golden Fruit Tree
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.FruitTree.plant.description=Plant in summer if you want to harvest in winter.
 
-aaa.mods.mb.BasicStaples.plant.treetile.Golden.FruitTree.name=Golden Fruit Tree
-aaa.mods.mb.BasicStaples.plant.treetile.Golden.FruitTree.description=Plant in summer if you want to harvest in winter.
-
-aaa.mods.mb.BasicStaples.plant.treetile.Golden.PalmTree.name=Golden Palm Tree
-aaa.mods.mb.BasicStaples.plant.treetile.Golden.PalmTree.description=Plant in summer if you want to harvest in winter.
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.PalmTree.plant.name=Golden Palm Tree
+aaa.mods.mb.BasicStaples.plant.treetile.Golden.PalmTree.plant.description=Plant in summer if you want to harvest in winter.
 
 aaa.mods.mb.BasicStaples.item.tool.MermaidHoe.name=Mermaid Hoe
 aaa.mods.mb.BasicStaples.item.tool.MermaidHoe.description=Slick with magic. Doesn't water your crops though.
@@ -294,6 +291,9 @@ aaa.mods.mb.MoreFarmAnimals.item.complete.BlackIvoryVanillaCoffee.description=Th
 
 aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso.name=Espresso
 aaa.mods.mb.BasicStaples.item.complete.drinks.Espresso.description=A rich, bitter coffee that will really wake you up.
+
+aaa.mods.mb.BasicStaples.item.complete.drinks.MintTea.name=MintTea
+aaa.mods.mb.BasicStaples.item.complete.drinks.MintTea.description=MintTea
 
 aaa.mods.mb.BasicStaples.item.complete.drinks.WatermelonCooler.name=Watermelon Cooler
 aaa.mods.mb.BasicStaples.item.complete.drinks.WatermelonCooler.description=Delicious and refreshing in a spiffy coconut shell.
