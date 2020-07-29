@@ -1,0 +1,224 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+    "pineapple",
+    "food",
+    "fruit",
+    "yellow",
+    "seed",
+    "seeds",
+    "packet"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.GoldenPineapple.plant",
+  "icon": "mods/Basic-Staples/plant/crops/golden/GoldenPineappleSeedpacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 30,
+    "value": 100
+  },
+  "searchable": true,
+  "seasons": [
+    "winter",
+    "autumn"
+  ],
+  "stages": {
+    "PineappleFruited": {
+      "alt": 5,
+      "interactionEntityAction": "staxel.entityAction.HarvestPullable",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "aaa.mods.mb.BasicStaples.treasure.GoldenPineappleHarvest",
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "PineappleWiltedFruited",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleSprout1": {
+      "alt": 1,
+      "grow": "PineappleSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "PineappleWilted1",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleSprout2": {
+      "alt": 2,
+      "grow": "PineappleSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "PineappleWilted2",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleSprout3": {
+      "alt": 3,
+      "grow": "PineappleSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "PineappleWilted3",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleSprout4": {
+      "alt": 4,
+      "grow": "PineappleFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "wilted": "PineappleWilted4",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleWilted1": {
+      "alt": 6,
+      "grow": "PineappleSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "PineappleWithered1",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleWilted2": {
+      "alt": 7,
+      "grow": "PineappleSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "PineappleWithered2",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleWilted3": {
+      "alt": 8,
+      "grow": "PineappleSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "PineappleWithered3",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleWilted4": {
+      "alt": 9,
+      "grow": "PineappleSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "PineappleWithered4",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleWiltedFruited": {
+      "alt": 10,
+      "grow": "PineappleFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle",
+      "withered": "PineappleWitheredFruited",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PineappleWithered1": {
+      "alt": 11,
+      "scytheable": {}
+    },
+    "PineappleWithered2": {
+      "alt": 12,
+      "scytheable": {}
+    },
+    "PineappleWithered3": {
+      "alt": 13,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "PineappleWithered4": {
+      "alt": 14,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "PineappleWitheredFruited": {
+      "alt": 15,
+      "scytheable": {},
+      "stepSoundGroup": "staxel.sounds.BushRustle"
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "PineappleSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "shovelable": {}
+    }
+  },
+  "tile": "aaa.mods.mb.BasicStaples.plant.crops.GoldenPineapple"
+}

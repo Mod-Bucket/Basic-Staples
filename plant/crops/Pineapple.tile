@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/plant/crop/base.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+    "pineapple",
+    "yellow",
+    "fruit",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.plant.crops.Pineapple",
+  "searchable": false,
+  "variants": [
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={0,0,0}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={16,0,0}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={48,0,0}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={64,0,0}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={80,0,0}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={112,0,0}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={16,0,16}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={48,0,16}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={64,0,16}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={80,0,16}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={112,0,16}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={16,0,32}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={48,0,32}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={64,0,32}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={80,0,32}",
+    "mods/Basic-Staples/plant/crops/PineappleCrop.qb?size={16,32,16}?offset={112,0,32}"
+  ]
+}

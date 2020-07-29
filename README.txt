@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.2.2
+Version 1.2.3
 
 A mod for Staxel.
 
@@ -156,7 +156,7 @@ toketsupuurin:
 - Rooster patch to make the rooster functional
 - Chick (totally copied from an early staxel design image.)
 - Elephant Trough. Chick Waterer
-- Grapes, Wheat, Mint, Puppy Potato
+- Grapes, Wheat, Mint, Puppy Potato, Edits to Pineapple Plant QB.
 - Mill, Freezer, Cheap Coffee Maker, Coffee Maker
 - Cornucopia, Spice Grinder, Herb Garden (And unused alternates for Cornucopia and Herb Garden.)
 - Cake Stand, Cheesecake Stand, Iced Cake Standm Raspberry Pie Stand
@@ -166,8 +166,8 @@ toketsupuurin:
 - NPC Likes system
 - Automated recipes
 - Items:
-	- Crops: Grapes, Wheat, Mint, Puppy Potato, Peanut, Patch to Coconut QB.
-	- Chopped Crops: Banana, Coconut, Shredded Coconut, Strawberries, Sweet Potato. Puppy potato, Catturnip, Bunny Carrot.
+	- Crops: Grapes, Wheat, Mint, Puppy Potato, Peanut, Patch to Coconut QB. Edits to Pineapple QB.
+	- Chopped Crops: Banana, Coconut, Shredded Coconut, Strawberries, Sweet Potato. Puppy potato, Catturnip, Bunny Carrot. Edits to Sliced Pineapple QB.
 	- Golden Crops: Apple, Banana, Brassberries, Silverberries, Bunny Carrot, CatTurnip, Cherries, Cocoa, Coconut, Dragon Fruit, Grapes, Kiwi, Lemon, Lime, Mango, Mint, Orange, Peach, Peanut, Pear, Puppy Potato, Sunflower, Tanderine, Wheat. Cabbage & Coffee Bean QB.
 	- Staples: Beef, Boiled Sausage, Bread Dough, Chicken, Chopped Chocolate, Cocoa Butter, Cocoa Liquor, Cocoa Powder, Coconut Milk, Coconut Water, Coffee Grounds, Cookie Dough, Cooking Oil, Corn Oil, Ice Cubes, Icing, Muffin Batter, Oat Flour, Pepper, Raw Sausage, Rennet, Sprinkles, Sunflower Oil, Vanilla. Patch to Cake Batter and Pancake Batter QBs. Peanut Butter. Toast.
 	- Intermediates: Blueberry Popsicle Mould, Cake Iced Batter, Chocolate Chip Cookie Unbaked, Cookie Plain Unbaked, Grape Popsicle Mould, Lime Popsicle Mould, Mint Popsicle Mould, Muffin Batter Blueberry, Muffin Batter Chocolate Chip, Muffin Batter Plain, Muffin Batter Strawberry, Orange Popsicle Mould, Pear Popsicle Mould, Pumbanoat Bread Dough, Raw Beet Turnip Gratin, Roasted Cacao, Roasted Coffee Bean, Seasoned Chicken, Strawberry Popsicle Mould, Tangerine Popsicle Mould, Uncooked Ham and Cheese. (Unused: Other Cake Batter QBs.)
@@ -184,6 +184,7 @@ MarkGrant:
 	- Elephant Particles
 	- Toaster
 	- Bread Slice QB edits.
+	- Pineapple plant, Pineapple Item, and Sliced Pineapple.
 
 ===========
 
@@ -206,6 +207,16 @@ toketsupuurin:
 ============
 
 Versions
+
+1.2.3
+	- Roasted coffee beans are no longer available in the catalog from start.
+	- Fixed Toaster icon.
+	- added workbenches to building store.
+	- "Bread Dough" changed to "Dough". Art changed to be more generic.
+	- Pineapple and Sliced Pineapple added.
+	- Sliced Pineapple can be used to make candy.
+	- Piña Colada added.
+	- Added "Secret Ingredient" to the catalogue. If you've already finished the quest you might need to buy one from him to unlock it.
 
 1.2.2
 	- Added Chick Waterer. It holds 30 water.

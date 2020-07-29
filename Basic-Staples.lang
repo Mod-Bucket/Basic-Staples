@@ -1,6 +1,18 @@
 language.code=en-GB
 language=English
 
+aaa.mods.mb.BasicStaples.item.complete.drinks.PinaColada.name=Piña Colada
+aaa.mods.mb.BasicStaples.item.complete.drinks.PinaColada.description=Tasty and tropical!
+
+aaa.mods.mb.BasicStaples.plant.crops.Pineapple.plant.name=Pineapple Seeds
+aaa.mods.mb.BasicStaples.plant.crops.Pineapple.plant.description=This will grow tasty, prickly pineapple.
+
+aaa.mods.mb.BasicStaples.item.crops.pineapple.name=Pineapple
+aaa.mods.mb.BasicStaples.item.crops.pineapple.description=Ouch! This thing is sharp!
+
+aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPineapple.name=Sliced Pineapple
+aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPineapple.description=Yellow rings of deliciousness.
+
 aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer.name=Cheap Coffee Brewer
 aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer.description=Ugly and not very useful. But you don't need water.
 
@@ -211,7 +223,7 @@ aaa.mods.mb.BasicStaples.item.dummy.ShreddedCoconutOrChoppedDragonFruit.descript
 aaa.mods.mb.BasicStaples.item.dummy.BlackberriesOrGrape.name=Fruit (Blackberries or Grape)
 aaa.mods.mb.BasicStaples.item.dummy.BlackberriesOrGrape.description=Dummy Item
 
-aaa.mods.mb.BasicStaples.item.dummy.AnyFruit.name=Any Fruit
+aaa.mods.mb.BasicStaples.item.dummy.AnyFruit.name=Any Fruit (Might Need Chopping)
 aaa.mods.mb.BasicStaples.item.dummy.AnyFruit.description=Dummy Item
 
 aaa.mods.mb.BasicStaples.item.dummy.AnyFruitSauce.name=Any Fruit Sauce
@@ -484,7 +496,7 @@ aaa.mods.mb.BasicStaples.item.crafting.staples.Beef.description=It's what's for 
 aaa.mods.mb.BasicStaples.item.crafting.staples.BoiledSausage.name=Boiled Sausage
 aaa.mods.mb.BasicStaples.item.crafting.staples.BoiledSausage.description=It's become mystery meat.
 
-aaa.mods.mb.BasicStaples.item.crafting.staples.BreadDough.name=Bread Dough
+aaa.mods.mb.BasicStaples.item.crafting.staples.BreadDough.name=Dough
 aaa.mods.mb.BasicStaples.item.crafting.staples.BreadDough.description=A basic dough for making lots of stuff. 
 
 aaa.mods.mb.BasicStaples.item.crafting.staples.ButtercreamFrosting.name=Buttercream Frosting

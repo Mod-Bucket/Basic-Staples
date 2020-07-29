@@ -1,0 +1,28 @@
+{
+  "name": "Chopped Pineapple",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.AutoChoppedPineapple",
+  "recipeStep": "Auto Chop",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.pineapple",
+    }
+  ],
+  "results": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPineapple",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effect": "staxel.effect.cooking.Chop"
+}

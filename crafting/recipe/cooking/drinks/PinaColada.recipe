@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.PinaColada",
+  "grouping": "drinks",
+  "ingredients": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPineapple",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedCoconut",
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.IceCubes",
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1510,
+    "value": 2517
+  },
+  "result": {
+    "count": 1,
+    "item": {
+		"code": "aaa.mods.mb.BasicStaples.item.complete.drinks.PinaColada",
+    }
+  },
+  "searchable": true,
+  "steps": [
+	"aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.ChoppedPineapple",
+	"aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.ChoppedCoconut",
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.drinks.MixPinaColada",
+  ]
+}

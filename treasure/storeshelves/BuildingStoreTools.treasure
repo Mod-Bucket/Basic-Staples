@@ -1,0 +1,51 @@
+{
+  "code": "staxel.treasure.storeShelf.BuildingStoreTools",
+  "additive": true,
+  "entries": [
+{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.workbenches.Mill",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.tileObject.serverVillage.DeepFreezer",
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.Breader",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.tileObject.CoffeeBrewer2",
+        }
+      ]
+    },
+  ]
+}

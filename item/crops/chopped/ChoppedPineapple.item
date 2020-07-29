@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "fruit",
+    "chopped",
+    "yellow",
+    "food"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPineapple",
+  "eatTime": 1,
+  "icon": "mods/Basic-Staples/item/crops/chopped/ChoppedPineapple.qb",
+  "inHand": "mods/Basic-Staples/item/crops/chopped/ChoppedPineapple.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 3.216,
+    "z": -1.54
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"swift"
+	]
+  },
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 234,
+    "value": 392
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

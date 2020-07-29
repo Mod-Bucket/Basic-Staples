@@ -26,6 +26,10 @@
         },
 		{
           "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.PinaColada",
+        },
+		{
+          "kind": "staxel.item.Recipe",
           "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.WatermelonCooler",
         },
 		{
@@ -51,6 +55,10 @@
 		{
           "kind": "staxel.item.Recipe",
           "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.MintTea",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.PinaColada",
         },
 //		{ "kind": "staxel.item.Recipe",
 //          "recipe": "staxel.crafting.recipes.MugOSap"}, //Quest
