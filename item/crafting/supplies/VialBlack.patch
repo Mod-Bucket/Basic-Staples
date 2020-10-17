@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/item/crafting/intermediary/cooking/VialBlack.item",
+	"patchIfFileExists": "mods/EasterFest/item/crafting/intermediary/cooking/VialBlack.item",
     "priority": 999, 
     "mergeLists": true,
     "patch": {

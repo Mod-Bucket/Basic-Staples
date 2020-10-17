@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/item/crafting/intermediary/cooking/CheapEggMould.item",
+	"patchIfFileExists": "mods/EasterFest/item/crafting/intermediary/cooking/CheapEggMould.item",
     "priority": 1, 
     "mergeLists": true,
     "patch": {

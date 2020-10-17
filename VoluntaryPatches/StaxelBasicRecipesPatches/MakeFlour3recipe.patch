@@ -1,5 +1,6 @@
 {
     "file": "mods/StaxelBasicRecipes/MakeFlour3.recipe",
+	"patchIfFileExists": "mods/StaxelBasicRecipes/MakeFlour3.recipe",
     "priority": 2, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {

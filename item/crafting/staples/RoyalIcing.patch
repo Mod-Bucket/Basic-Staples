@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/item/crafting/intermediary/cooking/RoyalIcing.item",
+	"patchIfFileExists": "mods/EasterFest/item/crafting/intermediary/cooking/RoyalIcing.item",
     "priority": 999, 
     "mergeLists": true,
     "patch": {

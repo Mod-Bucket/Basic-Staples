@@ -1,0 +1,10 @@
+{
+    "file": "staxel/collector/pets/penguin/Penguin.pet",
+    "priority": 40, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+		"treasure": "aaa.mods.mb.BasicStaples.treasure.PenguinFurniture"
+
+    }
+}

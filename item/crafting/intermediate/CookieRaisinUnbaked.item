@@ -1,0 +1,37 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"chip",
+	"raisin",
+	"grape",
+    "dough",
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieRaisinUnbaked",
+  "icon": "mods/Basic-Staples/item/crafting/intermediate/CookieRaisinUnbaked.qb",
+  "inHand": "mods/Basic-Staples/item/crafting/intermediate/CookieRaisinUnbaked.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1210,
+    "value": 1628
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

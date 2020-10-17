@@ -14,12 +14,13 @@
   "code": "aaa.mods.mb.BasicStaples.furniture.CheeseCakeStand",
   "pricing": {
     "catalogueUnlockedFromStart": false,
+	"appearsInCatalogue": false,
     "buyable": true,
     "sellPrice": 72,
     "value": 120
   },
   "randomizePosition": false,
-  "searchable": true,
+  "searchable": false,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "voxels": "mods/Basic-Staples/furniture/MissingVanillaDecor/CheeseCakeStand.qb"
 }

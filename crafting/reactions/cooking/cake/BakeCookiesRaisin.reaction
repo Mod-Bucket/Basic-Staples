@@ -1,0 +1,24 @@
+{
+  "name": "Bake Chocolate Chip Cookies",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.BakeCookiesRaisin",
+  "recipeStep": "bake",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+	{
+		"code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieRaisinUnbaked",
+	}
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.CookiesRaisins",
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockItem"
+}

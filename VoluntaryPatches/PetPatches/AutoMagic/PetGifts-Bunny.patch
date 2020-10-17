@@ -1,0 +1,23 @@
+{
+    "file": "mods/AutoMagic/Pet Polymorph Expansion/Treasures/PetGifts-Bunny.treasure",
+	"patchIfFileExists": "mods/AutoMagic/Pet Polymorph Expansion/Treasures/PetGifts-Bunny.treasure",
+    "priority": 40, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
+          "quantity": 13
+        }
+      ]
+    },
+  ]
+	
+
+    }
+}

@@ -8,13 +8,7 @@
     },
     {
       "code": "staxel.item.crafting.WhiteSugar",
-	  "quantity": 2
-    },
-    {
-      "code": "staxel.item.crops.Strawberries",
-    },
-	{
-      "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+	  "quantity": 1
     },
   ],
   "pricing": {
@@ -31,6 +25,6 @@
   },
   "searchable": true,
   "steps": [
-    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.CandyLollipop",
+    "staxel.crafting.reaction.CandyLollipop",
   ]
 }

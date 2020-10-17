@@ -1,0 +1,140 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.FoxFurniture",
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawArmChair"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawChair"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawDesk"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawWardrobe"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawDoubleBed"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawTable"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawSideTable"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawLoveseat"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.themedfurniture.pet.PawLamp"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.princessdresses.ruffly.RufflyDress",
+          "palette": "staxel.palette.red"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.coats.LabCoat",
+          "palette": "staxel.palette.grey"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.characters.accessories.glasses.ASun",
+          "palette": "staxel.palette.orange"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "",
+          "kind": "staxel.item.Clothing",
+          "accessory": "staxel.accessories.shirts.hoodies.WhiteHoodie",
+          "palette": "staxel.palette.red"
+        }
+      ]
+    },
+	{
+	  "weight": 1,
+	  "items": [
+		{
+		  "kind": "staxel.item.Seed",
+		  "plant": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant",
+		  "quantity": 10
+		}
+	  ]
+	}
+  ]
+}

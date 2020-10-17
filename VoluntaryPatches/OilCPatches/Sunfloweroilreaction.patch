@@ -1,5 +1,6 @@
 {
     "file": "mods/OilC/Sunoil/reaction/Sunfloweroilreaction.reaction",
+	"patchIfFileExists": "mods/OilC/Sunoil/reaction/Sunfloweroilreaction.reaction",
     "priority": 2, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {

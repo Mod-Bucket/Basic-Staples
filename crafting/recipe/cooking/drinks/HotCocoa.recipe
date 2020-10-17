@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.HotCocoa",
+  "grouping": "drinks",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.Milk"
+    },
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CocoaPowder",
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar"
+    }
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1510,
+    "value": 2517
+  },
+  "result": {
+    "count": 2,
+    "item": {
+      "code": "staxel.collector.item.crafting.HotCocoa",
+    }
+  },
+  "searchable": true,
+  "steps": [
+	"aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.BoilBirchTea",
+  ]
+}

@@ -1,5 +1,5 @@
 {
-    "file": "staxel/item/complete/pie/OrangePie.item",
+    "file": "staxel/item/complete/pie/PieOrange.item",
     "priority": 2, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {

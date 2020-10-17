@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/Plants/crops/BunnyCarrotHarvest.treasure",
+	"patchIfFileExists": "mods/EasterFest/Plants/crops/BunnyCarrotHarvest.treasure",
     "priority": 999, 
     "mergeLists": false,
     "patch" : {

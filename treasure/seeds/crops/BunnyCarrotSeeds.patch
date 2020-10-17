@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/Plants/crops/BunnyCarrotSeeds.treasure",
+	"patchIfFileExists": "mods/EasterFest/Plants/crops/BunnyCarrotSeeds.treasure",
     "priority": 999, 
     "mergeLists": false,
     "patch" : {

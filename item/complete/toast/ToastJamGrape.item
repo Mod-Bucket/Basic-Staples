@@ -29,8 +29,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": false,
-    "sellPrice": 1172,
-    "value": 1601
+    "sellPrice": 921,
+    "value": 1356
   },
   "searchable": true,
   "canBeEarntFromLuckyBox": false,

@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/Animals/Rabbits/ChocolateEgg.item",
+	"patchIfFileExists": "mods/EasterFest/Animals/Rabbits/ChocolateEgg.item",
     "priority": 1, 
     "mergeLists": true,
     "patch": {

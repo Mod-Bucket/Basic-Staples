@@ -1,0 +1,39 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "fruit",
+	"rose",
+    "boilable",
+    "harvested"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.crops.RoseHip",
+  "eatTime": 1,
+  "icon": "mods/Basic-Staples/item/crops/RoseHip.qb",
+  "inHand": "mods/Basic-Staples/item/crops/RoseHip.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.4,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 31,
+    "value": 52
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -17,5 +17,21 @@
         }
       ]
     },
+	{
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.RoseHip",
+        }
+      ]
+    },
+	{
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.collector.item.crafting.RawBirchWood",
+        }
+      ]
+    },
   ]
 }

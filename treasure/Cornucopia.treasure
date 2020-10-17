@@ -13,6 +13,14 @@
       "weight": 1.0,
       "items": [
         {
+          "code": "staxel.collector.item.crops.Artichoke",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
           "code": "staxel.item.crops.Banana",
         }
       ]
@@ -133,6 +141,14 @@
       "weight": 1.0,
       "items": [
         {
+          "code": "staxel.collector.item.crops.Grape",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
           "code": "aaa.mods.mb.BasicStaples.item.crops.Grapes",
         }
       ]
@@ -237,6 +253,14 @@
       "weight": 1.0,
       "items": [
         {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.pineapple",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
           "code": "staxel.item.crops.Potato",
         }
       ]
@@ -261,7 +285,23 @@
       "weight": 1.0,
       "items": [
         {
+          "code": "staxel.collector.item.crops.PurpleNettle",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
           "code": "staxel.item.crops.Raspberries",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.collector.item.crops.Rhubarb",
         }
       ]
     },
@@ -381,6 +421,14 @@
       "weight": 1.0,
       "items": [
         {
+          "code": "staxel.collector.item.crafting.GoatMilk",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
           "code": "staxel.item.crafting.Milk",
         }
       ]
@@ -390,6 +438,14 @@
       "items": [
         {
           "code": "staxel.item.crafting.Wool",
+        }
+      ]
+    },
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.collector.item.farmAnimals.BrownFeather",
         }
       ]
     },

@@ -9,9 +9,11 @@
     },
 	{
       "code": "staxel.item.crops.Sunflower",
+	  "quantity": 2
     },
 	{
       "code": "staxel.item.crops.Corn",
+	  "quantity": 2
     }
   ],
   "pricing": {

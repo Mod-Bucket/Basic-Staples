@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.GoatCheese",
+  "grouping": "starters",
+  "ingredients": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Rennet",
+      "quantity": 1
+    },
+	{
+	  "code": "staxel.collector.item.crafting.GoatMilk",
+    },
+	{
+	  "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth",
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 516,
+    "value": 860
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.collector.item.crafting.GoatCheese",
+    }
+  },
+  "searchable": true,
+  "steps": [
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.BoilGoatCheese",
+  ]
+}

@@ -132,7 +132,7 @@
         {
           "kind": "staxel.item.Seed",
           "plant": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
-          "quantity": 3
+          "quantity": 10
         }
       ]
     }

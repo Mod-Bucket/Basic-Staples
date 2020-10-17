@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/item/crafting/intermediary/cooking/GiantSugarEgg.item",
+	"patchIfFileExists": "mods/EasterFest/item/crafting/intermediary/cooking/GiantSugarEgg.item",
     "priority": 1, 
     "mergeLists": true,
     "patch": {

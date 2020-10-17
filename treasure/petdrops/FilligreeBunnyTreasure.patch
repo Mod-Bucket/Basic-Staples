@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/Animals/Rabbits/FilligreeRabbit.treasure",
+	"patchIfFileExists": "mods/EasterFest/Animals/Rabbits/FilligreeRabbit.treasure",
     "priority": 999, 
     "mergeLists": false,
     "patch": {

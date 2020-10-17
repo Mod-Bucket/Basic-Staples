@@ -1,6 +1,6 @@
 {
     "file": "staxel/pets/rabbit/Rabbit.pet",
-    "priority": 2, 
+    "priority": 40, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {
 

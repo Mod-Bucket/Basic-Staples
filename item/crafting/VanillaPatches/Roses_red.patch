@@ -1,0 +1,23 @@
+{
+    "file": "staxel/plant/flower/Roses_red.tile",
+    "priority": 2, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "spawnOnBreak": {
+    "selfDropChance": 0.0,
+    "drops": {
+      "entries": [
+        {
+          "chance": 0.25,
+          "spawn": {
+            "code": "aaa.mods.mb.BasicStaples.item.crops.RoseHip"
+          }
+        }
+      ]
+    }
+  }
+
+
+    }
+}

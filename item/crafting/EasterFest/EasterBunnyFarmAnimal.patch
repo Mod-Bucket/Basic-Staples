@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/Animals/Rabbits/EasterBunny.farmAnimal",
+	"patchIfFileExists": "mods/EasterFest/Animals/Rabbits/EasterBunny.farmAnimal",
     "priority": 1, 
     "mergeLists": false,
     "patch": {

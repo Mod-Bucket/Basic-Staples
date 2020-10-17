@@ -5,7 +5,7 @@
       "weight": 100.0,
       "items": [
         {
-          "code": "aaa.mods.mb.BasicStaples.item.crops.Pineapple"
+          "code": "aaa.mods.mb.BasicStaples.item.crops.pineapple",
         }
       ]
     }

@@ -10,6 +10,12 @@ aaa.mods.mb.BasicStaples.plant.crops.Pineapple.plant.description=This will grow 
 aaa.mods.mb.BasicStaples.item.crops.pineapple.name=Pineapple
 aaa.mods.mb.BasicStaples.item.crops.pineapple.description=Ouch! This thing is sharp!
 
+aaa.mods.mb.BasicStaples.plant.crops.GoldenPineapple.plant.name=Golden Pineapple Seeds
+aaa.mods.mb.BasicStaples.plant.crops.GoldenPineapple.plant.description=This will grow precious but painful fruit.
+
+aaa.mods.mb.BasicStaples.item.crops.GoldenPineapple.name=Golden Pineapple
+aaa.mods.mb.BasicStaples.item.crops.GoldenPineapple.description=You could probably kill someone with this.
+
 aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPineapple.name=Sliced Pineapple
 aaa.mods.mb.BasicStaples.item.crops.chopped.ChoppedPineapple.description=Yellow rings of deliciousness.
 
@@ -115,7 +121,7 @@ aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenFull.description=Grows 
 aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.name=Spice Grinder
 aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull.description=A magical spice grinder. Check it from time to time.
 
-aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.name=Grape Vine Seeds
+aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.name=Concord Grape Vine Seeds
 aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant.description=Grapes take a long time to grow. Survives out of season. Harvest in Autumn.
 
 aaa.mods.mb.BasicStaples.plant.bush.Mint.plant.name=Mint Seeds
@@ -142,7 +148,7 @@ aaa.mods.mb.BasicStaples.plant.bush.GoldenBlackberryBush.plant.description=Survi
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.plant.name=Silverberry Bush Seeds
 aaa.mods.mb.BasicStaples.plant.bush.GoldenBlueberryBush.plant.description=Survives out of season. Harvestable in Winter and Summer.
 
-aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.plant.name=Golden Grape Vine Seeds
+aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.plant.name=Golden Concord Grape Vine Seeds
 aaa.mods.mb.BasicStaples.plant.bush.GoldenGrapes.plant.description=Takes a long time to grow. Survives out of season. Harvest in Autumn.
 
 aaa.mods.mb.BasicStaples.plant.bush.GoldenMint.plant.name=Golden Mint Seeds
@@ -181,7 +187,7 @@ aaa.mods.mb.BasicStaples.item.tool.MermaidHoe.description=Slick with magic. Does
 aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot.name=Bunny Carrot
 aaa.mods.mb.BasicStaples.item.crops.BunnyCarrot.description=Did it just blink?
 
-aaa.mods.mb.BasicStaples.item.crops.Grapes.name=Grapes
+aaa.mods.mb.BasicStaples.item.crops.Grapes.name=Concord Grapes
 aaa.mods.mb.BasicStaples.item.crops.Grapes.description=Tart but sweet.
 
 aaa.mods.mb.BasicStaples.item.crops.Mint.name=Mint
@@ -337,7 +343,7 @@ aaa.mods.mb.BasicStaples.item.complete.meat.RoastChicken.description=Golden brow
 aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood.name=Elephant Food
 aaa.mods.mb.MoreFarmAnimals.item.complete.ElephantFood.description=Lots of roughage.
 
-aaa.mods.mb.BasicStaples.item.complete.preserves.JamGrape.name=Grape Jelly
+aaa.mods.mb.BasicStaples.item.complete.preserves.JamGrape.name=Concord Grape Jelly
 aaa.mods.mb.BasicStaples.item.complete.preserves.JamGrape.description=Goes great with peanut butter.
 
 aaa.mods.mb.BasicStaples.item.complete.preserves.JamMint.name=Mint Jelly
@@ -370,7 +376,7 @@ aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamCherry.description=Tangy, t
 aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamDragonFruit.name=Toast with Dragon Fruit Jam
 aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamDragonFruit.description=The dragon fruit has a delicate flavor that the toast enhances.
 
-aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamGrape.name=Toast with Grape Jelly
+aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamGrape.name=Toast with Concord Grape Jelly
 aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamGrape.description=A perfect purple smear.
 
 aaa.mods.mb.BasicStaples.item.complete.toast.ToastJamLemon.name=Toast with Lemon Marmalade
@@ -649,7 +655,7 @@ aaa.mods.mb.BasicStaples.item.crops.GoldenCoconut.description=Something's sloshi
 aaa.mods.mb.BasicStaples.item.crops.GoldenDragonFruit.name=Golden Dragon Fruit
 aaa.mods.mb.BasicStaples.item.crops.GoldenDragonFruit.description=Ouch! It's pointy!
 
-aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes.name=Golden Grapes
+aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes.name=Golden Concord Grapes
 aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes.description=King Midas has nothing on you.
 
 aaa.mods.mb.BasicStaples.item.crops.GoldenKiwi.name=Golden Kiwi

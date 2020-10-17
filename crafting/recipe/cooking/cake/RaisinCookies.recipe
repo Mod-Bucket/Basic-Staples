@@ -1,0 +1,47 @@
+{
+  "__inherits": "staxel/crafting/recipes/cookingRecipe.config",
+  "code": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.RaisinCookies",
+  "grouping": "desserts",
+  "ingredients": [
+    {
+      "code": "staxel.item.crafting.Butter",
+	  "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.Egg",
+	  "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.PlainFlour",
+	  "quantity": 2
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar",
+	  "quantity": 1
+    },
+    {
+      "code": "staxel.item.crafting.BrownSugar",
+    },
+    {
+      "code": "staxel.collector.item.crafting.Raisins",
+    },
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1355,
+    "value": 2100
+  },
+  "result": {
+    "count": 1,
+    "item": {
+      "code": "staxel.collector.item.crafting.CookiesRaisins",
+    }
+  },
+  "searchable": true,
+  "steps": [
+	"aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.MixCookieDough",
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.MixCookiesRaisin",
+    "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.BakeCookiesRaisin",
+  ]
+}

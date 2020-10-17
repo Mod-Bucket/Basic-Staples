@@ -1,0 +1,21 @@
+{
+    "file": "mods/ExpandedFurniture/PetPatches/SpeciesUniqueDrops/DogFurniture.treasure",
+	"patchIfFileExists": "mods/ExpandedFurniture/PetPatches/SpeciesUniqueDrops/DogFurniture.treasure",
+    "priority": 40, 
+    "mergeLists": true,
+    "patch" : {
+
+		"entries": [
+		  {
+			"weight": 1,
+			"items": [
+				{
+				"kind": "staxel.item.Seed",
+				"plant": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant",
+				"quantity": 10
+				}
+			]
+		  }
+		],
+    }
+}

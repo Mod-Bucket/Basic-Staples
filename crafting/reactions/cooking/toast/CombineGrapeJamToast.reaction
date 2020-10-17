@@ -6,7 +6,7 @@
   ],
   "reagents": [
     {
-      "code": "aaa.mods.mb.BasicStaples.item.complete.preserves.JamGrape",
+      "code": "staxel.collector.item.crafting.JamGrape",
     },
     {
       "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Toast",

@@ -1,5 +1,6 @@
 {
     "file": "mods/EasterFest/crafting/reactions/cooking/CombineGiantSugarEggYellow.reaction",
+	"patchIfFileExists": "mods/EasterFest/crafting/reactions/cooking/CombineGiantSugarEggYellow.reaction",
     "priority": 999, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {

@@ -1,0 +1,21 @@
+{
+    "file": "mods/ExpandedFurniture/PetPatches/SpeciesUniqueDrops/CatFurniture.treasure",
+	"patchIfFileExists": "mods/ExpandedFurniture/PetPatches/SpeciesUniqueDrops/CatFurniture.treasure",
+    "priority": 40, 
+    "mergeLists": true,
+    "patch" : {
+
+		"entries": [
+			{
+			"weight": 1,
+				"items": [
+					{
+					"kind": "staxel.item.Seed",
+					"plant": "staxel.crop.CatTurnip",
+					"quantity": 13
+					}
+				]
+			},
+		],
+    }
+}

@@ -11,7 +11,7 @@
     },
   ],
   "pricing": {
-    "catalogueUnlockedFromStart": false,
+    "catalogueUnlockedFromStart": true,
     "buyable": true,
     "sellPrice": 516,
     "value": 860

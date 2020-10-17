@@ -26,10 +26,6 @@
         },
 		{
           "kind": "staxel.item.Recipe",
-          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.PinaColada",
-        },
-		{
-          "kind": "staxel.item.Recipe",
           "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.WatermelonCooler",
         },
 		{

@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.2.3
+Version 1.3
 
 A mod for Staxel.
 
@@ -166,13 +166,13 @@ toketsupuurin:
 - NPC Likes system
 - Automated recipes
 - Items:
-	- Crops: Grapes, Wheat, Mint, Puppy Potato, Peanut, Patch to Coconut QB. Edits to Pineapple QB.
+	- Crops: Grapes, Wheat, Mint, Puppy Potato, Peanut, Patch to Coconut QB. Edits to Pineapple QB. Rosehip.
 	- Chopped Crops: Banana, Coconut, Shredded Coconut, Strawberries, Sweet Potato. Puppy potato, Catturnip, Bunny Carrot. Edits to Sliced Pineapple QB.
 	- Golden Crops: Apple, Banana, Brassberries, Silverberries, Bunny Carrot, CatTurnip, Cherries, Cocoa, Coconut, Dragon Fruit, Grapes, Kiwi, Lemon, Lime, Mango, Mint, Orange, Peach, Peanut, Pear, Puppy Potato, Sunflower, Tanderine, Wheat. Cabbage & Coffee Bean QB.
 	- Staples: Beef, Boiled Sausage, Bread Dough, Chicken, Chopped Chocolate, Cocoa Butter, Cocoa Liquor, Cocoa Powder, Coconut Milk, Coconut Water, Coffee Grounds, Cookie Dough, Cooking Oil, Corn Oil, Ice Cubes, Icing, Muffin Batter, Oat Flour, Pepper, Raw Sausage, Rennet, Sprinkles, Sunflower Oil, Vanilla. Patch to Cake Batter and Pancake Batter QBs. Peanut Butter. Toast.
-	- Intermediates: Blueberry Popsicle Mould, Cake Iced Batter, Chocolate Chip Cookie Unbaked, Cookie Plain Unbaked, Grape Popsicle Mould, Lime Popsicle Mould, Mint Popsicle Mould, Muffin Batter Blueberry, Muffin Batter Chocolate Chip, Muffin Batter Plain, Muffin Batter Strawberry, Orange Popsicle Mould, Pear Popsicle Mould, Pumbanoat Bread Dough, Raw Beet Turnip Gratin, Roasted Cacao, Roasted Coffee Bean, Seasoned Chicken, Strawberry Popsicle Mould, Tangerine Popsicle Mould, Uncooked Ham and Cheese. (Unused: Other Cake Batter QBs.)
+	- Intermediates: Blueberry Popsicle Mould, Cake Iced Batter, Chocolate Chip Cookie Unbaked, Cookie Plain Unbaked, Grape Popsicle Mould, Lime Popsicle Mould, Mint Popsicle Mould, Muffin Batter Blueberry, Muffin Batter Chocolate Chip, Muffin Batter Plain, Muffin Batter Strawberry, Orange Popsicle Mould, Pear Popsicle Mould, Pumbanoat Bread Dough, Raw Beet Turnip Gratin, Roasted Cacao, Roasted Coffee Bean, Seasoned Chicken, Strawberry Popsicle Mould, Tangerine Popsicle Mould, Uncooked Ham and Cheese. (Unused: Other Cake Batter QBs.) (Unused for now: Raw Apizza, Raw Deep Dish Cheese, Raw Deep Dish Crust, Raw Deep Dish Pepperoni, Raw Deep Dish Sausage, Tomato Sauce.) Unbaked Raisin Cookie.
 	- Supplies: Popsicle Stick, Muffin Pan (Unused), White Potion, Cheesecloth. 
-	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB. Paw Crudites. Elephant Food, Vanilla Black Ivory Coffee, Elephant Cookbook. Mint Jelly, Grape Jelly, Mint Tea, Buttered Toast, Toast with PB & honey, Jam Toasts (Apple, Blackberry, Blueberry, Cherry, Dragonfruit, Grape, Lemon, Lime, Mint, Orange, Peach, Pear, Raspberry, Strawberry, Tangerine).
+	- Final Dishes: Pumbanoat bread, Strawberry Banana Pancakes, Artisan Blanc, Artisan Dark, Artisan Ruby, Pear Popsicle, Tangerine Popsicle, ChocoPear Popsicle, ChocoTangerine Popsicle, Circus Peanut (Plain, Banana, Lemon, Cherry, Vanilla), White Candy, Espresso (Not QB), Watermelon Cooler, Crispy Eggplant, Ham and Cheese, Sliced Watermelon, Sweet Potato Chips, Beet Turnip Gratin, Monte Cristo, Roast Chicken, Jam Pear, Marmalade Tangerine, Pear Tangerine Smoothie, Patch to Jam Blackberry QB. Paw Crudites. Elephant Food, Vanilla Black Ivory Coffee, Elephant Cookbook. Mint Jelly, Grape Jelly, Mint Tea, Buttered Toast, Toast with PB & honey, Jam Toasts (Apple, Blackberry, Blueberry, Cherry, Dragonfruit, Grape, Lemon, Lime, Mint, Orange, Peach, Pear, Raspberry, Strawberry, Tangerine). Birch Tea, Rosehip Tea. (Unused for now: 
 
 MarkGrant: 
 	- Egg Patch
@@ -206,18 +206,42 @@ toketsupuurin:
 
 ============
 
+Know Bugs:
+	- Roses don't drop Rosehips. Will have to look into.
+
+============
+
 Versions
 
-1.2.3
+1.3
 	- Roasted coffee beans are no longer available in the catalog from start.
 	- Fixed Toaster icon.
 	- added workbenches to building store.
 	- "Bread Dough" changed to "Dough". Art changed to be more generic.
-	- Pineapple and Sliced Pineapple added.
+	- Pineapple, Golden Pineapple, and Sliced Pineapple added. Rosehips added.
+	- Added to cornucopia: Pineapple, Goat Milk, Brown Feather, Artichoke, Purple Nettle, Grapes, Rhubarb.
+	- Added to Herb Garden: Rosehip, Raw Birch Wood.
+	- Herb garden is harvestable every 7 days now.
 	- Sliced Pineapple can be used to make candy.
-	- Piña Colada added.
+	- Piña Colada added and put in Drinks 1. Added Birch Tea and Rosehip Tea.
 	- Added "Secret Ingredient" to the catalogue. If you've already finished the quest you might need to buy one from him to unlock it.
+	- Corrected Cooking Oil Recipe to accurately reflect the number of crops you REALLY need.
+	- Made cheesecloth buyable from the catalog.
+	- Disabled patches to Golden Coffeebean and Coconut. Their models have been updated in vanilla! (The patch files are still there so you can re-enable them if you want my versions.)
+	- Vanilla has added recipes for Cheese and Chocolate Chip Cookies. These will stand as alternatives to the Basic-Staples versions.
+	- Goat Cheese and Raisin Cookies have Staples versions as well as the vanilla recipes.
+	- Fixed reversed prices for Plain Cookies and Chocolate Chip Cookies.
+	- Renamed Basic Staples grapes to Concord Grapes.
+	- Concord Grapes are now only obtainable by running vanilla Grapes or Golden Grapes through the seedmaker. Not sorry.
+	- Added Toasts with Grape Jelly and Rhubarb Jam.
+	- Darkened Concord jam and toast.
+	- Fixed Chick Waterer to treat a jar of water as 30 water instead of just 1.
+	- Orange Pie is now properly patched.
+	- DEPRECATED Cheesecake, Iced Cake and Raspberry Pie decorative Stands. Vanilla has them now. They're still in the mod for those using them but you can't buy or search for them.
+	- Lolipop Recipe restored to vanilla because I apparently can't read.
+	TO DO - ADD STUFF TO COOKBOOKS!!!
 
+	
 1.2.2
 	- Added Chick Waterer. It holds 30 water.
 	- Gave the Giant Chocolate Egg Recipe automated versions.

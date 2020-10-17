@@ -1,5 +1,6 @@
 {
     "file": "mods/OilC/Cornoil/reaction/Cornoilreaction.reaction",
+	"patchIfFileExists": "mods/OilC/Cornoil/reaction/Cornoilreaction.reaction",
     "priority": 2, 
     "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
     "patch" : {

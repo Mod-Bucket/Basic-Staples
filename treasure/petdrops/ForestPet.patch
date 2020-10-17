@@ -1,0 +1,617 @@
+{
+    "file": "staxel/collector/treasure/ForestPet.treasure",
+    "priority": 40, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+	
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.BrownMushroom",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.RedWhiteMushroom",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.WhiteMushrooms",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.RareMushroom",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.Creaturebud",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.Seaweed",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.Snowball",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.StarJelly",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.RoseHip",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.PawShell",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.HermitShell",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.PearlShell",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.RedCoral",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.Starfish",
+        }
+      ]
+    },
+    {
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.SwirlyShell",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "staxel.crop.CatTurnip",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.PuppyPotato.plant",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "items": [
+        {
+          "kind": "staxel.item.Seed",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenApple",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.collector.item.crops.GoldenArtichoke",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenBanana",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenBeet",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenBlackberries",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenBlueberries",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenBunnyCarrot",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenCabbage",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenCarrot",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCatTurnip",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCherries",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCocoa",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenCoconut",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenCoffeeBean",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenCorn",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenCucumber",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenDragonFruit",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenEggplant",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.collector.item.crops.GoldenGrape",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenGrapes",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenKiwi",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenLemon",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenLettuce",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenLime",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenMango",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenMint",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenOats",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenOnion",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenOrange",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPeach",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPeanut",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPear",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPineapple",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenPotato",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenPumpkin",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenPuppyPotato",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.collector.item.crops.GoldenPurpleNettle",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.Goldenberries",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.collector.item.crops.GoldenRhubarb",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenStrawberry",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenSugarBeet",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenSugarCane",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenSunflower",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenSweetPotato",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenTangerine",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenTomato",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenTurnip",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.crops.GoldenWatermelon",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+    {
+      "weight": .01,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.crops.GoldenWheat",
+          "kind": "staxel.item.CraftItem",
+        }
+      ]
+    },
+  ]
+  
+      }
+}

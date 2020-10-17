@@ -1,0 +1,21 @@
+{
+    "file": "mods/ExpandedFurniture/PetPatches/SpeciesUniqueDrops/RabbitFurniture.treasure",
+	"patchIfFileExists": "mods/ExpandedFurniture/PetPatches/SpeciesUniqueDrops/RabbitFurniture.treasure",
+    "priority": 40, 
+    "mergeLists": true,
+    "patch" : {
+
+		"entries": [
+		  {
+			"weight": 1,
+			"items": [
+				{
+				"kind": "staxel.item.Seed",
+				"plant": "aaa.mods.mb.BasicStaples.plant.crops.BunnyCarrot.plant",
+				"quantity": 10
+				}
+			]
+		  },
+		],
+    }
+}

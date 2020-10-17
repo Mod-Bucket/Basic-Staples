@@ -1,0 +1,35 @@
+{
+  "name": "Mix Raisin Cookies Dough",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.AutoMixCookiesRaisin",
+"recipeStep": "Auto Mix",
+      "triggerDurationCraftManually": true,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookieDough",
+    },
+    {
+      "code": "staxel.item.crafting.BrownSugar",
+    },
+    {
+      "code": "staxel.collector.item.crafting.Raisins",
+    },
+  ],
+  "results": [
+	{
+    "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookieRaisinUnbaked",
+	}
+  ],
+  "moveResultsToSite": "results",
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "duration": 5,
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

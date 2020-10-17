@@ -1,0 +1,52 @@
+{
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+    "Rose",
+    "food",
+	"Tea",
+	"drink",
+	"Slipperypeel"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.RosehipTea",
+  "icon": "mods/Basic-Staples/item/complete/drinks/RosehipTea.qb",
+  "inHand": "mods/Basic-Staples/item/complete/drinks/RosehipTea.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.125,
+    "z": -0.300
+  },
+  "inHandRotation": {
+    "x": -2,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "appliesStatus": {
+    "statuses" : [],
+    "removes": [
+      "Sleepy",
+      "Exhausted"
+    ],
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 79,
+    "value": 131
+  },
+  "eatTime": 2,
+  "consumable": {
+    "colour": "D68C8C",
+    "particles": "staxel.particle.item.Drink",
+    "sound": "staxel.sound.Player.drink.sip"
+  },
+  "isDrink": true,
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
