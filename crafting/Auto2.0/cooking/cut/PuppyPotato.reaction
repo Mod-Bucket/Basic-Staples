@@ -2,7 +2,7 @@
   "name": "Chopped Strawberries",
   "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.Auto20ChoppedPuppyPotato",
   "recipeStep": "autoCut",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
 
@@ -20,8 +20,6 @@
   "moveResultsToSite": "results",
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.CutFood",
-  "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "duration": 5,
   "effect": "staxel.effect.cooking.Chop"
 }

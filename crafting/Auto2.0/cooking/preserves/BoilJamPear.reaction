@@ -2,7 +2,7 @@
   "name": "Pear Jam",
   "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.Auto20JamPear",
   "recipeStep": "autoBoil",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
 
@@ -20,9 +20,7 @@
     }
   ],
   "duration": 5,
-  "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "moveResultsToSite": "results",
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.Stir",
   "effect": "staxel.effect.cooking.Boil",

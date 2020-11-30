@@ -2,7 +2,7 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.Auto20CombinePawCrudites",
   "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [  ],

@@ -2,7 +2,7 @@
   "name": "GiantChocolateEgg",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.EasterFest.Auto20BoilGiantChocolateEgg",
   "recipeStep": "autoBoil",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "docks": [
@@ -25,7 +25,7 @@
   ],
   "duration": 5,
   "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.Stir",
   "effect": "staxel.effect.cooking.Boil",

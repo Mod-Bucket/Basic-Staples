@@ -2,7 +2,7 @@
   "name": "Basic Salad",
   "code": "staxel.crafting.reaction.Auto20BasicSalad",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

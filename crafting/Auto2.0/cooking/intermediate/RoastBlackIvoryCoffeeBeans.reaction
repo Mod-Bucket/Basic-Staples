@@ -2,7 +2,7 @@
 
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.MoreFarmAnimals.Auto20RoastBlackIvoryCoffeeBean",
   "recipeStep": "autoBake",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
 
@@ -17,9 +17,7 @@
         "code": "aaa.mods.mb.BasicStaples.item.crafting.MoreFarmAnimals.RoastedBlackIvoryCoffeeBean",
     }
   ],
-  "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "duration": 5,
   "triggerDockAction": "staxel.entityAction.OpenOvenAction",
   "effect": "staxel.effect.cooking.OvenSmoke",
   "effectTrigger": "staxel.effect.DockItem"

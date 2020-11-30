@@ -2,7 +2,7 @@
   "name": "Chopped Pineapple",
   "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.Auto20ChoppedPineapple",
   "recipeStep": "autoCut",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "docks": [
@@ -23,6 +23,6 @@
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.CutFood",
   "duration": 5,
-  "triggerDurationCraftManually": true,
+  
   "effect": "staxel.effect.cooking.Chop"
 }

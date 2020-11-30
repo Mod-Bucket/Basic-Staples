@@ -2,7 +2,7 @@
   "name": "Bake Chocolate Chip Cookies",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.Auto20BakeCookiesRaisin",
   "recipeStep": "autoBake",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "docks": [
@@ -19,7 +19,7 @@
     }
   ],
   "duration": 5,
-  "triggerDurationCraftManually": true,
+  
   "triggerDockAction": "staxel.entityAction.OpenOvenAction",
   "effect": "staxel.effect.cooking.OvenSmoke",
   "effectTrigger": "staxel.effect.DockItem"

@@ -2,7 +2,7 @@
   "name": "Fried Egg",
   "code": "staxel.crafting.reaction.Auto20SeasonedSalmon",
   "recipeStep": "autoFry",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "docks": [
@@ -22,7 +22,7 @@
     }
   ],
   "duration": 5,
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "effect": "staxel.effect.cooking.Fry",
   "processDrawable": "veggies"

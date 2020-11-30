@@ -2,8 +2,6 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.MoreFarmAnimals.AutoBoilBlackIvoryCoffee",
   "recipeStep": "Auto Boil",
-      "triggerDurationCraftManually": true,
-      "automated": true,
   "tools": [
   ],
   "reagents": [
@@ -22,8 +20,7 @@
   ],
   "duration": 10,
   "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "automated": true,
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.Stir",
   "effect": "staxel.effect.cooking.Boil",

@@ -1,0 +1,28 @@
+{
+  "name": "Chopped Artichoke",
+  "code": "staxel.collector.crafting.reaction.AutoCutArtichoke",
+  "recipeStep": "Auto Chop",
+      
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.ChoppingStation"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "staxel.collector.item.crops.Artichoke"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crops.chopped.ChoppedArtichoke"
+    }
+  ],
+  "moveResultsToSite": "results",
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.CutFood",
+  "duration": 5,
+  
+  "effect": "staxel.effect.cooking.Chop"
+}

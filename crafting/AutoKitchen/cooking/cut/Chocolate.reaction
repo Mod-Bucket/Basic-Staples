@@ -2,8 +2,6 @@
   "name": "Chopped Chocolate",
   "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.AutoChoppedChocolate",
   "recipeStep": "Auto Chop",
-      "triggerDurationCraftManually": true,
-      "automated": true,
   "tools": [],
   "docks": [
     "staxel.tileObject.serverVillage.ChoppingStation"
@@ -23,7 +21,6 @@
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.CutFood",
   "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "automated": true,
   "effect": "staxel.effect.cooking.Chop"
 }

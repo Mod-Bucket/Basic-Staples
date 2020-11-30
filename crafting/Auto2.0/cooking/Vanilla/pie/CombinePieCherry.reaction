@@ -2,7 +2,7 @@
   "name": "Combine Cherry Pie",
   "code": "staxel.crafting.reaction.Auto20CombinePieCherry",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

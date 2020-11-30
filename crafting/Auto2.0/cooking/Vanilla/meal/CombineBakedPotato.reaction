@@ -2,7 +2,7 @@
   "name": "Combine Baked Potato",
   "code": "staxel.crafting.reaction.Auto20CombineBakedPotato",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

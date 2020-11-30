@@ -1,0 +1,31 @@
+{
+  "name": "Nettle Soup",
+  "code": "staxel.collector.crafting.reaction.AutoSoupNettle",
+  "recipeStep": "Auto Boil",
+      
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BoilingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Milk"
+    },
+    {
+      "code": "staxel.collector.item.crops.PurpleNettle",
+      "quantity": 2
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.SoupNettle"
+    }
+  ],
+  "duration": 5,
+  "moveResultsToSite": "results",
+  
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "milk"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Raisins",
+  "code": "staxel.collector.crafting.reaction.AutoRaisins",
+  "recipeStep": "Auto Bake",
+      
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.collector.item.crops.Grape",
+      "count": 1
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.Raisins"
+    }
+  ],
+  "duration": 10,
+  
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockBakedItem"
+}

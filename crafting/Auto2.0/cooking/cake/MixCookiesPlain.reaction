@@ -2,7 +2,7 @@
   "name": "Mix Plain Cookies Dough",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.Auto20MixCookiesPlain",
   "recipeStep": "autoMix",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
 
@@ -19,9 +19,7 @@
     "code": "aaa.mods.mb.BasicStaples.item.crafting.intermediate.CookiePlainUnbaked",
 	}
   ],
-  "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "moveResultsToSite": "results",
   "effectTrigger": "staxel.effect.DockItem",
   "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
   "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",

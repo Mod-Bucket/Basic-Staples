@@ -2,7 +2,7 @@
   "name": "Mix Ice Cream",
   "code": "staxel.crafting.reaction.Auto20PlainIceCream",
   "recipeStep": "autoMix",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "docks": [
@@ -29,7 +29,7 @@
   ],
   "moveResultsToSite": "results",
   "duration": 5,
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
   "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",

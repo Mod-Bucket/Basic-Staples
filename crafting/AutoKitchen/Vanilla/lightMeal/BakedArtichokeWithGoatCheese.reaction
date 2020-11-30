@@ -1,0 +1,26 @@
+{
+  "name": "Baked Artichoke With Goat Cheese",
+  "code": "staxel.collector.crafting.reaction.AutoBakedArtichokeWithGoatCheese",
+  "recipeStep": "Auto Bake",
+      
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.collector.item.crafting.meal.UnbakedArtichokeWithGoatCheese"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.meal.BakedArtichokeWithGoatCheese"
+    }
+  ],
+  "duration": 10,
+  
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockBakedItem"
+}

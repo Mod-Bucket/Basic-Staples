@@ -1,0 +1,13 @@
+{
+    "file": "staxel/collector/crafting/recipes/cooking/candy/ChocoChipCookies.recipe",
+    "priority": 2, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1355,
+    "value": 2100
+  },
+    }
+}

@@ -1,7 +1,7 @@
 {
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.Auto20FrySweetPotatoChips",
   "recipeStep": "autoFry",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "reagents": [
@@ -20,9 +20,7 @@
       "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.SweetPotatoChips",
     }
   ],
-  "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "duration": 5,
   "effectTrigger": "staxel.effect.DockItem",
   "effect": "staxel.effect.cooking.Fry",
   "processDrawable": "veggies"

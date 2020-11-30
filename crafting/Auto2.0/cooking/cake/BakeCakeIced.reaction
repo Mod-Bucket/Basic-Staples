@@ -2,7 +2,7 @@
   "name": "Bake Iced Cake",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.Auto20BakeCakeIced",
   "recipeStep": "autoBake",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
 
@@ -21,9 +21,7 @@
       "code": "staxel.item.crafting.IcedCake"
     }
   ],
-  "duration": 10,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "duration": 10,
   "triggerDockAction": "staxel.entityAction.OpenOvenAction",
   "effect": "staxel.effect.cooking.OvenSmoke",
   "effectTrigger": "staxel.effect.DockItem"

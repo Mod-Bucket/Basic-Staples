@@ -2,7 +2,7 @@
   "name": "Mint Jam",
   "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.preserves.Auto20JamMint",
   "recipeStep": "autoBoil",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
 
@@ -24,7 +24,7 @@
   ],
   "duration": 5,
   "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.Stir",
   "effect": "staxel.effect.cooking.Boil",

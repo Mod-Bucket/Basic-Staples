@@ -1,0 +1,32 @@
+{
+  "name": "Couscous",
+  "code": "staxel.collector.crafting.reaction.Auto20Couscous",
+  "recipeStep": "autoMix",
+      
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PlainFlour"
+    },
+    {
+      "code": "staxel.item.crafting.WaterJar"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.Couscous"
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

@@ -3,8 +3,6 @@
   "name": "Mix Giant Sugar Egg",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.EasterFest.AutoMixGiantSugarEgg",
   "recipeStep": "Auto Mix",
-      "triggerDurationCraftManually": true,
-      "automated": true,
   "docks": [
     "staxel.tileObject.serverVillage.MixingStation"
   ],
@@ -34,7 +32,7 @@
     }
   ],
   "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
+  "automated": true,
   "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
   "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
   "duration": 5,

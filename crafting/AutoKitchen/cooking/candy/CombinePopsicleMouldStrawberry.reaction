@@ -2,7 +2,6 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.AutoCombinePopsicleMouldStrawberry",
   "recipeStep": "Auto Combine",
-      "triggerDurationCraftManually": true,
 	  "duration": 1,
       "automated": true,
   "tools": [],

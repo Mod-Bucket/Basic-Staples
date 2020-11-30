@@ -2,8 +2,6 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.AutoMixCookingOil",
   "recipeStep": "Auto Mix",
-      "triggerDurationCraftManually": true,
-      "automated": true,
   "tools": [],
   "docks": [
     "staxel.tileObject.serverVillage.MixingStation"
@@ -26,8 +24,7 @@
   ],
   "moveResultsToSite": "results",
   "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "automated": true,
   "effectTrigger": "staxel.effect.DockItem",
   "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
   "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",

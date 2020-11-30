@@ -2,8 +2,6 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.AutoBakeBread",
   "recipeStep": "Auto Bake",
-      "triggerDurationCraftManually": true,
-      "automated": true,
   "tools": [
   ],
   "docks": [
@@ -20,7 +18,7 @@
     }
   ],
   "duration": 10,
-  "triggerDurationCraftManually": true,
+  
       "automated": true,
   "triggerDockAction": "staxel.entityAction.OpenOvenAction",
   "effect": "staxel.effect.cooking.OvenSmoke",

@@ -2,8 +2,6 @@
   "name": "Mix Chocolate Chip Muffins Batter",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.intermediate.AutoMixMuffinChocolateChip",
   "recipeStep": "Auto Mix",
-      "triggerDurationCraftManually": true,
-      "automated": true,
   "tools": [],
   "docks": [
     "staxel.tileObject.serverVillage.MixingStation"
@@ -25,8 +23,7 @@
 	}
   ],
   "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "automated": true,
   "effectTrigger": "staxel.effect.DockItem",
   "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
   "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",

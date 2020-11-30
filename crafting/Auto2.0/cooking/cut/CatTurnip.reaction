@@ -2,7 +2,7 @@
   "name": "Chopped Strawberries",
   "code": "aaa.mods.mb.BasicStaples.crafting.reaction.cooking.cut.Auto20ChoppedCatTurnip",
   "recipeStep": "autoCut",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "requirements": [],
@@ -19,8 +19,6 @@
   "moveResultsToSite": "results",
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.CutFood",
-  "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "duration": 5,
   "effect": "staxel.effect.cooking.Chop"
 }

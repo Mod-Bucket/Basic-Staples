@@ -1,0 +1,30 @@
+{
+  "name": "Nettle Tea",
+  "code": "staxel.collector.crafting.reaction.AutoNettleTea",
+  "recipeStep": "Auto Boil",
+      
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.WaterJar"
+    },
+    {
+      "code": "staxel.collector.item.crops.PurpleNettle",
+      "quantity": 2
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.NettleTea",
+      "quantity": 2
+    }
+  ],
+  "duration": 10,
+  "moveResultsToSite": "results",
+  
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "syrup"
+}

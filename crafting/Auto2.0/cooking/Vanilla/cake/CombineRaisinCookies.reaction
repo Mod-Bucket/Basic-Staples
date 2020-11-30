@@ -1,0 +1,25 @@
+{
+  "name": "Raisin Cookies",
+  "code": "staxel.collector.crafting.reaction.Auto20CookiesRaisins",
+    "recipeStep": "autoCombine",
+      
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.CookiesPlain",
+      "quantity": 3
+    },
+    {
+      "code": "staxel.collector.item.crafting.Raisins"
+    },
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.CookiesRaisins",
+      "quantity": 3
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

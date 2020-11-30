@@ -1,7 +1,7 @@
 {
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.AutoFryBreadSlice",
   "recipeStep": "Auto Fry",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "reagents": [
@@ -18,7 +18,7 @@
     }
   ],
   "duration": 5,
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "effect": "staxel.effect.cooking.Fry",
   "processDrawable": "veggies"

@@ -2,7 +2,7 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.candy.Auto20CombinePopsicleChocoLime",
   "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 1,
       "automated": true,
   "tools": [],

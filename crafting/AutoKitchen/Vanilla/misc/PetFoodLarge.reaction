@@ -1,0 +1,39 @@
+{
+  "name": "Mix Pet Food Large",
+  "code": "staxel.collector.crafting.reaction.AutoPetFoodLarge",
+  "recipeStep": "Auto Mix",
+      
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Bacon",
+      "quantity": 2
+    },
+    {
+      "code": "staxel.item.crops.Oat",
+      "quantity": 2
+    },
+    {
+      "code": "staxel.collector.item.crafting.GoatMilk",
+      "quantity": 2
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.pets.PetFoodLarge",
+      "quantity": 8
+    }
+  ],
+  "moveResultsToSite": "results",
+  
+  "duration": 5,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

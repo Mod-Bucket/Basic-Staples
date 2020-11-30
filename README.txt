@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.3
+Version 1.3.02
 
 A mod for Staxel.
 
@@ -206,12 +206,19 @@ toketsupuurin:
 
 ============
 
-Know Bugs:
+Known Bugs:
 	- Roses don't drop Rosehips. Will have to look into.
 
 ============
 
 Versions
+
+1.3.02
+	- Fixed the golden pineapple so that it no longer appears in mixed seeds.
+	- Fixed some problems in automated recipes. This might have caused other problems. Please report any recipes that don't automate as expected.
+
+1.3.01
+	- Fixed lucky box flags so they should actually work now.
 
 1.3
 	- Roasted coffee beans are no longer available in the catalog from start.
@@ -219,11 +226,12 @@ Versions
 	- added workbenches to building store.
 	- "Bread Dough" changed to "Dough". Art changed to be more generic.
 	- Pineapple, Golden Pineapple, and Sliced Pineapple added. Rosehips added.
+	- Pineapple seeds added to store shelves.
 	- Added to cornucopia: Pineapple, Goat Milk, Brown Feather, Artichoke, Purple Nettle, Grapes, Rhubarb.
 	- Added to Herb Garden: Rosehip, Raw Birch Wood.
 	- Herb garden is harvestable every 7 days now.
 	- Sliced Pineapple can be used to make candy.
-	- Piña Colada added and put in Drinks 1. Added Birch Tea and Rosehip Tea.
+	- Piña Colada and Rosehip Tea added They are presently not in cookbooks. Added Birch Tea to Galaxy Cookbook.
 	- Added "Secret Ingredient" to the catalogue. If you've already finished the quest you might need to buy one from him to unlock it.
 	- Corrected Cooking Oil Recipe to accurately reflect the number of crops you REALLY need.
 	- Made cheesecloth buyable from the catalog.
@@ -239,7 +247,11 @@ Versions
 	- Orange Pie is now properly patched.
 	- DEPRECATED Cheesecake, Iced Cake and Raspberry Pie decorative Stands. Vanilla has them now. They're still in the mod for those using them but you can't buy or search for them.
 	- Lolipop Recipe restored to vanilla because I apparently can't read.
-	TO DO - ADD STUFF TO COOKBOOKS!!!
+	- Added automated recipes for Auto Kitchen and the 2.0 Automated stations. 
+	- Updated Dummy Icons to be more representative of their group.
+	- Added Galaxy Cookbook. Contains all Hideaway Hollow recipes and any Staples recipes created based on Hideaway Hollow items. It's locked until you unlock goats or unlock the new VIP merchant. (Staples adds a new recipe for Rennet, Goat Cheese, and Birch Tea. I do recommend just buying the cookbook. It's cheaper.)
+	- All Staples recipes are now available in different stores (unless it's a starter recipe.) 
+	- Leif likes more stuff.
 
 	
 1.2.2

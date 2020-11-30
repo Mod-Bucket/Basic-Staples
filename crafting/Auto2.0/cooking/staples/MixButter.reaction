@@ -1,0 +1,26 @@
+{
+  "name": "Butter",
+  "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.Auto20Butter",
+  "recipeStep": "autoMix",
+      
+      "automated": true,
+  "tools": [],
+
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Cream"
+    }
+  ],
+  "results": [
+    {
+	  "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.MixButter",
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

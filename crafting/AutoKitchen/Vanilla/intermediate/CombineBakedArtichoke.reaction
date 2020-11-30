@@ -1,0 +1,29 @@
+{
+  "name": "Combine Baked Artichoke",
+  "code": "staxel.collector.crafting.reaction.AutoCombineBakedArtichoke",
+    "recipeStep": "Auto Combine",
+      
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.collector.item.crops.chopped.ChoppedArtichoke"
+    },
+    {
+      "code": "staxel.collector.item.crafting.GoatCheese"
+    },
+    {
+      "code": "staxel.item.crafting.Salt"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.meal.UnbakedArtichokeWithGoatCheese"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

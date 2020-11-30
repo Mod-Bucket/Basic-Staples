@@ -2,7 +2,7 @@
   "name": "Combine Apple Pie",
   "code": "staxel.crafting.reaction.Auto20CombinePieApple",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

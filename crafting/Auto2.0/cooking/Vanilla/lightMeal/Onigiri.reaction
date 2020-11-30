@@ -2,7 +2,7 @@
   "name": "Combine Onigiri",
   "code": "staxel.crafting.reaction.Auto20Onigiri",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

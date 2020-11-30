@@ -2,7 +2,7 @@
   "name": "Combine Peach Pie",
   "code": "staxel.crafting.reaction.Auto20CombinePiePeach",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

@@ -1,8 +1,6 @@
 {
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.lightMeal.AutoFryCrispyEggplant",
   "recipeStep": "Auto Fry",
-      "triggerDurationCraftManually": true,
-      "automated": true,
   "tools": [],
   "reagents": [
     {
@@ -21,8 +19,7 @@
     }
   ],
   "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "automated": true,
   "effectTrigger": "staxel.effect.DockItem",
   "effect": "staxel.effect.cooking.Fry",
   "processDrawable": "veggies"

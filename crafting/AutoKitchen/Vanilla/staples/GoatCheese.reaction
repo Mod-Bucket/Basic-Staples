@@ -1,0 +1,32 @@
+{
+  "name": "Make GoatCheese",
+  "code": "staxel.collector.crafting.reaction.AutoGoatCheese",
+  "recipeStep": "Auto Boil",
+      
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BoilingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.collector.item.crafting.GoatMilk",
+      "quantity": 3
+    },
+    {
+      "code": "staxel.item.crafting.Salt",
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.GoatCheese"
+    }
+  ],
+  "duration": 15,
+  "moveResultsToSite": "results",
+  
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "water"
+}

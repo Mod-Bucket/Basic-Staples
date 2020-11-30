@@ -1,7 +1,7 @@
 {
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.Auto20FryPancakes",
   "recipeStep": "autoFry",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "reagents": [
@@ -23,9 +23,7 @@
       "code": "aaa.mods.mb.BasicStaples.item.complete.cake.StrawberryBananaPancakes",
     }
   ],
-  "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "duration": 5,
   "effectTrigger": "staxel.effect.DockItem",
   "effect": "staxel.effect.cooking.Fry",
   "processDrawable": "veggies"

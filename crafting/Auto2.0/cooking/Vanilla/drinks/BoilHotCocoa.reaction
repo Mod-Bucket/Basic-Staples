@@ -1,0 +1,32 @@
+{
+  "name": "Hot Cocoa",
+  "code": "staxel.collector.crafting.reaction.Auto20HotCocoa",
+  "recipeStep": "autoBoil",
+      
+      "automated": true,
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Milk"
+    },
+    {
+      "code": "staxel.item.crafting.CandyChocolateBar"
+    },
+    {
+      "code": "staxel.item.crafting.WhiteSugar"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.HotCocoa",
+      "quantity": 2
+    }
+  ],
+  "duration": 10,
+  "moveResultsToSite": "results",
+  
+  "effectTrigger": "staxel.effect.DockItem",
+  "action": "staxel.entityAction.Stir",
+  "effect": "staxel.effect.cooking.Boil",
+  "processDrawable": "syrup"
+}

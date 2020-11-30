@@ -2,7 +2,7 @@
   "name": "RoyalIcing",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.Auto20MixRoyalIcing",
   "recipeStep": "autoMix",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
 
@@ -27,9 +27,7 @@
     }
   ],
   "moveResultsToSite": "results",
-  "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "duration": 5,
   "effectTrigger": "staxel.effect.DockItem",
   "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
   "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",

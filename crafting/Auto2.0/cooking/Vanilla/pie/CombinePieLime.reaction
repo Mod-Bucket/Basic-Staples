@@ -2,7 +2,7 @@
   "name": "Combine Lime Pie",
   "code": "staxel.crafting.reaction.Auto20CombinePieLime",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

@@ -2,7 +2,7 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.Auto20BoilHotCocoa2",
   "recipeStep": "autoBoil",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [
   ],
@@ -25,7 +25,7 @@
   ],
   "duration": 10,
   "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.Stir",
   "effect": "staxel.effect.cooking.Boil",

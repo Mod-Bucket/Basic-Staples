@@ -1,0 +1,26 @@
+{
+  "name": "Combine Rhubarb Pie",
+  "code": "staxel.collector.crafting.reaction.Auto20CombinePieRhubarb",
+    "recipeStep": "autoCombine",
+      
+	  "duration": 5,
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PieCrust"
+    },
+    {
+      "code": "staxel.collector.item.crops.Rhubarb"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.PieRhubarbUnbaked"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}

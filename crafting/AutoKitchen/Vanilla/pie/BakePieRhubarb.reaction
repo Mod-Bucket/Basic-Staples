@@ -1,0 +1,26 @@
+{
+  "name": "Bake Rhubarb Pie",
+  "code": "staxel.collector.crafting.reaction.AutoBakePieRhubarb",
+  "recipeStep": "Auto Bake",
+      
+      "automated": true,
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.BakingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.collector.item.crafting.PieRhubarbUnbaked"
+    }
+  ],
+  "results": [
+    {
+      "code": "staxel.collector.item.crafting.PieRhubarb"
+    }
+  ],
+  "duration": 10,
+  
+  "triggerDockAction": "staxel.entityAction.OpenOvenAction",
+  "effect": "staxel.effect.cooking.OvenSmoke",
+  "effectTrigger": "staxel.effect.DockBakedItem"
+}

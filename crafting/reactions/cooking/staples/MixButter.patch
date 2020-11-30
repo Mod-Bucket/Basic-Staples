@@ -1,0 +1,14 @@
+{
+    "file": "staxel/crafting/reactions/cooking/intermediate/Butter.reaction",
+    "priority": 500, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+
+  "results": [
+    {
+	  "reactionTreasure": "aaa.mods.mb.BasicStaples.treasure.MixButter",
+    }
+  ],
+  
+    }
+}

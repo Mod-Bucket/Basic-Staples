@@ -2,7 +2,7 @@
   "name": "Combine Bacon Sandwich",
   "code": "staxel.crafting.reaction.Auto20CombineBaconSandwich",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

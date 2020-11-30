@@ -2,8 +2,6 @@
   "name": "ChocolateBar",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.EasterFest.AutoChocolateBar",
   "recipeStep": "Auto Boil",
-      "triggerDurationCraftManually": true,
-      "automated": true,
   "tools": [],
   "reagents": [
     {
@@ -18,8 +16,7 @@
   ],
   "duration": 5,
   "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "automated": true,
   "effectTrigger": "staxel.effect.DockItem",
   "action": "staxel.entityAction.Stir",
   "effect": "staxel.effect.cooking.Boil",

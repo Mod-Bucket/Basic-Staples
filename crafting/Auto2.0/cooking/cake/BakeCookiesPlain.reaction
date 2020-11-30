@@ -2,7 +2,7 @@
   "name": "Bake Plain Cookies",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.cake.Auto20BakeCookiesPlain",
   "recipeStep": "autoBake",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
 
@@ -16,9 +16,7 @@
       "code": "staxel.item.crafting.CookiesPlain",
     }
   ],
-  "duration": 5,
-  "triggerDurationCraftManually": true,
-      "automated": true,
+  "duration": 5,
   "triggerDockAction": "staxel.entityAction.OpenOvenAction",
   "effect": "staxel.effect.cooking.OvenSmoke",
   "effectTrigger": "staxel.effect.DockItem"

@@ -2,7 +2,7 @@
   "name": "Combine Fruit Salad",
   "code": "staxel.crafting.reaction.Auto20Sushi",
     "recipeStep": "autoCombine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 5,
       "automated": true,
   "tools": [],

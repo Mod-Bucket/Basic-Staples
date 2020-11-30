@@ -2,7 +2,7 @@
   "name": "Egg Fried Rice",
   "code": "staxel.crafting.reaction.Auto20EggFriedRice",
   "recipeStep": "autoFry",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "docks": [
@@ -28,7 +28,7 @@
     }
   ],
   "duration": 5,
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "effect": "staxel.effect.cooking.Fry",
   "processDrawable": "veggies"

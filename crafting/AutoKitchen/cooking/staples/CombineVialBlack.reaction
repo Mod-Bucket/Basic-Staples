@@ -2,7 +2,7 @@
   "__inherits": "staxel/crafting/reactions/crafting/craft.config",
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.staples.AutoCombineVialBlack",
   "recipeStep": "Auto Combine",
-      "triggerDurationCraftManually": true,
+      
 	  "duration": 3,
       "automated": true,
   "tools": [

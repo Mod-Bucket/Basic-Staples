@@ -1,7 +1,6 @@
 {
   "code": "aaa.mods.mb.BasicStaples.crafting.reactions.cooking.drinks.AutoMixPinaColada",
   "recipeStep": "Auto Mix",
-      "triggerDurationCraftManually": true,
       "automated": true,
   "tools": [],
   "docks": [
@@ -24,7 +23,7 @@
     }
   ],
   "moveResultsToSite": "results",
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
   "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",

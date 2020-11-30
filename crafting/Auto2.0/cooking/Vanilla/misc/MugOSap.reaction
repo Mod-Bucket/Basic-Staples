@@ -2,7 +2,7 @@
   "name": "Mug O' Sap",
   "code": "staxel.crafting.reaction.Auto20MugOSap",
   "recipeStep": "autoMix",
-      "triggerDurationCraftManually": true,
+      
       "automated": true,
   "tools": [],
   "docks": [
@@ -27,7 +27,7 @@
   ],
   "moveResultsToSite": "results",
   "duration": 5,
-  "triggerDurationCraftManually": true,
+  
   "effectTrigger": "staxel.effect.DockItem",
   "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
   "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
