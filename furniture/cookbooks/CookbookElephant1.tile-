@@ -38,7 +38,8 @@
     "appearsInCatalogue": true,
     "buyable": true,  
     "sellPrice": 11578,
-    "value": 21962
+    "value": 21962,
+	"canBeEarntFromLuckyBox": false,
   },
   "searchable": true,    
   "canBeEarntFromLuckyBox": false,  

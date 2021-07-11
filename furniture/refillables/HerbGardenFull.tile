@@ -16,7 +16,7 @@
     "singleUse": false,
     "treasure": "aaa.mods.mb.BasicStaples.treasure.HerbGarden",
 //	"usedTile": "aaa.mods.mb.BasicStaples.furniture.refillables.HerbGardenEmpty",
-	"daysBeforeReset": 7,
+	"daysBeforeReset": 5,
   },
   "compound": {
     "size": {

@@ -1,18 +1,24 @@
-The Cornucopia, Herb Garden, and Spice Grinder are intended to provide players with a way to get crops, animal products, herbs and spices that they have no other way of getting. They include vanilla objects where possible so that they don't just constantly hand out mod items. 
+The Cornucopia, Herb Garden, Spice Grinder, Mushroom Log, and Tidepool Aquarium are intended to provide players with a way to get crops, animal products, herbs, gatherables, and spices that they have no other way of getting. They include vanilla objects where possible so that they don't just constantly hand out mod items. 
 
 This guide will guide you in adding a product to one of these items.
 
-Cornucopia: The goal is to make modded produce a rare treat. All vanilla produce is included. If you have a crop but no plant that grows the crop (like the peanut) this is the perfect place to add it. You can also add it to merchants and whatnot, but adding it to the cornucopia guarantees your player will get it eventually. Only animal products, or fruit/vegetable crops or nut/seeds should be added here.
+Cornucopia: The goal is to make modded produce a rare treat. All vanilla produce and animal products are included. If you have a crop but no plant that grows the crop (like the peanut) this is the perfect place to add it. You can also add it to merchants and whatnot, but adding it to the cornucopia guarantees your player will get it eventually. Only animal products, or fruit/vegetable crops or nut/seeds should be added here.
 
-Herb Garden: Anything you might reasonably grow in a box on your kitchen window and will use as a flavoring should go here. Mostly it's intended that leaf or flower type plants will go here. (So tea would go here, but spinach wouldn't as that's treated more like a vegetable. Sunflower is used primarily for seeds so it's not here, but decorative flowers would if they can be used for food purposes.) There are no vanilla items here presently. I don't expect to add any but some flowers might make it in someday. To make up for the fact that this doesn't have many items it currently refreshes at a lower rate than the cornucopia. Ideally I'd like the odds to not give any item more than four times a year.
+Herb Garden: Anything you might reasonably grow in a box on your kitchen window and will use as a flavoring should go here. Mostly it's intended that leaf or flower type plants will go here. (So tea would go here, but spinach wouldn't as that's treated more like a vegetable. Sunflower is used primarily for seeds so it's not here, but decorative flowers would if they can be used for food purposes.) To make up for the fact that this doesn't have many items it currently refreshes at a lower rate than the cornucopia. Ideally I'd like the odds to not give any item more than four times a year.
 
-Spice Grinder: This is for anything typically considered a spice. Vanilla, Pepper, cinnamon, etc. Use your best judgement between herbs and spices. Spices are generally more expensive than herbs. If you're likely to powder it, it's more likely to be a spice than an herb. Don't add an item to both the spice grinder and the herb garden. just pick one. To make up for the fact that this doesn't have many items it currently refreshes at a lower rate than the cornucopia. The refresh value will change as more items are added. Ideally I'd like the odds to not give any item more than four times a year.
+Spice Grinder: This is for anything typically considered a spice. Vanilla, Pepper, cinnamon, etc. Use your best judgement between herbs and spices. Spices are generally more expensive than herbs. If you're likely to powder it, it's more likely to be a spice than an herb. Don't add an item to both the spice grinder and the herb garden. Just pick one. To make up for the fact that this doesn't have many items it currently refreshes at a lower rate than the cornucopia. The refresh value will change as more items are added. Ideally I'd like the odds to not give any item more than four times a year.
+
+Mushroom Log: For mushrooms. This is mostly a stop-gap for people who have a low rate of spawns on a certain color of mushroom. Add new mushrooms here.
+
+Tidepool Aquarium: For beach forageables. No fishing junk is here at the moment, that might change someday. 
 
 How to add an item:
 
-Create a treasure pool damed the same as one of these items's pools and add the "Additive" property. (See the modding wiki.) Don't add an item to the pool of more than one of these without a VERY good reason. 
+Create a treasure pool named the same as one of these items's pools and add the "Additive" property. (See the modding wiki.) Don't add an item to the pool of more than one of these without a VERY good reason. 
 
 How to remove an item:
 You can't. Every basic crop or animal product is in one of these items. That said, odds are bad and going to get worse as more stuff is added. 
 
 At initial 1.0 release the player has 1:48 chance of getting any one item. that's basically a 2% chance to get any one particular item. You can expect on average a player will only get 2-3 of your item in a single year if they check their cornucopia every day.
+
+Note that people can totally cheat with these items and constantly break and replace them to get new stuff. If they want to do the work I'm of the opinion they can have it. I find most players get bored and stop doing it after a while.

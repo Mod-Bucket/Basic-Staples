@@ -18,7 +18,7 @@ Third: Basic Staples has some items and recipes that don't appear to the player.
 
 mods\Basic Staples\PatchesToHideIngredientsNotCurrentlyUsed\
 
-If you find an item you want to use, but it has a patch file in this folder make a patch to override the Staples patch. All the priority numbers in this folder are set to a verty low priority so you should have no problems reversing the issue. 
+If you find an item you want to use, but it has a patch file in this folder make a patch to override the Staples patch. All the priority numbers in this folder are set to a very low priority so you should have no problems reversing the issue. 
 
      Some of these items will lose this patch file over time as enough recipes are added to Basic Staples to justify their visible addition to the core mod. This won't impact your mod. The item's code will never change and your patch will then just turn on an item that was already on.
 
@@ -89,8 +89,6 @@ Mini-crafters:
 Coffee recipes are usually boiled, and a boiled recipe should require a jar of water. The makers don't require water. A coffee recipe requires requires at least one "percable" item. Any grounds should be labeled "percable".
 
 Toast is usually fried, and the fried recipe requires butter. No butter is needed for the toaster. A toastable item requires the term "toasting"
-
-
 
 ------
 

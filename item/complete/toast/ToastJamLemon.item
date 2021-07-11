@@ -31,10 +31,11 @@
     "catalogueUnlockedFromStart": false,
     "buyable": false,
     "sellPrice": 440,
-    "value": 733
+    "value": 733,
+	"canBeEarntFromLuckyBox": false,
   },
   "searchable": true,
-  "canBeEarntFromLuckyBox": false,
+  
   "usageOffset": {
     "x": 0.0,
     "y": 0.0,

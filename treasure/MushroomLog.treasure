@@ -1,0 +1,37 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.MushroomLog",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.WhiteMushrooms",
+        }
+      ]
+    },
+	{
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.RedWhiteMushroom",
+        }
+      ]
+    },
+	{
+      "weight": 1.0,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.BrownMushroom",
+        }
+      ]
+    },
+	{
+      "weight": 0.25,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.RareMushroom",
+        }
+      ]
+    },
+  ]
+}

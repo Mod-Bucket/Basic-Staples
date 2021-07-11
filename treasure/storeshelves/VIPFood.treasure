@@ -1,0 +1,70 @@
+{
+  "code": "staxel.treasure.vip.Misc2.Food",
+  "additive": true,
+  "entries": [
+
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.candy.PearPopsicle",
+          "quantity": 3
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.candy.TangerinePopsicle",
+          "quantity": 3
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.candy.ChocoPearPopsicle",
+          "quantity": 3
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.candy.ChocoTangerinePopsicle",
+          "quantity": 3
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.meal.BeetTurnipGratin",
+          "quantity": 3
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.PawCrudites",
+          "quantity": 3
+        },
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.lightMeal.HamAndCheese",
+          "quantity": 3
+        },
+      ]
+    },  
+  ]
+}

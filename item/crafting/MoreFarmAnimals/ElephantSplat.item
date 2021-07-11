@@ -33,10 +33,11 @@
 	"appearsInCatalogue": false,
     "buyable": false,
     "sellPrice": 7,
-    "value": 11
+    "value": 11,
+	"canBeEarntFromLuckyBox": false,
   },
   "searchable": true,
-  "canBeEarntFromLuckyBox": false,
+  
   "throwable": {
     "throwStrength": 8.0
   },

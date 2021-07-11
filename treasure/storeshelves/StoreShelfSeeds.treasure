@@ -12,11 +12,12 @@
       ]
     },
     {
-      "weight": 5,
+      "weight": 10,
       "items": [
         {
           "kind": "staxel.item.Seed",
-          "plant": "aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant"
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant",
+          "quantity": 3
         }
       ]
     },
@@ -25,7 +26,7 @@
       "items": [
         {
           "kind": "staxel.item.Seed",
-          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant",
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Pineapple.plant",
           "quantity": 3
         }
       ]

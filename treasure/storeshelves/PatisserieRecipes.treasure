@@ -1,0 +1,237 @@
+{
+  "code": "staxel.treasure.patisserie.recipes",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.bread.PumbanoatBread",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.StrawberryBananaPancakes",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.PlainMuffins",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.PlainCookies",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.IcedCake",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.ChocolateChipMuffins",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.ChocolateChipCookies",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.BlueberryMuffins",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.StrawberryMuffins",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyChocolateBar",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyArtisanRuby",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyArtisanDark",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyArtisanBlanc",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.MintTea",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.BirchTea",
+        }
+      ],
+      "globalGate": {
+        "global": "AllowRemVIP"
+      }
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.RosehipTea",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.CakeBatter",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.BreadDough",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Bread",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.RoyalIcing",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.MuffinBatter",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Icing",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.CookieDough",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.crafting.wood.CakeRods",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.cake.RaisinCookies",
+        }
+      ],
+      "globalGate": {
+        "global": "AllowRemVIP"
+      }
+    },
+  ]
+}

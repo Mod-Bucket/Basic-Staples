@@ -1,0 +1,15 @@
+{
+    "file": "staxel/plant/bush/RaspberryBush.plant",
+	"patchIfFileExists": "staxel/plant/bush/RaspberryBush.plant",
+    "priority": 2, 
+    "mergeLists": false,
+    "patch": {
+	
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 180,
+    "value": 300
+  },
+    }
+}

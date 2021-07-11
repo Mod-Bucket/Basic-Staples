@@ -1,0 +1,289 @@
+{
+  "code": "staxel.treasure.vip.Misc2.Recipes",
+  "additive": true,
+  "entries": [
+  
+  
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.MoreFarmAnimals.crafting.recipe.BlackIvoryVanillaCoffee",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.MoreFarmAnimals.BlackIvoryCoffee",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.BlueberryPopsicle",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.YellowCandy",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.WhiteCandy",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.TangerinePopsicle",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.StrawberryPopsicle",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.RedCandy",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.PurpleCandy",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.PinkCandy",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.PearPopsicle",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.OrangePopsicle",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.OrangeCandy",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.MintPopsicle",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.LimePopsicle",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.GreenCandy",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.GrapePopsicle",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.BlueCandy",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.ChocoPopsicle",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyCircusPeanutVanilla",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyCircusPeanutLemon",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyCircusPeanutCherry",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyCircusPeanutBanana",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.candy.CandyCircusPeanut",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.misc.TroughFood",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.MoreFarmAnimals.crafting.recipe.ElephantFood",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.misc.ChickenFood",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.lightMeal.PawCrudites",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.meal.MonteCristo",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": 
+"aaa.mods.mb.BasicStaples.crafting.recipe.cooking.meal.BeetTurnipGratin",
+        }
+      ]
+    },	
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.Sprinkles",
+        }
+      ]
+    },
+
+  ]
+}

@@ -1,7 +1,7 @@
 Modbucket presents:
 
 Basic Staples
-Version 1.3.02
+Version 1.3.03
 
 A mod for Staxel.
 
@@ -158,7 +158,7 @@ toketsupuurin:
 - Elephant Trough. Chick Waterer
 - Grapes, Wheat, Mint, Puppy Potato, Edits to Pineapple Plant QB.
 - Mill, Freezer, Cheap Coffee Maker, Coffee Maker
-- Cornucopia, Spice Grinder, Herb Garden (And unused alternates for Cornucopia and Herb Garden.)
+- Cornucopia, Spice Grinder, Herb Garden (And unused alternates for Cornucopia and Herb Garden). Tidepool Aquarium & Mushroom Log.
 - Cake Stand, Cheesecake Stand, Iced Cake Standm Raspberry Pie Stand
 - Cookbooks
 - Dummy Items (Mark Grant's idea. He's a genius!)
@@ -206,12 +206,22 @@ toketsupuurin:
 
 ============
 
-Known Bugs:
-	- Roses don't drop Rosehips. Will have to look into.
-
-============
-
 Versions
+
+1.3.03
+	- fixed some of the jams and marmalades so they actually patch to the correct prices and not Orange Marmalade.
+	- Added patches	so AutoKitchen's mixer will properly output cake batters and not an empty tin.
+	- Roses now drop Rosehips when scythed!
+	- Added Wildberry and Acorn to the Cornucopia.
+	- Moved Sprinkles to the Patisserie. Reduced the weighting of less important mod ingredients.
+	- Added Sugar to Leif's store. Changed the weighting of the less important mod ingredients.
+	- Patched Raspberry seeds to appear in the catalog.
+	- Elephants should not drop from Lucky Boxes anymore.
+	- Creature Buds have been added to the Herb Garden at lower spawn rates.
+	- Added Mushroom Log! It will produce one random mushroom every three days. Rare Mushrooms are rarer. (You can easily get rare mushrooms from the mining portal.)
+	- Added Tidepool Aquarium! It will produce one random beach forageable every 5 days. Drop rates are based off the rarity on the beach.
+	- Mushroom Log and Tidepool Aquarium are on the mod shelf in the general store.
+	- Herb garden now drops every 5 days.
 
 1.3.02
 	- Fixed the golden pineapple so that it no longer appears in mixed seeds.

@@ -9,9 +9,9 @@
 		    "catalogueUnlockedFromStart": false,
 			"buyable": false,
 			"sellPrice": 0,
-			"value": 0
+			"value": 0,
+			"canBeEarntFromLuckyBox": false,
 		  },
 		"searchable": false,
-		"canBeEarntFromLuckyBox": false,
     }
 }

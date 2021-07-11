@@ -22,7 +22,8 @@
     "appearsInCatalogue": false,
     "buyable": false, 
     "sellPrice": 91,
-    "value": 153
+    "value": 153,
+    "canBeEarntFromLuckyBox": false,
   },
   "compound": {
     "size": {
@@ -32,7 +33,6 @@
     }
   },
   "searchable": false,    
-  "canBeEarntFromLuckyBox": false,  
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "voxels": "mods/Basic-Staples/workbenches/HiddenUnlessPatched/Cask.qb"
 }

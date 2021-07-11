@@ -6,8 +6,8 @@
   "pricing": {
     "buyable": true,
     "sellPrice": 183,
-    "value": 306
+    "value": 306,
+    "canBeEarntFromLuckyBox": false,
   },
-  "canBeEarntFromLuckyBox": false,
     }
 }

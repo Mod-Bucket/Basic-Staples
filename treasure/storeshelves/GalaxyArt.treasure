@@ -1,0 +1,15 @@
+{
+  "code": "staxel.collector.treasure.store.GalaxyArt",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookGalaxy",
+        }
+      ],
+    },
+  ]
+}

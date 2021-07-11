@@ -33,10 +33,10 @@
     "appearsInCatalogue": false,
     "buyable": false, 
     "sellPrice": 600,
-    "value": 1000
+    "value": 1000,
+    "canBeEarntFromLuckyBox": false,
   },
-  "searchable": false,    
-  "canBeEarntFromLuckyBox": false,  
+  "searchable": false,  
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "voxels": "mods/Basic-Staples/workbenches/HiddenUnlessPatched/WaffleGriddle.qb"
 }

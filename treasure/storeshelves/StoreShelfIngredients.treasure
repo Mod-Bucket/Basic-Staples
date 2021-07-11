@@ -3,11 +3,65 @@
   "additive": true,
   "entries": [
     {
-      "weight": 1,
+      "weight": .5,
       "items": [
         {
           "kind": "staxel.item.CraftItem",
           "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Pepper",
+        }
+      ]
+    },
+	{
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.PopsicleStick",
+        }
+      ]
+    },
+	{
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.supplies.CheeseCloth",
+        }
+      ]
+    },
+	{
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.CookingOil",
+        }
+      ]
+    },
+	{
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.OatFlour",
+        }
+      ]
+    },
+	{
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Rennet",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "staxel.item.crafting.WhiteSugar"
         }
       ]
     },

@@ -1,0 +1,18 @@
+{
+    "file": "mods/AutoKitchen/crafting/AutoMixCakePlain.reaction",
+	"patchIfFileExists": "mods/AutoKitchen/crafting/AutoMixCakePlain.reaction",
+    "priority": 999, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  
+  "results": [
+    {
+      "code": "staxel.item.crafting.CakeTin_Circle",
+      "contains": [
+        { "code": "staxel.item.crafting.CakePlainBatter" }
+      ]
+    }
+  ],
+
+    }
+}

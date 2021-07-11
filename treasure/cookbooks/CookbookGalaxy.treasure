@@ -1,0 +1,78 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.CookbookGalaxy",
+  "entries": [
+    {
+      "weight": 1.0,
+      "items": [
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.SoupNettle",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.JamRhubarb",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.JamGrape",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.PieRhubarb",
+        },
+	    {
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.Raisins",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.PetFoodLarge",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.NettleTea",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.lightMeal.GoatCheese",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.lightMeal.Couscous",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.lightMeal.Cheese",
+        },
+		{
+          "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.BakedArtichokeWithGoatCheese",
+        },
+		{
+		  "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.CookiesRaisins",
+        },
+		{
+		  "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.HotCocoa",
+        },
+		{
+		  "kind": "staxel.item.Recipe",
+          "recipe": "staxel.collector.crafting.recipes.ChocoChipCookies",
+        },
+		{
+		  "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.staples.GoatCheese",
+        },
+		{
+		  "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.HotCocoa",
+        },
+		{
+		  "kind": "staxel.item.Recipe",
+          "recipe": "aaa.mods.mb.BasicStaples.crafting.recipe.cooking.drinks.BirchTea",
+        },		
+      ]
+    },
+  ]
+}

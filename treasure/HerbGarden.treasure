@@ -33,5 +33,14 @@
         }
       ]
     },
+	{
+      "weight": .25,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.Creaturebud",
+        }
+      ]
+    },
+	
   ]
 }

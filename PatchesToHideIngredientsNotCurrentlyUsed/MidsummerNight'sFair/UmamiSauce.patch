@@ -6,9 +6,9 @@
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "appearsInCatalogue": false,
-    "buyable": false,    
+    "buyable": false,
+    "canBeEarntFromLuckyBox": false,    
   },    
-  "searchable": false,    
-  "canBeEarntFromLuckyBox": false,  
+  "searchable": false,
     }
 }

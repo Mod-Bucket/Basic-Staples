@@ -1,0 +1,30 @@
+{
+  "code": "staxel.treasure.patisserie.display.1",
+  "additive": true,
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.bread.PumbanoatBread",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.MintTea",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "aaa.mods.mb.BasicStaples.item.complete.drinks.RosehipTea",
+        }
+      ]
+    },
+  ]
+}

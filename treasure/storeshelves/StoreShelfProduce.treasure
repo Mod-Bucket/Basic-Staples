@@ -1,0 +1,32 @@
+{
+  "code": "staxel.treasure.storeShelf.produce",
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crops.pineapple",
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crops.Mint",
+        }
+      ]
+    },
+	{
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crops.Peanut",
+        }
+      ]
+    },
+  ]
+}

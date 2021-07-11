@@ -6,8 +6,8 @@
     "dummy",
   ],
   "code": "aaa.mods.mb.BasicStaples.item.dummy.AnyPopsicle",
-  "icon": "mods/Basic-Staples/item/dummy/Dummy.qb",
-  "inHand": "mods/Basic-Staples/item/dummy/Dummy.qb",
+  "icon": "mods/Basic-Staples/item/dummy/DummyPopsicle.qb",
+  "inHand": "mods/Basic-Staples/item/dummy/DummyPopsicle.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,
@@ -25,10 +25,10 @@
 	"appearsInCatalogue": false, 
 	"buyable": false, 
     "sellPrice": 1,
-    "value": 2
+    "value": 2,
+    "canBeEarntFromLuckyBox": false,
   },
   "searchable": false, 
-  "canBeEarntFromLuckyBox": false,
   "usageOffset": {
     "x": 0.0,
     "y": 0.0,

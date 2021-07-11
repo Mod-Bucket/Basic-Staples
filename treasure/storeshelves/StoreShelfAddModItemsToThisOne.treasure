@@ -37,6 +37,23 @@
           "tile": "aaa.mods.mb.BasicStaples.furniture.refillables.SpiceGrinderFull",
         }
       ]
+    },    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.refillables.MushroomLogFull",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.refillables.TidepoolAquariumFull",
+        }
+      ]
     },
 	{
       "weight": 1,
@@ -136,6 +153,18 @@
           "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookPreserves1",
         }
       ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+		  "kind": "staxel.item.Placer",
+          "tile": "aaa.mods.mb.BasicStaples.furniture.cookbooks.tile.CookbookGalaxy",
+        }
+      ],
+      "globalGate": {
+        "global": "sellGoat",
+      }
     },
   ]
 }

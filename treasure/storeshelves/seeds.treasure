@@ -16,7 +16,7 @@
       "items": [
         {
           "kind": "staxel.item.Seed",
-          "plant": "aaa.mods.mb.BasicStaples.plant.bush.Grapes.plant"
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant"
         }
       ]
     },
@@ -25,7 +25,7 @@
       "items": [
         {
           "kind": "staxel.item.Seed",
-          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Wheat.plant"
+          "plant": "aaa.mods.mb.BasicStaples.plant.crops.Pineapple.plant",
         }
       ]
     },

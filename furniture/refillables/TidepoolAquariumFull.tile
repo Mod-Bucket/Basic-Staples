@@ -1,0 +1,46 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": true,
+  "categories": [
+	"Basic Staples",
+	"Mod Bucket",
+	"furniture",
+	"plant",
+    "refillable",
+	"producer",
+	"crops",
+	"produce",
+	"aquarium",
+	"glass",
+	"shell",
+	"sea",
+	"beach",
+	"product"
+  ],
+  "code": "aaa.mods.mb.BasicStaples.furniture.refillables.TidepoolAquariumFull",
+  "lootable": {
+    "petals": -1,
+    "singleUse": false,
+    "treasure": "aaa.mods.mb.BasicStaples.treasure.TidepoolAquarium",
+//	"usedTile": "aaa.mods.mb.BasicStaples.furniture.refillables.TidepoolAquariumEmpty",
+	"daysBeforeReset": 5,
+  },
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    },
+    "specification": "CC XC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10000,
+    "value": 100000,
+  },
+  "searchable": true,
+  "randomizeVerticalPosition": false,
+  "tileStateKind": "staxel.tileState.Lootable",
+  "voxels": "mods/Basic-Staples/furniture/refillables/TidepoolAquariumFull.qb",
+}

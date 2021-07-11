@@ -1,0 +1,75 @@
+{
+  "code": "aaa.mods.mb.BasicStaples.treasure.TidepoolAquarium",
+  "entries": [
+    {
+      "weight": .25,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.SwirlyShell"
+        }
+      ]
+    },
+	{
+      "weight": .25,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.Starfish"
+        }
+      ]
+    },
+	{
+      "weight": .125,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.Seaweed"
+        }
+      ]
+    },
+	{
+      "weight": .25,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.RedCoral"
+        }
+      ]
+    },
+	{
+      "weight": .125,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.PearlShell"
+        }
+      ]
+    },
+	{
+      "weight": .04,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.PawShell"
+        }
+      ]
+    },
+	{
+      "weight": .25,
+      "items": [
+        {
+          "kind": "staxel.item.Placer",
+          "tile": "staxel.tileObject.gatherable.HermitShell"
+        }
+      ]
+    },
+	{
+      "weight": .01,
+      "items": [
+        {
+          "code": "staxel.item.gatherable.StarJelly"
+        }
+      ]
+    },
+  ]
+}

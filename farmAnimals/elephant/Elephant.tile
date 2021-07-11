@@ -12,7 +12,8 @@
     "catalogueUnlockedFromStart": false,
     "buyable": true,
     "sellPrice": 9000,
-    "value": 15000
+    "value": 15000,
+    "canBeEarntFromLuckyBox": false,
   },
   "searchable": true,
   "spawner": {

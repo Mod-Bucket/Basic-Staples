@@ -30,8 +30,8 @@
 // Watermelon
 //
 
-  "icon": "mods/Basic-Staples/item/dummy/Dummy.qb",
-  "inHand": "mods/Basic-Staples/item/dummy/Dummy.qb",
+  "icon": "mods/Basic-Staples/item/dummy/DummyFruit.qb",
+  "inHand": "mods/Basic-Staples/item/dummy/DummyFruit.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,
@@ -49,10 +49,10 @@
 	"appearsInCatalogue": false, 
 	"buyable": false, 
     "sellPrice": 1,
-    "value": 2
+    "value": 2,
+    "canBeEarntFromLuckyBox": false,
   },
   "searchable": false, 
-  "canBeEarntFromLuckyBox": false,
   "usageOffset": {
     "x": 0.0,
     "y": 0.0,

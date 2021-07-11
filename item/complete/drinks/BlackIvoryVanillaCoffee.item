@@ -37,10 +37,11 @@
 	"appearsInCatalogue": true,
     "buyable": true,
     "sellPrice": 1366,
-    "value": 2088
+    "value": 2088,
+	"canBeEarntFromLuckyBox": false,
   },
   "searchable": true,
-  "canBeEarntFromLuckyBox": false,  
+    
   "usageOffset": {
     "x": 0.0,
     "y": 0.0,

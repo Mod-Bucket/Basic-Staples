@@ -34,7 +34,8 @@
     "buyable": false,
     "catalogueUnlockedFromStart": false,
     "sellPrice": 15,
-    "value": 20
+    "value": 20,
+	"canBeEarntFromLuckyBox": false,
   },
   "searchable": true,
   "secondaryIcon": "mods/Basic-Staples/item/crafting/EasterFest/ChocolateEgg.qb",

@@ -1,0 +1,32 @@
+{
+  "code": "staxel.treasure.patisserie.ingredients",
+  "entries": [
+    {
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "staxel.item.crafting.BrownSugar",
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.RoyalIcing",
+        }
+      ]
+    },
+	{
+      "weight": .5,
+      "items": [
+        {
+          "kind": "staxel.item.CraftItem",
+          "code": "aaa.mods.mb.BasicStaples.item.crafting.staples.Sprinkles",
+        }
+      ]
+    },
+  ]
+}
